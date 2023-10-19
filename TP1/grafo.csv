@@ -1,0 +1,2853 @@
+Source,Target,Type,Id,Label,Weight,value
+Papua New Guinea,Australia,Undirected,5704,,19,19
+Papua New Guinea,Philippines,Undirected,5705,,5,5
+Papua New Guinea,Indonesia,Undirected,5706,,2,2
+Papua New Guinea,Solomon Islands,Undirected,5707,,2,2
+Papua New Guinea,Hong Kong,Undirected,5708,,2,2
+Papua New Guinea,Fiji,Undirected,5709,,2,2
+Papua New Guinea,Japan,Undirected,5710,,2,2
+Papua New Guinea,Singapore,Undirected,5711,,2,2
+Papua New Guinea,China,Undirected,5712,,1,1
+Papua New Guinea,Micronesia,Undirected,5713,,1,1
+Greenland,Denmark,Undirected,5714,,2,2
+Greenland,Iceland,Undirected,5715,,5,5
+Iceland,Finland,Undirected,5716,,4,4
+Iceland,Norway,Undirected,5717,,11,11
+Iceland,Netherlands,Undirected,5718,,6,6
+Iceland,Sweden,Undirected,5719,,2,2
+Iceland,Denmark,Undirected,5720,,10,10
+Iceland,United States,Undirected,5721,,20,20
+Iceland,Belgium,Undirected,5722,,2,2
+Iceland,France,Undirected,5723,,8,8
+Iceland,Germany,Undirected,5724,,15,15
+Iceland,United Kingdom,Undirected,5725,,25,25
+Iceland,Canada,Undirected,5726,,5,5
+Iceland,Switzerland,Undirected,5727,,2,2
+Iceland,Spain,Undirected,5728,,9,9
+Iceland,Ireland,Undirected,5729,,1,1
+Iceland,Faroe Islands,Undirected,5730,,1,1
+Iceland,Hungary,Undirected,5731,,1,1
+Iceland,Poland,Undirected,5732,,5,5
+Iceland,Latvia,Undirected,5733,,1,1
+Iceland,Austria,Undirected,5734,,3,3
+Iceland,Lithuania,Undirected,5735,,1,1
+Iceland,Czech Republic,Undirected,5736,,2,2
+Canada,China,Undirected,5737,,40,40
+Canada,Belgium,Undirected,5738,,15,15
+Canada,Jordan,Undirected,5739,,6,6
+Canada,United States,Undirected,5740,,919,919
+Canada,United Kingdom,Undirected,5741,,87,87
+Canada,Japan,Undirected,5742,,24,24
+Canada,Antigua and Barbuda,Undirected,5743,,7,7
+Canada,Aruba,Undirected,5744,,4,4
+Canada,United Arab Emirates,Undirected,5745,,8,8
+Canada,Dominican Republic,Undirected,5746,,46,46
+Canada,Spain,Undirected,5747,,14,14
+Canada,Bermuda,Undirected,5748,,4,4
+Canada,Barbados,Undirected,5749,,6,6
+Canada,Colombia,Undirected,5750,,10,10
+Canada,Cuba,Undirected,5751,,78,78
+Canada,France,Undirected,5752,,52,52
+Canada,Denmark,Undirected,5753,,6,6
+Canada,Mexico,Undirected,5754,,167,167
+Canada,Ireland,Undirected,5755,,9,9
+Canada,Italy,Undirected,5756,,22,22
+Canada,Martinique,Undirected,5757,,2,2
+Canada,Germany,Undirected,5758,,45,45
+Canada,Cayman Islands,Undirected,5759,,4,4
+Canada,Bahamas,Undirected,5760,,10,10
+Canada,Grenada,Undirected,5761,,4,4
+Canada,Brazil,Undirected,5762,,6,6
+Canada,Switzerland,Undirected,5763,,20,20
+Canada,Hong Kong,Undirected,5764,,8,8
+Canada,South Korea,Undirected,5765,,10,10
+Canada,Turkey,Undirected,5766,,7,7
+Canada,Jamaica,Undirected,5767,,30,30
+Canada,Peru,Undirected,5768,,4,4
+Canada,Costa Rica,Undirected,5769,,14,14
+Canada,Haiti,Undirected,5770,,4,4
+Canada,Turks and Caicos Islands,Undirected,5771,,6,6
+Canada,Guadeloupe,Undirected,5772,,2,2
+Canada,Chile,Undirected,5773,,2,2
+Canada,Australia,Undirected,5774,,8,8
+Canada,Israel,Undirected,5775,,6,6
+Canada,Saint Lucia,Undirected,5776,,6,6
+Canada,Austria,Undirected,5777,,8,8
+Canada,Poland,Undirected,5778,,4,4
+Canada,New Zealand,Undirected,5779,,4,4
+Canada,Algeria,Undirected,5780,,4,4
+Canada,Morocco,Undirected,5781,,4,4
+Canada,El Salvador,Undirected,5782,,2,2
+Canada,Taiwan,Undirected,5783,,8,8
+Canada,Guyana,Undirected,5784,,4,4
+Canada,Trinidad and Tobago,Undirected,5785,,6,6
+Canada,Panama,Undirected,5786,,6,6
+Canada,Netherlands,Undirected,5787,,24,24
+Canada,Ethiopia,Undirected,5788,,2,2
+Canada,Tunisia,Undirected,5789,,2,2
+Canada,Egypt,Undirected,5790,,2,2
+Canada,Saint Pierre and Miquelon,Undirected,5791,,6,6
+Canada,Pakistan,Undirected,5792,,6,6
+Canada,Philippines,Undirected,5793,,3,3
+Canada,Qatar,Undirected,5794,,2,2
+Canada,Portugal,Undirected,5795,,28,28
+Canada,Russia,Undirected,5796,,4,4
+Canada,Saudi Arabia,Undirected,5797,,2,2
+Canada,Greece,Undirected,5798,,8,8
+Canada,Puerto Rico,Undirected,5799,,6,6
+Canada,Netherlands Antilles,Undirected,5800,,14,14
+Canada,India,Undirected,5801,,10,10
+Canada,Ukraine,Undirected,5802,,1,1
+Canada,Belize,Undirected,5803,,4,4
+Canada,Argentina,Undirected,5804,,2,2
+Canada,Saint Kitts and Nevis,Undirected,5805,,2,2
+Canada,Hungary,Undirected,5806,,2,2
+Canada,Croatia,Undirected,5807,,4,4
+Algeria,Germany,Undirected,5808,,6,6
+Algeria,France,Undirected,5809,,172,172
+Algeria,Turkey,Undirected,5810,,16,16
+Algeria,Cote d'Ivoire,Undirected,5811,,2,2
+Algeria,Spain,Undirected,5812,,32,32
+Algeria,Jordan,Undirected,5813,,4,4
+Algeria,Lebanon,Undirected,5814,,2,2
+Algeria,Mali,Undirected,5815,,2,2
+Algeria,Belgium,Undirected,5816,,7,7
+Algeria,Egypt,Undirected,5817,,4,4
+Algeria,Morocco,Undirected,5818,,6,6
+Algeria,Senegal,Undirected,5819,,3,3
+Algeria,United Arab Emirates,Undirected,5820,,4,4
+Algeria,Italy,Undirected,5821,,9,9
+Algeria,Switzerland,Undirected,5822,,3,3
+Algeria,United Kingdom,Undirected,5823,,6,6
+Algeria,Portugal,Undirected,5824,,4,4
+Algeria,Niger,Undirected,5825,,2,2
+Algeria,Burkina Faso,Undirected,5826,,2,2
+Algeria,China,Undirected,5827,,2,2
+Algeria,Russia,Undirected,5828,,2,2
+Algeria,Libya,Undirected,5829,,4,4
+Algeria,Tunisia,Undirected,5830,,8,8
+Algeria,Austria,Undirected,5831,,3,3
+Algeria,Malta,Undirected,5832,,2,2
+Algeria,Qatar,Undirected,5833,,2,2
+Algeria,Saudi Arabia,Undirected,5834,,12,12
+Algeria,Mauritania,Undirected,5835,,1,1
+Benin,Togo,Undirected,5836,,7,7
+Benin,Burkina Faso,Undirected,5837,,3,3
+Benin,Belgium,Undirected,5838,,4,4
+Benin,Cote d'Ivoire,Undirected,5839,,18,18
+Benin,France,Undirected,5840,,2,2
+Benin,Morocco,Undirected,5841,,2,2
+Benin,Nigeria,Undirected,5842,,7,7
+Benin,Equatorial Guinea,Undirected,5843,,5,5
+Benin,Mali,Undirected,5844,,6,6
+Benin,Gabon,Undirected,5845,,9,9
+Benin,Senegal,Undirected,5846,,5,5
+Benin,Cameroon,Undirected,5847,,11,11
+Benin,Ethiopia,Undirected,5848,,2,2
+Benin,Niger,Undirected,5849,,5,5
+Benin,Ghana,Undirected,5850,,2,2
+Benin,Kenya,Undirected,5851,,1,1
+Benin,Congo (Brazzaville),Undirected,5852,,14,14
+Benin,Turkey,Undirected,5853,,1,1
+Benin,Tunisia,Undirected,5854,,1,1
+Burkina Faso,Cote d'Ivoire,Undirected,5855,,16,16
+Burkina Faso,Ghana,Undirected,5856,,4,4
+Burkina Faso,Mali,Undirected,5857,,7,7
+Burkina Faso,Senegal,Undirected,5858,,3,3
+Burkina Faso,Togo,Undirected,5859,,5,5
+Burkina Faso,Niger,Undirected,5860,,16,16
+Burkina Faso,Belgium,Undirected,5861,,9,9
+Burkina Faso,France,Undirected,5862,,2,2
+Burkina Faso,Morocco,Undirected,5863,,2,2
+Burkina Faso,Ethiopia,Undirected,5864,,2,2
+Burkina Faso,Turkey,Undirected,5865,,2,2
+Burkina Faso,Tunisia,Undirected,5866,,2,2
+Burkina Faso,Guinea,Undirected,5867,,2,2
+Burkina Faso,Sierra Leone,Undirected,5868,,2,2
+Burkina Faso,Nigeria,Undirected,5869,,1,1
+Ghana,Senegal,Undirected,5870,,6,6
+Ghana,Nigeria,Undirected,5871,,20,20
+Ghana,Liberia,Undirected,5872,,15,15
+Ghana,United Kingdom,Undirected,5873,,4,4
+Ghana,Morocco,Undirected,5874,,2,2
+Ghana,Togo,Undirected,5875,,7,7
+Ghana,Italy,Undirected,5876,,1,1
+Ghana,United States,Undirected,5877,,5,5
+Ghana,Cote d'Ivoire,Undirected,5878,,18,18
+Ghana,Sierra Leone,Undirected,5879,,8,8
+Ghana,United Arab Emirates,Undirected,5880,,2,2
+Ghana,Ethiopia,Undirected,5881,,2,2
+Ghana,Spain,Undirected,5882,,2,2
+Ghana,Netherlands,Undirected,5883,,3,3
+Ghana,Kenya,Undirected,5884,,2,2
+Ghana,Germany,Undirected,5885,,2,2
+Ghana,Lebanon,Undirected,5886,,3,3
+Ghana,Egypt,Undirected,5887,,2,2
+Ghana,South Africa,Undirected,5888,,2,2
+Ghana,Namibia,Undirected,5889,,2,2
+Ghana,Turkey,Undirected,5890,,3,3
+Ghana,Portugal,Undirected,5891,,2,2
+Ghana,France,Undirected,5892,,2,2
+Ghana,Gambia,Undirected,5893,,1,1
+Ghana,Belgium,Undirected,5894,,3,3
+Ghana,Sao Tome and Principe,Undirected,5895,,2,2
+Ghana,Equatorial Guinea,Undirected,5896,,1,1
+Cote d'Ivoire,Mali,Undirected,5897,,8,8
+Cote d'Ivoire,Belgium,Undirected,5898,,7,7
+Cote d'Ivoire,France,Undirected,5899,,6,6
+Cote d'Ivoire,Morocco,Undirected,5900,,2,2
+Cote d'Ivoire,Senegal,Undirected,5901,,14,14
+Cote d'Ivoire,Sierra Leone,Undirected,5902,,4,4
+Cote d'Ivoire,Liberia,Undirected,5903,,4,4
+Cote d'Ivoire,Guinea,Undirected,5904,,4,4
+Cote d'Ivoire,Togo,Undirected,5905,,9,9
+Cote d'Ivoire,Nigeria,Undirected,5906,,13,13
+Cote d'Ivoire,Cameroon,Undirected,5907,,5,5
+Cote d'Ivoire,Gabon,Undirected,5908,,2,2
+Cote d'Ivoire,Kenya,Undirected,5909,,2,2
+Cote d'Ivoire,Turkey,Undirected,5910,,2,2
+Cote d'Ivoire,Tunisia,Undirected,5911,,2,2
+Cote d'Ivoire,Equatorial Guinea,Undirected,5912,,1,1
+Cote d'Ivoire,United States,Undirected,5913,,1,1
+Cote d'Ivoire,Ethiopia,Undirected,5914,,2,2
+Cote d'Ivoire,Congo (Kinshasa),Undirected,5915,,1,1
+Cote d'Ivoire,Niger,Undirected,5916,,2,2
+Cote d'Ivoire,Congo (Brazzaville),Undirected,5917,,2,2
+Cote d'Ivoire,Lebanon,Undirected,5918,,1,1
+Cote d'Ivoire,Portugal,Undirected,5919,,2,2
+Nigeria,Senegal,Undirected,5920,,5,5
+Nigeria,Cameroon,Undirected,5921,,10,10
+Nigeria,Liberia,Undirected,5922,,2,2
+Nigeria,France,Undirected,5923,,9,9
+Nigeria,Morocco,Undirected,5924,,2,2
+Nigeria,Italy,Undirected,5925,,1,1
+Nigeria,United Kingdom,Undirected,5926,,8,8
+Nigeria,Mali,Undirected,5927,,2,2
+Nigeria,Gabon,Undirected,5928,,4,4
+Nigeria,Equatorial Guinea,Undirected,5929,,6,6
+Nigeria,United States,Undirected,5930,,8,8
+Nigeria,United Arab Emirates,Undirected,5931,,5,5
+Nigeria,Ethiopia,Undirected,5932,,10,10
+Nigeria,Togo,Undirected,5933,,7,7
+Nigeria,Chad,Undirected,5934,,9,9
+Nigeria,Niger,Undirected,5935,,4,4
+Nigeria,Spain,Undirected,5936,,3,3
+Nigeria,Netherlands,Undirected,5937,,2,2
+Nigeria,Kenya,Undirected,5938,,3,3
+Nigeria,Germany,Undirected,5939,,9,9
+Nigeria,Lebanon,Undirected,5940,,4,4
+Nigeria,Egypt,Undirected,5941,,6,6
+Nigeria,Qatar,Undirected,5942,,2,2
+Nigeria,Jordan,Undirected,5943,,2,2
+Nigeria,South Africa,Undirected,5944,,4,4
+Nigeria,Sudan,Undirected,5945,,3,3
+Nigeria,Saudi Arabia,Undirected,5946,,2,2
+Nigeria,Turkey,Undirected,5947,,9,9
+Nigeria,Sierra Leone,Undirected,5948,,3,3
+Nigeria,Rwanda,Undirected,5949,,3,3
+Nigeria,Angola,Undirected,5950,,2,2
+Nigeria,Namibia,Undirected,5951,,1,1
+Nigeria,Cape Verde,Undirected,5952,,1,1
+Nigeria,Uganda,Undirected,5953,,1,1
+Nigeria,Brazil,Undirected,5954,,1,1
+Nigeria,Belgium,Undirected,5955,,3,3
+Niger,France,Undirected,5956,,6,6
+Niger,Morocco,Undirected,5957,,2,2
+Niger,Ethiopia,Undirected,5958,,2,2
+Niger,Chad,Undirected,5959,,2,2
+Niger,Turkey,Undirected,5960,,2,2
+Niger,Libya,Undirected,5961,,1,1
+Niger,Togo,Undirected,5962,,2,2
+Niger,Mali,Undirected,5963,,2,2
+Niger,Tunisia,Undirected,5964,,1,1
+Tunisia,Germany,Undirected,5965,,73,73
+Tunisia,Libya,Undirected,5966,,49,49
+Tunisia,France,Undirected,5967,,102,102
+Tunisia,Morocco,Undirected,5968,,5,5
+Tunisia,Italy,Undirected,5969,,16,16
+Tunisia,Russia,Undirected,5970,,12,12
+Tunisia,United Arab Emirates,Undirected,5971,,5,5
+Tunisia,Belgium,Undirected,5972,,10,10
+Tunisia,Malta,Undirected,5973,,4,4
+Tunisia,Netherlands,Undirected,5974,,3,3
+Tunisia,Luxembourg,Undirected,5975,,3,3
+Tunisia,Lebanon,Undirected,5976,,4,4
+Tunisia,Egypt,Undirected,5977,,4,4
+Tunisia,Qatar,Undirected,5978,,2,2
+Tunisia,Jordan,Undirected,5979,,2,2
+Tunisia,Saudi Arabia,Undirected,5980,,10,10
+Tunisia,United Kingdom,Undirected,5981,,48,48
+Tunisia,Turkey,Undirected,5982,,5,5
+Tunisia,Spain,Undirected,5983,,7,7
+Tunisia,Serbia,Undirected,5984,,2,2
+Tunisia,Mali,Undirected,5985,,2,2
+Tunisia,Switzerland,Undirected,5986,,16,16
+Tunisia,Senegal,Undirected,5987,,3,3
+Tunisia,Kuwait,Undirected,5988,,2,2
+Tunisia,Portugal,Undirected,5989,,2,2
+Tunisia,Mauritania,Undirected,5990,,3,3
+Tunisia,Austria,Undirected,5991,,2,2
+Tunisia,Guinea,Undirected,5992,,1,1
+Tunisia,Czech Republic,Undirected,5993,,1,1
+Togo,France,Undirected,5994,,2,2
+Togo,Morocco,Undirected,5995,,2,2
+Togo,Ethiopia,Undirected,5996,,2,2
+Togo,Mali,Undirected,5997,,3,3
+Togo,Guinea,Undirected,5998,,2,2
+Togo,Cameroon,Undirected,5999,,3,3
+Togo,Brazil,Undirected,6000,,2,2
+Togo,Gabon,Undirected,6001,,4,4
+Togo,Belgium,Undirected,6002,,5,5
+Togo,Equatorial Guinea,Undirected,6003,,1,1
+Togo,United States,Undirected,6004,,5,5
+Togo,Senegal,Undirected,6005,,1,1
+Togo,Congo (Kinshasa),Undirected,6006,,3,3
+Belgium,Morocco,Undirected,6007,,60,60
+Belgium,Germany,Undirected,6008,,35,35
+Belgium,India,Undirected,6009,,10,10
+Belgium,United States,Undirected,6010,,53,53
+Belgium,Greece,Undirected,6011,,39,39
+Belgium,France,Undirected,6012,,84,84
+Belgium,United Kingdom,Undirected,6013,,46,46
+Belgium,Burundi,Undirected,6014,,4,4
+Belgium,Senegal,Undirected,6015,,12,12
+Belgium,Cameroon,Undirected,6016,,18,18
+Belgium,Rwanda,Undirected,6017,,6,6
+Belgium,Angola,Undirected,6018,,4,4
+Belgium,Uganda,Undirected,6019,,5,5
+Belgium,Congo (Kinshasa),Undirected,6020,,5,5
+Belgium,Kenya,Undirected,6021,,5,5
+Belgium,Spain,Undirected,6022,,148,148
+Belgium,Finland,Undirected,6023,,4,4
+Belgium,Portugal,Undirected,6024,,38,38
+Belgium,Italy,Undirected,6025,,95,95
+Belgium,Denmark,Undirected,6026,,12,12
+Belgium,United Arab Emirates,Undirected,6027,,10,10
+Belgium,Latvia,Undirected,6028,,5,5
+Belgium,Lithuania,Undirected,6029,,10,10
+Belgium,Ireland,Undirected,6030,,9,9
+Belgium,Bulgaria,Undirected,6031,,9,9
+Belgium,Slovakia,Undirected,6032,,2,2
+Belgium,Hungary,Undirected,6033,,6,6
+Belgium,Poland,Undirected,6034,,19,19
+Belgium,Sweden,Undirected,6035,,17,17
+Belgium,Cyprus,Undirected,6036,,5,5
+Belgium,Croatia,Undirected,6037,,10,10
+Belgium,Norway,Undirected,6038,,8,8
+Belgium,Montenegro,Undirected,6039,,4,4
+Belgium,Turkey,Undirected,6040,,20,20
+Belgium,Switzerland,Undirected,6041,,12,12
+Belgium,China,Undirected,6042,,9,9
+Belgium,Slovenia,Undirected,6043,,6,6
+Belgium,Serbia,Undirected,6044,,5,5
+Belgium,Netherlands,Undirected,6045,,3,3
+Belgium,Malta,Undirected,6046,,5,5
+Belgium,Sierra Leone,Undirected,6047,,3,3
+Belgium,Liberia,Undirected,6048,,4,4
+Belgium,Israel,Undirected,6049,,4,4
+Belgium,Lebanon,Undirected,6050,,2,2
+Belgium,Egypt,Undirected,6051,,14,14
+Belgium,Czech Republic,Undirected,6052,,9,9
+Belgium,Austria,Undirected,6053,,6,6
+Belgium,Estonia,Undirected,6054,,8,8
+Belgium,Ukraine,Undirected,6055,,4,4
+Belgium,Qatar,Undirected,6056,,4,4
+Belgium,Romania,Undirected,6057,,15,15
+Belgium,Thailand,Undirected,6058,,4,4
+Belgium,Russia,Undirected,6059,,9,9
+Belgium,Macedonia,Undirected,6060,,2,2
+Belgium,Georgia,Undirected,6061,,1,1
+Belgium,Belarus,Undirected,6062,,1,1
+Belgium,Hong Kong,Undirected,6063,,3,3
+Belgium,Ethiopia,Undirected,6064,,4,4
+Belgium,Jordan,Undirected,6065,,1,1
+Belgium,Bosnia and Herzegovina,Undirected,6066,,1,1
+Belgium,Martinique,Undirected,6067,,1,1
+Belgium,Guadeloupe,Undirected,6068,,1,1
+Belgium,Japan,Undirected,6069,,2,2
+Belgium,Iran,Undirected,6070,,1,1
+Belgium,Mexico,Undirected,6071,,2,2
+Belgium,Jamaica,Undirected,6072,,1,1
+Belgium,Dominican Republic,Undirected,6073,,2,2
+Belgium,Cape Verde,Undirected,6074,,1,1
+Belgium,Albania,Undirected,6075,,1,1
+Belgium,Cuba,Undirected,6076,,1,1
+Belgium,Moldova,Undirected,6077,,1,1
+Belgium,Panama,Undirected,6078,,1,1
+Belgium,Saudi Arabia,Undirected,6079,,3,3
+Belgium,Gambia,Undirected,6080,,2,2
+Belgium,Brazil,Undirected,6081,,1,1
+Belgium,South Africa,Undirected,6082,,1,1
+Belgium,South Korea,Undirected,6083,,1,1
+Germany,Switzerland,Undirected,6084,,101,101
+Germany,Italy,Undirected,6085,,653,653
+Germany,Croatia,Undirected,6086,,174,174
+Germany,Morocco,Undirected,6087,,72,72
+Germany,Spain,Undirected,6088,,921,921
+Germany,Netherlands,Undirected,6089,,60,60
+Germany,Sweden,Undirected,6090,,74,74
+Germany,Greece,Undirected,6091,,537,537
+Germany,Turkey,Undirected,6092,,328,328
+Germany,Serbia,Undirected,6093,,77,77
+Germany,Norway,Undirected,6094,,60,60
+Germany,United Kingdom,Undirected,6095,,268,268
+Germany,France,Undirected,6096,,232,232
+Germany,Hungary,Undirected,6097,,42,42
+Germany,Ireland,Undirected,6098,,52,52
+Germany,Portugal,Undirected,6099,,178,178
+Germany,Austria,Undirected,6100,,171,171
+Germany,Czech Republic,Undirected,6101,,35,35
+Germany,Bosnia and Herzegovina,Undirected,6102,,22,22
+Germany,Israel,Undirected,6103,,30,30
+Germany,Poland,Undirected,6104,,119,119
+Germany,Finland,Undirected,6105,,44,44
+Germany,Moldova,Undirected,6106,,9,9
+Germany,United Arab Emirates,Undirected,6107,,54,54
+Germany,United States,Undirected,6108,,275,275
+Germany,Malaysia,Undirected,6109,,7,7
+Germany,Jordan,Undirected,6110,,15,15
+Germany,Egypt,Undirected,6111,,71,71
+Germany,Denmark,Undirected,6112,,66,66
+Germany,Mexico,Undirected,6113,,15,15
+Germany,Netherlands Antilles,Undirected,6114,,2,2
+Germany,Russia,Undirected,6115,,114,114
+Germany,Guernsey,Undirected,6116,,5,5
+Germany,Jersey,Undirected,6117,,10,10
+Germany,Dominican Republic,Undirected,6118,,21,21
+Germany,Latvia,Undirected,6119,,32,32
+Germany,Cuba,Undirected,6120,,18,18
+Germany,Romania,Undirected,6121,,66,66
+Germany,China,Undirected,6122,,52,52
+Germany,Bulgaria,Undirected,6123,,32,32
+Germany,Qatar,Undirected,6124,,18,18
+Germany,Saudi Arabia,Undirected,6125,,26,26
+Germany,Cyprus,Undirected,6126,,28,28
+Germany,Lithuania,Undirected,6127,,21,21
+Germany,India,Undirected,6128,,34,34
+Germany,Colombia,Undirected,6129,,6,6
+Germany,Vietnam,Undirected,6130,,8,8
+Germany,Belarus,Undirected,6131,,9,9
+Germany,Taiwan,Undirected,6132,,2,2
+Germany,Hong Kong,Undirected,6133,,8,8
+Germany,Antigua and Barbuda,Undirected,6134,,1,1
+Germany,Barbados,Undirected,6135,,2,2
+Germany,Kenya,Undirected,6136,,5,5
+Germany,Jamaica,Undirected,6137,,3,3
+Germany,Maldives,Undirected,6138,,4,4
+Germany,Mauritius,Undirected,6139,,4,4
+Germany,Brazil,Undirected,6140,,23,23
+Germany,Seychelles,Undirected,6141,,2,2
+Germany,Puerto Rico,Undirected,6142,,2,2
+Germany,Trinidad and Tobago,Undirected,6143,,1,1
+Germany,Tanzania,Undirected,6144,,3,3
+Germany,Ethiopia,Undirected,6145,,4,4
+Germany,Estonia,Undirected,6146,,7,7
+Germany,Bahrain,Undirected,6147,,3,3
+Germany,Luxembourg,Undirected,6148,,23,23
+Germany,Uzbekistan,Undirected,6149,,2,2
+Germany,Iran,Undirected,6150,,11,11
+Germany,Azerbaijan,Undirected,6151,,7,7
+Germany,Japan,Undirected,6152,,25,25
+Germany,Slovenia,Undirected,6153,,9,9
+Germany,Albania,Undirected,6154,,10,10
+Germany,Kazakhstan,Undirected,6155,,9,9
+Germany,South Korea,Undirected,6156,,8,8
+Germany,Malta,Undirected,6157,,20,20
+Germany,Kuwait,Undirected,6158,,5,5
+Germany,Lebanon,Undirected,6159,,8,8
+Germany,Thailand,Undirected,6160,,14,14
+Germany,Venezuela,Undirected,6161,,2,2
+Germany,Ukraine,Undirected,6162,,45,45
+Germany,Iraq,Undirected,6163,,18,18
+Germany,Argentina,Undirected,6164,,2,2
+Germany,South Africa,Undirected,6165,,16,16
+Germany,Angola,Undirected,6166,,2,2
+Germany,Singapore,Undirected,6167,,19,19
+Germany,Georgia,Undirected,6168,,6,6
+Germany,Macedonia,Undirected,6169,,18,18
+Germany,Namibia,Undirected,6170,,6,6
+Germany,Tajikistan,Undirected,6171,,2,2
+Germany,Turkmenistan,Undirected,6172,,3,3
+Germany,Sri Lanka,Undirected,6173,,2,2
+Germany,Oman,Undirected,6174,,4,4
+Germany,Cape Verde,Undirected,6175,,17,17
+Germany,Montenegro,Undirected,6176,,12,12
+Germany,Panama,Undirected,6177,,2,2
+Germany,Costa Rica,Undirected,6178,,2,2
+Germany,Equatorial Guinea,Undirected,6179,,1,1
+Germany,Philippines,Undirected,6180,,1,1
+Germany,Senegal,Undirected,6181,,1,1
+Germany,Slovakia,Undirected,6182,,2,2
+Estonia,Finland,Undirected,6183,,6,6
+Estonia,Latvia,Undirected,6184,,2,2
+Estonia,Norway,Undirected,6185,,14,14
+Estonia,Italy,Undirected,6186,,3,3
+Estonia,Spain,Undirected,6187,,2,2
+Estonia,United Kingdom,Undirected,6188,,9,9
+Estonia,Netherlands,Undirected,6189,,5,5
+Estonia,Poland,Undirected,6190,,4,4
+Estonia,Lithuania,Undirected,6191,,8,8
+Estonia,Sweden,Undirected,6192,,13,13
+Estonia,Denmark,Undirected,6193,,6,6
+Estonia,Ukraine,Undirected,6194,,4,4
+Estonia,Russia,Undirected,6195,,7,7
+Estonia,France,Undirected,6196,,3,3
+Estonia,Croatia,Undirected,6197,,2,2
+Estonia,Turkey,Undirected,6198,,2,2
+Estonia,Greece,Undirected,6199,,2,2
+Estonia,Austria,Undirected,6200,,3,3
+Estonia,Malta,Undirected,6201,,1,1
+Estonia,Cyprus,Undirected,6202,,1,1
+Finland,Sweden,Undirected,6203,,53,53
+Finland,United States,Undirected,6204,,14,14
+Finland,United Kingdom,Undirected,6205,,24,24
+Finland,Austria,Undirected,6206,,6,6
+Finland,Switzerland,Undirected,6207,,8,8
+Finland,France,Undirected,6208,,19,19
+Finland,Spain,Undirected,6209,,43,43
+Finland,Netherlands,Undirected,6210,,13,13
+Finland,Turkey,Undirected,6211,,12,12
+Finland,Thailand,Undirected,6212,,6,6
+Finland,Hungary,Undirected,6213,,6,6
+Finland,China,Undirected,6214,,22,22
+Finland,Denmark,Undirected,6215,,11,11
+Finland,Croatia,Undirected,6216,,8,8
+Finland,India,Undirected,6217,,2,2
+Finland,Russia,Undirected,6218,,18,18
+Finland,Italy,Undirected,6219,,10,10
+Finland,Hong Kong,Undirected,6220,,2,2
+Finland,South Korea,Undirected,6221,,2,2
+Finland,Japan,Undirected,6222,,16,16
+Finland,Poland,Undirected,6223,,15,15
+Finland,Portugal,Undirected,6224,,6,6
+Finland,Slovenia,Undirected,6225,,2,2
+Finland,Belarus,Undirected,6226,,4,4
+Finland,Norway,Undirected,6227,,11,11
+Finland,Czech Republic,Undirected,6228,,6,6
+Finland,Latvia,Undirected,6229,,7,7
+Finland,Singapore,Undirected,6230,,2,2
+Finland,Israel,Undirected,6231,,5,5
+Finland,Lithuania,Undirected,6232,,5,5
+Finland,Greece,Undirected,6233,,6,6
+Finland,Bulgaria,Undirected,6234,,2,2
+Finland,Ireland,Undirected,6235,,4,4
+Finland,Ukraine,Undirected,6236,,2,2
+Finland,Romania,Undirected,6237,,1,1
+Finland,United Arab Emirates,Undirected,6238,,3,3
+Finland,Serbia,Undirected,6239,,1,1
+Finland,Qatar,Undirected,6240,,2,2
+Finland,Cuba,Undirected,6241,,2,2
+Finland,Dominican Republic,Undirected,6242,,4,4
+Finland,Vietnam,Undirected,6243,,2,2
+Finland,Egypt,Undirected,6244,,2,2
+United Kingdom,Switzerland,Undirected,6245,,58,58
+United Kingdom,Sierra Leone,Undirected,6246,,4,4
+United Kingdom,Morocco,Undirected,6247,,71,71
+United Kingdom,Moldova,Undirected,6248,,5,5
+United Kingdom,India,Undirected,6249,,43,43
+United Kingdom,Greece,Undirected,6250,,209,209
+United Kingdom,Spain,Undirected,6251,,1190,1190
+United Kingdom,Netherlands,Undirected,6252,,121,121
+United Kingdom,Sweden,Undirected,6253,,59,59
+United Kingdom,United States,Undirected,6254,,451,451
+United Kingdom,United Arab Emirates,Undirected,6255,,48,48
+United Kingdom,Bahrain,Undirected,6256,,8,8
+United Kingdom,Norway,Undirected,6257,,95,95
+United Kingdom,Italy,Undirected,6258,,328,328
+United Kingdom,France,Undirected,6259,,353,353
+United Kingdom,Hungary,Undirected,6260,,42,42
+United Kingdom,Denmark,Undirected,6261,,57,57
+United Kingdom,South Africa,Undirected,6262,,23,23
+United Kingdom,Ireland,Undirected,6263,,144,144
+United Kingdom,Uganda,Undirected,6264,,4,4
+United Kingdom,Gibraltar,Undirected,6265,,15,15
+United Kingdom,Turkey,Undirected,6266,,192,192
+United Kingdom,Malaysia,Undirected,6267,,6,6
+United Kingdom,Kuwait,Undirected,6268,,7,7
+United Kingdom,Cyprus,Undirected,6269,,117,117
+United Kingdom,Portugal,Undirected,6270,,198,198
+United Kingdom,Luxembourg,Undirected,6271,,9,9
+United Kingdom,Kenya,Undirected,6272,,6,6
+United Kingdom,Romania,Undirected,6273,,48,48
+United Kingdom,Czech Republic,Undirected,6274,,45,45
+United Kingdom,Bulgaria,Undirected,6275,,27,27
+United Kingdom,Austria,Undirected,6276,,45,45
+United Kingdom,Poland,Undirected,6277,,177,177
+United Kingdom,Croatia,Undirected,6278,,70,70
+United Kingdom,Jersey,Undirected,6279,,52,52
+United Kingdom,Mexico,Undirected,6280,,29,29
+United Kingdom,Belarus,Undirected,6281,,2,2
+United Kingdom,Kazakhstan,Undirected,6282,,6,6
+United Kingdom,Jordan,Undirected,6283,,4,4
+United Kingdom,Antigua and Barbuda,Undirected,6284,,8,8
+United Kingdom,Bermuda,Undirected,6285,,4,4
+United Kingdom,Lebanon,Undirected,6286,,5,5
+United Kingdom,Barbados,Undirected,6287,,11,11
+United Kingdom,Thailand,Undirected,6288,,8,8
+United Kingdom,Egypt,Undirected,6289,,74,74
+United Kingdom,China,Undirected,6290,,43,43
+United Kingdom,Russia,Undirected,6291,,25,25
+United Kingdom,Argentina,Undirected,6292,,3,3
+United Kingdom,Brazil,Undirected,6293,,9,9
+United Kingdom,Azerbaijan,Undirected,6294,,4,4
+United Kingdom,Hong Kong,Undirected,6295,,10,10
+United Kingdom,Japan,Undirected,6296,,18,18
+United Kingdom,South Korea,Undirected,6297,,6,6
+United Kingdom,Isle of Man,Undirected,6298,,23,23
+United Kingdom,Saudi Arabia,Undirected,6299,,15,15
+United Kingdom,Ukraine,Undirected,6300,,10,10
+United Kingdom,Jamaica,Undirected,6301,,12,12
+United Kingdom,Angola,Undirected,6302,,3,3
+United Kingdom,Malta,Undirected,6303,,66,66
+United Kingdom,Maldives,Undirected,6304,,2,2
+United Kingdom,Mauritius,Undirected,6305,,8,8
+United Kingdom,Albania,Undirected,6306,,4,4
+United Kingdom,Saint Lucia,Undirected,6307,,9,9
+United Kingdom,Bahamas,Undirected,6308,,2,2
+United Kingdom,Singapore,Undirected,6309,,12,12
+United Kingdom,Libya,Undirected,6310,,6,6
+United Kingdom,Israel,Undirected,6311,,17,17
+United Kingdom,Guernsey,Undirected,6312,,24,24
+United Kingdom,Bangladesh,Undirected,6313,,5,5
+United Kingdom,Latvia,Undirected,6314,,17,17
+United Kingdom,Trinidad and Tobago,Undirected,6315,,2,2
+United Kingdom,Ethiopia,Undirected,6316,,4,4
+United Kingdom,Serbia,Undirected,6317,,8,8
+United Kingdom,Slovakia,Undirected,6318,,16,16
+United Kingdom,Lithuania,Undirected,6319,,28,28
+United Kingdom,Montenegro,Undirected,6320,,4,4
+United Kingdom,Uzbekistan,Undirected,6321,,2,2
+United Kingdom,Iran,Undirected,6322,,2,2
+United Kingdom,Pakistan,Undirected,6323,,23,23
+United Kingdom,Philippines,Undirected,6324,,2,2
+United Kingdom,Qatar,Undirected,6325,,20,20
+United Kingdom,Turkmenistan,Undirected,6326,,4,4
+United Kingdom,Cuba,Undirected,6327,,6,6
+United Kingdom,Cape Verde,Undirected,6328,,25,25
+United Kingdom,Dominican Republic,Undirected,6329,,9,9
+United Kingdom,Slovenia,Undirected,6330,,5,5
+United Kingdom,Sri Lanka,Undirected,6331,,2,2
+United Kingdom,Macedonia,Undirected,6332,,3,3
+United Kingdom,Oman,Undirected,6333,,5,5
+United Kingdom,Georgia,Undirected,6334,,2,2
+United Kingdom,Colombia,Undirected,6335,,2,2
+United Kingdom,Costa Rica,Undirected,6336,,3,3
+United Kingdom,Chile,Undirected,6337,,2,2
+United Kingdom,Seychelles,Undirected,6338,,2,2
+United Kingdom,Brunei,Undirected,6339,,1,1
+United Kingdom,Taiwan,Undirected,6340,,4,4
+United Kingdom,Indonesia,Undirected,6341,,2,2
+United Kingdom,Iraq,Undirected,6342,,3,3
+United Kingdom,Australia,Undirected,6343,,2,2
+United Kingdom,Faroe Islands,Undirected,6344,,1,1
+United Kingdom,Saint Helena,Undirected,6345,,1,1
+United Kingdom,Namibia,Undirected,6346,,1,1
+United Kingdom,Vietnam,Undirected,6347,,4,4
+Guernsey,Jersey,Undirected,6348,,7,7
+Guernsey,France,Undirected,6349,,2,2
+Guernsey,Netherlands,Undirected,6350,,2,2
+Jersey,Ireland,Undirected,6351,,4,4
+Jersey,Netherlands,Undirected,6352,,2,2
+Jersey,France,Undirected,6353,,2,2
+Jersey,Switzerland,Undirected,6354,,4,4
+Isle of Man,Ireland,Undirected,6355,,2,2
+Falkland Islands,Chile,Undirected,6356,,1,1
+Falkland Islands,Argentina,Undirected,6357,,3,3
+Falkland Islands,Brazil,Undirected,6358,,1,1
+Netherlands,Morocco,Undirected,6359,,35,35
+Netherlands,France,Undirected,6360,,77,77
+Netherlands,Georgia,Undirected,6361,,5,5
+Netherlands,United States,Undirected,6362,,98,98
+Netherlands,Denmark,Undirected,6363,,23,23
+Netherlands,United Arab Emirates,Undirected,6364,,26,26
+Netherlands,Saudi Arabia,Undirected,6365,,14,14
+Netherlands,Qatar,Undirected,6366,,8,8
+Netherlands,Zimbabwe,Undirected,6367,,3,3
+Netherlands,Tanzania,Undirected,6368,,8,8
+Netherlands,Rwanda,Undirected,6369,,3,3
+Netherlands,Malaysia,Undirected,6370,,6,6
+Netherlands,Kuwait,Undirected,6371,,6,6
+Netherlands,Taiwan,Undirected,6372,,6,6
+Netherlands,Ecuador,Undirected,6373,,5,5
+Netherlands,Uganda,Undirected,6374,,4,4
+Netherlands,Zambia,Undirected,6375,,3,3
+Netherlands,Italy,Undirected,6376,,108,108
+Netherlands,Portugal,Undirected,6377,,54,54
+Netherlands,Norway,Undirected,6378,,31,31
+Netherlands,Sweden,Undirected,6379,,19,19
+Netherlands,South Africa,Undirected,6380,,7,7
+Netherlands,Peru,Undirected,6381,,4,4
+Netherlands,Kenya,Undirected,6382,,9,9
+Netherlands,Panama,Undirected,6383,,4,4
+Netherlands,Belarus,Undirected,6384,,2,2
+Netherlands,Thailand,Undirected,6385,,6,6
+Netherlands,Latvia,Undirected,6386,,6,6
+Netherlands,Hong Kong,Undirected,6387,,4,4
+Netherlands,Cyprus,Undirected,6388,,9,9
+Netherlands,China,Undirected,6389,,35,35
+Netherlands,India,Undirected,6390,,10,10
+Netherlands,Ireland,Undirected,6391,,13,13
+Netherlands,Serbia,Undirected,6392,,8,8
+Netherlands,Bulgaria,Undirected,6393,,8,8
+Netherlands,Spain,Undirected,6394,,180,180
+Netherlands,Greece,Undirected,6395,,46,46
+Netherlands,Poland,Undirected,6396,,31,31
+Netherlands,Malta,Undirected,6397,,7,7
+Netherlands,Turkey,Undirected,6398,,54,54
+Netherlands,Iraq,Undirected,6399,,2,2
+Netherlands,Austria,Undirected,6400,,26,26
+Netherlands,Israel,Undirected,6401,,13,13
+Netherlands,Hungary,Undirected,6402,,9,9
+Netherlands,Czech Republic,Undirected,6403,,13,13
+Netherlands,Croatia,Undirected,6404,,12,12
+Netherlands,Cape Verde,Undirected,6405,,3,3
+Netherlands,Iran,Undirected,6406,,2,2
+Netherlands,Slovenia,Undirected,6407,,4,4
+Netherlands,Kazakhstan,Undirected,6408,,4,4
+Netherlands,South Korea,Undirected,6409,,4,4
+Netherlands,Aruba,Undirected,6410,,4,4
+Netherlands,Egypt,Undirected,6411,,12,12
+Netherlands,Netherlands Antilles,Undirected,6412,,11,11
+Netherlands,Argentina,Undirected,6413,,2,2
+Netherlands,Japan,Undirected,6414,,6,6
+Netherlands,Brazil,Undirected,6415,,7,7
+Netherlands,Switzerland,Undirected,6416,,16,16
+Netherlands,Cuba,Undirected,6417,,4,4
+Netherlands,Ukraine,Undirected,6418,,4,4
+Netherlands,Angola,Undirected,6419,,2,2
+Netherlands,Russia,Undirected,6420,,12,12
+Netherlands,Luxembourg,Undirected,6421,,2,2
+Netherlands,Mexico,Undirected,6422,,5,5
+Netherlands,Romania,Undirected,6423,,9,9
+Netherlands,Suriname,Undirected,6424,,4,4
+Netherlands,Singapore,Undirected,6425,,5,5
+Netherlands,Dominican Republic,Undirected,6426,,3,3
+Netherlands,Jamaica,Undirected,6427,,1,1
+Netherlands,Jordan,Undirected,6428,,5,5
+Netherlands,Macedonia,Undirected,6429,,2,2
+Netherlands,Lithuania,Undirected,6430,,4,4
+Netherlands,Slovakia,Undirected,6431,,1,1
+Netherlands,Indonesia,Undirected,6432,,4,4
+Netherlands,Lebanon,Undirected,6433,,1,1
+Netherlands,Albania,Undirected,6434,,1,1
+Netherlands,Colombia,Undirected,6435,,4,4
+Netherlands,Bosnia and Herzegovina,Undirected,6436,,1,1
+Netherlands,Oman,Undirected,6437,,2,2
+Netherlands,Costa Rica,Undirected,6438,,1,1
+Netherlands,Chile,Undirected,6439,,2,2
+Ireland,Moldova,Undirected,6440,,2,2
+Ireland,United States,Undirected,6441,,91,91
+Ireland,France,Undirected,6442,,52,52
+Ireland,Denmark,Undirected,6443,,7,7
+Ireland,Norway,Undirected,6444,,6,6
+Ireland,Spain,Undirected,6445,,118,118
+Ireland,Turkey,Undirected,6446,,4,4
+Ireland,Sweden,Undirected,6447,,5,5
+Ireland,Greece,Undirected,6448,,9,9
+Ireland,United Arab Emirates,Undirected,6449,,8,8
+Ireland,Italy,Undirected,6450,,34,34
+Ireland,Bulgaria,Undirected,6451,,3,3
+Ireland,Hungary,Undirected,6452,,5,5
+Ireland,Croatia,Undirected,6453,,8,8
+Ireland,Portugal,Undirected,6454,,26,26
+Ireland,Switzerland,Undirected,6455,,10,10
+Ireland,Czech Republic,Undirected,6456,,4,4
+Ireland,Austria,Undirected,6457,,3,3
+Ireland,Poland,Undirected,6458,,34,34
+Ireland,Slovakia,Undirected,6459,,2,2
+Ireland,Lithuania,Undirected,6460,,9,9
+Ireland,Malta,Undirected,6461,,3,3
+Ireland,Romania,Undirected,6462,,7,7
+Ireland,Morocco,Undirected,6463,,3,3
+Ireland,Latvia,Undirected,6464,,3,3
+Ireland,Luxembourg,Undirected,6465,,3,3
+Ireland,Hong Kong,Undirected,6466,,1,1
+Ireland,Ethiopia,Undirected,6467,,1,1
+Ireland,Ukraine,Undirected,6468,,1,1
+Ireland,Cyprus,Undirected,6469,,1,1
+Ireland,China,Undirected,6470,,1,1
+Ireland,Qatar,Undirected,6471,,2,2
+Ireland,Russia,Undirected,6472,,2,2
+Denmark,Greece,Undirected,6473,,23,23
+Denmark,Spain,Undirected,6474,,76,76
+Denmark,Austria,Undirected,6475,,14,14
+Denmark,Norway,Undirected,6476,,69,69
+Denmark,Lithuania,Undirected,6477,,8,8
+Denmark,Poland,Undirected,6478,,28,28
+Denmark,France,Undirected,6479,,29,29
+Denmark,Italy,Undirected,6480,,47,47
+Denmark,Morocco,Undirected,6481,,5,5
+Denmark,Sweden,Undirected,6482,,21,21
+Denmark,Switzerland,Undirected,6483,,16,16
+Denmark,Latvia,Undirected,6484,,8,8
+Denmark,China,Undirected,6485,,6,6
+Denmark,Bulgaria,Undirected,6486,,3,3
+Denmark,Hungary,Undirected,6487,,7,7
+Denmark,Portugal,Undirected,6488,,12,12
+Denmark,United States,Undirected,6489,,19,19
+Denmark,Malta,Undirected,6490,,4,4
+Denmark,Czech Republic,Undirected,6491,,10,10
+Denmark,Croatia,Undirected,6492,,14,14
+Denmark,Israel,Undirected,6493,,4,4
+Denmark,United Arab Emirates,Undirected,6494,,4,4
+Denmark,Bosnia and Herzegovina,Undirected,6495,,2,2
+Denmark,Slovenia,Undirected,6496,,4,4
+Denmark,Serbia,Undirected,6497,,4,4
+Denmark,Luxembourg,Undirected,6498,,4,4
+Denmark,Egypt,Undirected,6499,,8,8
+Denmark,Turkey,Undirected,6500,,22,22
+Denmark,Pakistan,Undirected,6501,,3,3
+Denmark,Qatar,Undirected,6502,,2,2
+Denmark,Faroe Islands,Undirected,6503,,6,6
+Denmark,Thailand,Undirected,6504,,5,5
+Denmark,Russia,Undirected,6505,,6,6
+Denmark,Japan,Undirected,6506,,2,2
+Denmark,Romania,Undirected,6507,,6,6
+Denmark,Singapore,Undirected,6508,,4,4
+Denmark,India,Undirected,6509,,2,2
+Denmark,Jordan,Undirected,6510,,3,3
+Denmark,Cyprus,Undirected,6511,,3,3
+Denmark,Iraq,Undirected,6512,,3,3
+Denmark,Lebanon,Undirected,6513,,2,2
+Denmark,Ukraine,Undirected,6514,,4,4
+Denmark,Hong Kong,Undirected,6515,,2,2
+Denmark,Moldova,Undirected,6516,,1,1
+Denmark,Macedonia,Undirected,6517,,1,1
+Denmark,Saudi Arabia,Undirected,6518,,1,1
+Faroe Islands,Norway,Undirected,6519,,4,4
+Luxembourg,France,Undirected,6520,,18,18
+Luxembourg,Italy,Undirected,6521,,19,19
+Luxembourg,Spain,Undirected,6522,,29,29
+Luxembourg,Turkey,Undirected,6523,,6,6
+Luxembourg,Morocco,Undirected,6524,,4,4
+Luxembourg,Sweden,Undirected,6525,,2,2
+Luxembourg,Greece,Undirected,6526,,10,10
+Luxembourg,Croatia,Undirected,6527,,2,2
+Luxembourg,Portugal,Undirected,6528,,17,17
+Luxembourg,Switzerland,Undirected,6529,,4,4
+Luxembourg,Cape Verde,Undirected,6530,,2,2
+Luxembourg,Malta,Undirected,6531,,3,3
+Luxembourg,Bulgaria,Undirected,6532,,2,2
+Luxembourg,Austria,Undirected,6533,,4,4
+Luxembourg,Poland,Undirected,6534,,2,2
+Luxembourg,Qatar,Undirected,6535,,2,2
+Luxembourg,Brazil,Undirected,6536,,1,1
+Luxembourg,United States,Undirected,6537,,7,7
+Luxembourg,United Arab Emirates,Undirected,6538,,1,1
+Luxembourg,India,Undirected,6539,,1,1
+Norway,Sweden,Undirected,6540,,31,31
+Norway,Russia,Undirected,6541,,8,8
+Norway,Greece,Undirected,6542,,22,22
+Norway,France,Undirected,6543,,33,33
+Norway,Latvia,Undirected,6544,,20,20
+Norway,Spain,Undirected,6545,,130,130
+Norway,Turkey,Undirected,6546,,16,16
+Norway,Serbia,Undirected,6547,,5,5
+Norway,Croatia,Undirected,6548,,20,20
+Norway,Italy,Undirected,6549,,29,29
+Norway,United States,Undirected,6550,,15,15
+Norway,Poland,Undirected,6551,,75,75
+Norway,Czech Republic,Undirected,6552,,6,6
+Norway,Thailand,Undirected,6553,,6,6
+Norway,Bulgaria,Undirected,6554,,2,2
+Norway,Slovakia,Undirected,6555,,2,2
+Norway,Hungary,Undirected,6556,,4,4
+Norway,Portugal,Undirected,6557,,7,7
+Norway,Switzerland,Undirected,6558,,8,8
+Norway,Ukraine,Undirected,6559,,4,4
+Norway,Cyprus,Undirected,6560,,5,5
+Norway,Malta,Undirected,6561,,5,5
+Norway,Lithuania,Undirected,6562,,21,21
+Norway,Morocco,Undirected,6563,,2,2
+Norway,Austria,Undirected,6564,,6,6
+Norway,Pakistan,Undirected,6565,,3,3
+Norway,Qatar,Undirected,6566,,2,2
+Norway,Romania,Undirected,6567,,3,3
+Norway,Israel,Undirected,6568,,1,1
+Norway,United Arab Emirates,Undirected,6569,,1,1
+Norway,Macedonia,Undirected,6570,,1,1
+Norway,South Korea,Undirected,6571,,1,1
+Poland,Greece,Undirected,6572,,22,22
+Poland,France,Undirected,6573,,40,40
+Poland,Italy,Undirected,6574,,81,81
+Poland,Belarus,Undirected,6575,,4,4
+Poland,Latvia,Undirected,6576,,6,6
+Poland,China,Undirected,6577,,5,5
+Poland,Spain,Undirected,6578,,61,61
+Poland,Sweden,Undirected,6579,,41,41
+Poland,United Arab Emirates,Undirected,6580,,6,6
+Poland,Bulgaria,Undirected,6581,,6,6
+Poland,Malta,Undirected,6582,,8,8
+Poland,Cyprus,Undirected,6583,,8,8
+Poland,Slovenia,Undirected,6584,,4,4
+Poland,Serbia,Undirected,6585,,4,4
+Poland,Croatia,Undirected,6586,,16,16
+Poland,Switzerland,Undirected,6587,,20,20
+Poland,Hungary,Undirected,6588,,7,7
+Poland,Armenia,Undirected,6589,,2,2
+Poland,Turkey,Undirected,6590,,4,4
+Poland,United States,Undirected,6591,,12,12
+Poland,Ukraine,Undirected,6592,,52,52
+Poland,Austria,Undirected,6593,,10,10
+Poland,Russia,Undirected,6594,,11,11
+Poland,Portugal,Undirected,6595,,10,10
+Poland,Romania,Undirected,6596,,9,9
+Poland,Czech Republic,Undirected,6597,,7,7
+Poland,Georgia,Undirected,6598,,10,10
+Poland,Israel,Undirected,6599,,20,20
+Poland,Lithuania,Undirected,6600,,6,6
+Poland,Qatar,Undirected,6601,,2,2
+Poland,Jordan,Undirected,6602,,2,2
+Poland,Montenegro,Undirected,6603,,3,3
+Poland,Lebanon,Undirected,6604,,2,2
+Poland,India,Undirected,6605,,2,2
+Poland,South Korea,Undirected,6606,,2,2
+Poland,Moldova,Undirected,6607,,2,2
+Poland,Slovakia,Undirected,6608,,2,2
+Poland,Japan,Undirected,6609,,2,2
+Poland,Singapore,Undirected,6610,,2,2
+Poland,Macedonia,Undirected,6611,,2,2
+Poland,Kazakhstan,Undirected,6612,,1,1
+Poland,Egypt,Undirected,6613,,14,14
+Poland,Morocco,Undirected,6614,,1,1
+Poland,Albania,Undirected,6615,,2,2
+Poland,Cuba,Undirected,6616,,1,1
+Poland,Mexico,Undirected,6617,,2,2
+Poland,Dominican Republic,Undirected,6618,,1,1
+Sweden,Greece,Undirected,6619,,30,30
+Sweden,France,Undirected,6620,,37,37
+Sweden,Austria,Undirected,6621,,12,12
+Sweden,Morocco,Undirected,6622,,3,3
+Sweden,Belarus,Undirected,6623,,2,2
+Sweden,Latvia,Undirected,6624,,8,8
+Sweden,Switzerland,Undirected,6625,,15,15
+Sweden,China,Undirected,6626,,6,6
+Sweden,Spain,Undirected,6627,,85,85
+Sweden,Serbia,Undirected,6628,,16,16
+Sweden,Thailand,Undirected,6629,,6,6
+Sweden,Hungary,Undirected,6630,,9,9
+Sweden,Italy,Undirected,6631,,43,43
+Sweden,Croatia,Undirected,6632,,20,20
+Sweden,Portugal,Undirected,6633,,16,16
+Sweden,United States,Undirected,6634,,16,16
+Sweden,Cyprus,Undirected,6635,,10,10
+Sweden,Czech Republic,Undirected,6636,,13,13
+Sweden,Bosnia and Herzegovina,Undirected,6637,,8,8
+Sweden,Israel,Undirected,6638,,2,2
+Sweden,Lithuania,Undirected,6639,,4,4
+Sweden,United Arab Emirates,Undirected,6640,,4,4
+Sweden,Iran,Undirected,6641,,6,6
+Sweden,Ethiopia,Undirected,6642,,3,3
+Sweden,Malta,Undirected,6643,,6,6
+Sweden,Turkey,Undirected,6644,,22,22
+Sweden,Qatar,Undirected,6645,,4,4
+Sweden,Russia,Undirected,6646,,11,11
+Sweden,Iraq,Undirected,6647,,14,14
+Sweden,Macedonia,Undirected,6648,,8,8
+Sweden,Romania,Undirected,6649,,6,6
+Sweden,India,Undirected,6650,,2,2
+Sweden,Ukraine,Undirected,6651,,2,2
+Sweden,Montenegro,Undirected,6652,,1,1
+Sweden,South Korea,Undirected,6653,,1,1
+Sweden,Egypt,Undirected,6654,,2,2
+South Africa,India,Undirected,6655,,6,6
+South Africa,France,Undirected,6656,,6,6
+South Africa,United Arab Emirates,Undirected,6657,,20,20
+South Africa,United States,Undirected,6658,,11,11
+South Africa,Zimbabwe,Undirected,6659,,33,33
+South Africa,Zambia,Undirected,6660,,22,22
+South Africa,Mauritius,Undirected,6661,,10,10
+South Africa,Namibia,Undirected,6662,,28,28
+South Africa,Botswana,Undirected,6663,,26,26
+South Africa,Congo (Kinshasa),Undirected,6664,,8,8
+South Africa,China,Undirected,6665,,4,4
+South Africa,Hong Kong,Undirected,6666,,6,6
+South Africa,Angola,Undirected,6667,,6,6
+South Africa,Ethiopia,Undirected,6668,,6,6
+South Africa,Malawi,Undirected,6669,,7,7
+South Africa,Seychelles,Undirected,6670,,4,4
+South Africa,Tanzania,Undirected,6671,,7,7
+South Africa,Brazil,Undirected,6672,,6,6
+South Africa,Kenya,Undirected,6673,,14,14
+South Africa,Switzerland,Undirected,6674,,6,6
+South Africa,Israel,Undirected,6675,,2,2
+South Africa,Madagascar,Undirected,6676,,5,5
+South Africa,Egypt,Undirected,6677,,4,4
+South Africa,Singapore,Undirected,6678,,8,8
+South Africa,Australia,Undirected,6679,,8,8
+South Africa,Qatar,Undirected,6680,,5,5
+South Africa,Mozambique,Undirected,6681,,43,43
+South Africa,Thailand,Undirected,6682,,4,4
+South Africa,Congo (Brazzaville),Undirected,6683,,4,4
+South Africa,Senegal,Undirected,6684,,7,7
+South Africa,Uganda,Undirected,6685,,2,2
+South Africa,Rwanda,Undirected,6686,,4,4
+South Africa,Gabon,Undirected,6687,,2,2
+South Africa,Lesotho,Undirected,6688,,4,4
+South Africa,Swaziland,Undirected,6689,,3,3
+South Africa,Saudi Arabia,Undirected,6690,,2,2
+South Africa,Turkey,Undirected,6691,,4,4
+South Africa,Reunion,Undirected,6692,,2,2
+South Africa,Italy,Undirected,6693,,2,2
+South Africa,Spain,Undirected,6694,,1,1
+South Africa,Austria,Undirected,6695,,2,2
+Botswana,Zimbabwe,Undirected,6696,,6,6
+Botswana,Zambia,Undirected,6697,,2,2
+Botswana,Kenya,Undirected,6698,,2,2
+Botswana,Namibia,Undirected,6699,,3,3
+Botswana,Ethiopia,Undirected,6700,,2,2
+Congo (Brazzaville),France,Undirected,6701,,8,8
+Congo (Brazzaville),Morocco,Undirected,6702,,4,4
+Congo (Brazzaville),Congo (Kinshasa),Undirected,6703,,13,13
+Congo (Brazzaville),Angola,Undirected,6704,,4,4
+Congo (Brazzaville),Gabon,Undirected,6705,,13,13
+Congo (Brazzaville),Ethiopia,Undirected,6706,,4,4
+Congo (Brazzaville),Cameroon,Undirected,6707,,9,9
+Congo (Brazzaville),Kenya,Undirected,6708,,4,4
+Congo (Brazzaville),Rwanda,Undirected,6709,,2,2
+Congo (Brazzaville),Equatorial Guinea,Undirected,6710,,2,2
+Congo (Brazzaville),Turkey,Undirected,6711,,1,1
+Congo (Kinshasa),Cameroon,Undirected,6712,,9,9
+Congo (Kinshasa),Angola,Undirected,6713,,5,5
+Congo (Kinshasa),France,Undirected,6714,,2,2
+Congo (Kinshasa),Morocco,Undirected,6715,,2,2
+Congo (Kinshasa),Ethiopia,Undirected,6716,,7,7
+Congo (Kinshasa),Zambia,Undirected,6717,,5,5
+Congo (Kinshasa),Gabon,Undirected,6718,,5,5
+Congo (Kinshasa),Kenya,Undirected,6719,,9,9
+Congo (Kinshasa),Turkey,Undirected,6720,,3,3
+Congo (Kinshasa),Burundi,Undirected,6721,,1,1
+Congo (Kinshasa),Uganda,Undirected,6722,,2,2
+Congo (Kinshasa),Chad,Undirected,6723,,1,1
+Congo (Kinshasa),Rwanda,Undirected,6724,,1,1
+Congo (Kinshasa),Malawi,Undirected,6725,,1,1
+Central African Republic,Cameroon,Undirected,6726,,10,10
+Central African Republic,France,Undirected,6727,,1,1
+Central African Republic,Morocco,Undirected,6728,,2,2
+Central African Republic,Chad,Undirected,6729,,1,1
+Central African Republic,Kenya,Undirected,6730,,2,2
+Central African Republic,Uganda,Undirected,6731,,2,2
+Equatorial Guinea,Cameroon,Undirected,6732,,11,11
+Equatorial Guinea,Morocco,Undirected,6733,,2,2
+Equatorial Guinea,Gabon,Undirected,6734,,6,6
+Equatorial Guinea,Ethiopia,Undirected,6735,,4,4
+Equatorial Guinea,Spain,Undirected,6736,,3,3
+Equatorial Guinea,Sao Tome and Principe,Undirected,6737,,1,1
+Equatorial Guinea,France,Undirected,6738,,1,1
+Mauritius,France,Undirected,6739,,5,5
+Mauritius,Reunion,Undirected,6740,,15,15
+Mauritius,India,Undirected,6741,,13,13
+Mauritius,United Arab Emirates,Undirected,6742,,4,4
+Mauritius,Seychelles,Undirected,6743,,2,2
+Mauritius,Italy,Undirected,6744,,4,4
+Mauritius,Kenya,Undirected,6745,,4,4
+Mauritius,Madagascar,Undirected,6746,,7,7
+Mauritius,Malaysia,Undirected,6747,,4,4
+Mauritius,Hong Kong,Undirected,6748,,2,2
+Mauritius,China,Undirected,6749,,4,4
+Mauritius,Australia,Undirected,6750,,2,2
+Mauritius,Russia,Undirected,6751,,2,2
+Mauritius,Tanzania,Undirected,6752,,1,1
+Mauritius,Switzerland,Undirected,6753,,3,3
+Mauritius,Singapore,Undirected,6754,,1,1
+Mauritius,Saudi Arabia,Undirected,6755,,3,3
+Mauritius,Turkey,Undirected,6756,,2,2
+Mauritius,Austria,Undirected,6757,,2,2
+Cameroon,Senegal,Undirected,6758,,2,2
+Cameroon,France,Undirected,6759,,8,8
+Cameroon,Morocco,Undirected,6760,,4,4
+Cameroon,Ethiopia,Undirected,6761,,6,6
+Cameroon,Chad,Undirected,6762,,14,14
+Cameroon,Gabon,Undirected,6763,,13,13
+Cameroon,Kenya,Undirected,6764,,4,4
+Cameroon,Turkey,Undirected,6765,,4,4
+Cameroon,Rwanda,Undirected,6766,,1,1
+Cameroon,Mali,Undirected,6767,,1,1
+Cameroon,Egypt,Undirected,6768,,2,2
+Zambia,Zimbabwe,Undirected,6769,,24,24
+Zambia,Malawi,Undirected,6770,,13,13
+Zambia,Kenya,Undirected,6771,,16,16
+Zambia,Angola,Undirected,6772,,2,2
+Zambia,United Arab Emirates,Undirected,6773,,2,2
+Zambia,Ethiopia,Undirected,6774,,4,4
+Zambia,Namibia,Undirected,6775,,4,4
+Zambia,Tanzania,Undirected,6776,,3,3
+Zambia,Turkey,Undirected,6777,,2,2
+Zambia,Rwanda,Undirected,6778,,1,1
+Comoros,Mayotte,Undirected,6779,,9,9
+Comoros,Kenya,Undirected,6780,,6,6
+Comoros,Djibouti,Undirected,6781,,2,2
+Comoros,Madagascar,Undirected,6782,,5,5
+Comoros,Tanzania,Undirected,6783,,5,5
+Comoros,Reunion,Undirected,6784,,2,2
+Comoros,Ethiopia,Undirected,6785,,1,1
+Mayotte,Kenya,Undirected,6786,,5,5
+Mayotte,Madagascar,Undirected,6787,,13,13
+Mayotte,Reunion,Undirected,6788,,3,3
+Mayotte,France,Undirected,6789,,3,3
+Mayotte,Tanzania,Undirected,6790,,2,2
+Mayotte,Mozambique,Undirected,6791,,1,1
+Reunion,France,Undirected,6792,,12,12
+Reunion,Madagascar,Undirected,6793,,16,16
+Reunion,India,Undirected,6794,,2,2
+Reunion,China,Undirected,6795,,1,1
+Reunion,Thailand,Undirected,6796,,1,1
+Reunion,Seychelles,Undirected,6797,,1,1
+Reunion,Djibouti,Undirected,6798,,1,1
+Madagascar,France,Undirected,6799,,8,8
+Madagascar,Kenya,Undirected,6800,,2,2
+Madagascar,Thailand,Undirected,6801,,4,4
+Madagascar,Ethiopia,Undirected,6802,,4,4
+Angola,France,Undirected,6803,,2,2
+Angola,Morocco,Undirected,6804,,2,2
+Angola,United Arab Emirates,Undirected,6805,,4,4
+Angola,Brazil,Undirected,6806,,4,4
+Angola,Cuba,Undirected,6807,,2,2
+Angola,Zimbabwe,Undirected,6808,,1,1
+Angola,Portugal,Undirected,6809,,6,6
+Angola,China,Undirected,6810,,2,2
+Angola,Sao Tome and Principe,Undirected,6811,,2,2
+Angola,Namibia,Undirected,6812,,8,8
+Angola,Ethiopia,Undirected,6813,,4,4
+Angola,Spain,Undirected,6814,,2,2
+Angola,Kenya,Undirected,6815,,2,2
+Angola,Mozambique,Undirected,6816,,3,3
+Angola,Gabon,Undirected,6817,,2,2
+Angola,Qatar,Undirected,6818,,2,2
+Gabon,France,Undirected,6819,,2,2
+Gabon,Morocco,Undirected,6820,,2,2
+Gabon,Ethiopia,Undirected,6821,,2,2
+Gabon,Turkey,Undirected,6822,,2,2
+Gabon,Rwanda,Undirected,6823,,2,2
+Gabon,Sao Tome and Principe,Undirected,6824,,1,1
+Gabon,Mali,Undirected,6825,,1,1
+Sao Tome and Principe,Cape Verde,Undirected,6826,,2,2
+Sao Tome and Principe,Portugal,Undirected,6827,,3,3
+Mozambique,Ethiopia,Undirected,6828,,3,3
+Mozambique,Kenya,Undirected,6829,,8,8
+Mozambique,Tanzania,Undirected,6830,,2,2
+Mozambique,Portugal,Undirected,6831,,2,2
+Mozambique,Malawi,Undirected,6832,,3,3
+Mozambique,Qatar,Undirected,6833,,1,1
+Seychelles,United Arab Emirates,Undirected,6834,,8,8
+Seychelles,Kenya,Undirected,6835,,2,2
+Seychelles,Sri Lanka,Undirected,6836,,4,4
+Seychelles,Russia,Undirected,6837,,2,2
+Seychelles,France,Undirected,6838,,2,2
+Seychelles,Ethiopia,Undirected,6839,,2,2
+Seychelles,India,Undirected,6840,,1,1
+Seychelles,Qatar,Undirected,6841,,2,2
+Seychelles,Turkey,Undirected,6842,,2,2
+Seychelles,Switzerland,Undirected,6843,,2,2
+Chad,Saudi Arabia,Undirected,6844,,1,1
+Chad,France,Undirected,6845,,2,2
+Chad,Ethiopia,Undirected,6846,,2,2
+Chad,Sudan,Undirected,6847,,3,3
+Chad,Turkey,Undirected,6848,,2,2
+Chad,Morocco,Undirected,6849,,2,2
+Chad,Kenya,Undirected,6850,,1,1
+Chad,Egypt,Undirected,6851,,2,2
+Zimbabwe,Kenya,Undirected,6852,,9,9
+Zimbabwe,Ethiopia,Undirected,6853,,7,7
+Zimbabwe,Malawi,Undirected,6854,,3,3
+Zimbabwe,Tanzania,Undirected,6855,,3,3
+Zimbabwe,Namibia,Undirected,6856,,4,4
+Zimbabwe,Rwanda,Undirected,6857,,1,1
+Malawi,Kenya,Undirected,6858,,10,10
+Malawi,Ethiopia,Undirected,6859,,4,4
+Malawi,Tanzania,Undirected,6860,,4,4
+Mali,Senegal,Undirected,6861,,16,16
+Mali,France,Undirected,6862,,4,4
+Mali,Morocco,Undirected,6863,,2,2
+Mali,Guinea,Undirected,6864,,6,6
+Mali,Ethiopia,Undirected,6865,,4,4
+Mali,Kenya,Undirected,6866,,2,2
+Mali,Mauritania,Undirected,6867,,2,2
+Mali,Portugal,Undirected,6868,,2,2
+Mali,Turkey,Undirected,6869,,2,2
+Gambia,Spain,Undirected,6870,,8,8
+Gambia,Senegal,Undirected,6871,,12,12
+Gambia,Sierra Leone,Undirected,6872,,8,8
+Gambia,Morocco,Undirected,6873,,2,2
+Gambia,Guinea-Bissau,Undirected,6874,,2,2
+Gambia,Cape Verde,Undirected,6875,,3,3
+Gambia,Liberia,Undirected,6876,,3,3
+Gambia,Turkey,Undirected,6877,,2,2
+Gambia,Guinea,Undirected,6878,,2,2
+Gambia,Portugal,Undirected,6879,,2,2
+Spain,Switzerland,Undirected,6880,,143,143
+Spain,Morocco,Undirected,6881,,100,100
+Spain,Latvia,Undirected,6882,,8,8
+Spain,Greece,Undirected,6883,,16,16
+Spain,United States,Undirected,6884,,130,130
+Spain,Senegal,Undirected,6885,,20,20
+Spain,Austria,Undirected,6886,,128,128
+Spain,France,Undirected,6887,,396,396
+Spain,Portugal,Undirected,6888,,110,110
+Spain,Mexico,Undirected,6889,,20,20
+Spain,Argentina,Undirected,6890,,12,12
+Spain,Colombia,Undirected,6891,,16,16
+Spain,Italy,Undirected,6892,,307,307
+Spain,Belarus,Undirected,6893,,2,2
+Spain,El Salvador,Undirected,6894,,3,3
+Spain,Brazil,Undirected,6895,,21,21
+Spain,China,Undirected,6896,,17,17
+Spain,Cuba,Undirected,6897,,8,8
+Spain,Qatar,Undirected,6898,,13,13
+Spain,Dominican Republic,Undirected,6899,,12,12
+Spain,United Arab Emirates,Undirected,6900,,10,10
+Spain,Bulgaria,Undirected,6901,,19,19
+Spain,Slovakia,Undirected,6902,,9,9
+Spain,Lithuania,Undirected,6903,,9,9
+Spain,Hungary,Undirected,6904,,21,21
+Spain,Malta,Undirected,6905,,14,14
+Spain,Russia,Undirected,6906,,73,73
+Spain,Jordan,Undirected,6907,,8,8
+Spain,Croatia,Undirected,6908,,13,13
+Spain,Ukraine,Undirected,6909,,24,24
+Spain,Romania,Undirected,6910,,47,47
+Spain,Czech Republic,Undirected,6911,,46,46
+Spain,Israel,Undirected,6912,,15,15
+Spain,Venezuela,Undirected,6913,,10,10
+Spain,Ecuador,Undirected,6914,,12,12
+Spain,Peru,Undirected,6915,,9,9
+Spain,Mauritania,Undirected,6916,,7,7
+Spain,Guatemala,Undirected,6917,,1,1
+Spain,Panama,Undirected,6918,,4,4
+Spain,Chile,Undirected,6919,,6,6
+Spain,Costa Rica,Undirected,6920,,2,2
+Spain,South Korea,Undirected,6921,,6,6
+Spain,Libya,Undirected,6922,,2,2
+Spain,Egypt,Undirected,6923,,4,4
+Spain,Western Sahara,Undirected,6924,,9,9
+Spain,Cape Verde,Undirected,6925,,4,4
+Spain,Bolivia,Undirected,6926,,5,5
+Spain,Turkey,Undirected,6927,,18,18
+Spain,Pakistan,Undirected,6928,,5,5
+Spain,Singapore,Undirected,6929,,2,2
+Spain,Saudi Arabia,Undirected,6930,,7,7
+Spain,Thailand,Undirected,6931,,2,2
+Spain,Uruguay,Undirected,6932,,4,4
+Spain,Moldova,Undirected,6933,,2,2
+Spain,Georgia,Undirected,6934,,2,2
+Spain,India,Undirected,6935,,2,2
+Spain,Hong Kong,Undirected,6936,,4,4
+Spain,Ethiopia,Undirected,6937,,2,2
+Spain,Japan,Undirected,6938,,2,2
+Spain,Lebanon,Undirected,6939,,5,5
+Spain,Paraguay,Undirected,6940,,2,2
+Spain,Honduras,Undirected,6941,,2,2
+Spain,Puerto Rico,Undirected,6942,,3,3
+Spain,Iran,Undirected,6943,,1,1
+Spain,Macedonia,Undirected,6944,,1,1
+Spain,Bangladesh,Undirected,6945,,1,1
+Spain,Uzbekistan,Undirected,6946,,1,1
+Sierra Leone,Senegal,Undirected,6947,,4,4
+Sierra Leone,Liberia,Undirected,6948,,19,19
+Sierra Leone,France,Undirected,6949,,3,3
+Sierra Leone,Morocco,Undirected,6950,,2,2
+Sierra Leone,Guinea,Undirected,6951,,2,2
+Guinea-Bissau,Guinea,Undirected,6952,,4,4
+Guinea-Bissau,Senegal,Undirected,6953,,8,8
+Guinea-Bissau,Morocco,Undirected,6954,,2,2
+Guinea-Bissau,Cape Verde,Undirected,6955,,2,2
+Guinea-Bissau,Portugal,Undirected,6956,,2,2
+Liberia,France,Undirected,6957,,2,2
+Liberia,Morocco,Undirected,6958,,2,2
+Liberia,Guinea,Undirected,6959,,1,1
+Morocco,Italy,Undirected,6960,,49,49
+Morocco,France,Undirected,6961,,218,218
+Morocco,Turkey,Undirected,6962,,10,10
+Morocco,Libya,Undirected,6963,,10,10
+Morocco,Western Sahara,Undirected,6964,,12,12
+Morocco,United Arab Emirates,Undirected,6965,,10,10
+Morocco,Lebanon,Undirected,6966,,2,2
+Morocco,Egypt,Undirected,6967,,4,4
+Morocco,Guinea,Undirected,6968,,2,2
+Morocco,Senegal,Undirected,6969,,4,4
+Morocco,Brazil,Undirected,6970,,4,4
+Morocco,Switzerland,Undirected,6971,,14,14
+Morocco,Saudi Arabia,Undirected,6972,,16,16
+Morocco,United States,Undirected,6973,,9,9
+Morocco,Portugal,Undirected,6974,,12,12
+Morocco,Mauritania,Undirected,6975,,7,7
+Morocco,Cape Verde,Undirected,6976,,2,2
+Morocco,Russia,Undirected,6977,,6,6
+Morocco,Qatar,Undirected,6978,,7,7
+Morocco,Austria,Undirected,6979,,6,6
+Morocco,Greece,Undirected,6980,,7,7
+Morocco,Jordan,Undirected,6981,,2,2
+Morocco,Gibraltar,Undirected,6982,,2,2
+Morocco,Hungary,Undirected,6983,,1,1
+Morocco,Czech Republic,Undirected,6984,,1,1
+Morocco,Bahrain,Undirected,6985,,1,1
+Morocco,Malta,Undirected,6986,,1,1
+Morocco,Oman,Undirected,6987,,1,1
+Senegal,Guinea,Undirected,6988,,20,20
+Senegal,France,Undirected,6989,,9,9
+Senegal,United States,Undirected,6990,,11,11
+Senegal,Mauritania,Undirected,6991,,7,7
+Senegal,Cape Verde,Undirected,6992,,6,6
+Senegal,United Arab Emirates,Undirected,6993,,3,3
+Senegal,Italy,Undirected,6994,,2,2
+Senegal,Turkey,Undirected,6995,,4,4
+Senegal,Portugal,Undirected,6996,,4,4
+Senegal,Brazil,Undirected,6997,,2,2
+Mauritania,France,Undirected,6998,,2,2
+Mauritania,Guinea,Undirected,6999,,2,2
+Mauritania,Turkey,Undirected,7000,,1,1
+Guinea,France,Undirected,7001,,2,2
+Guinea,Portugal,Undirected,7002,,2,2
+Cape Verde,Portugal,Undirected,7003,,18,18
+Cape Verde,France,Undirected,7004,,8,8
+Cape Verde,United States,Undirected,7005,,4,4
+Cape Verde,Brazil,Undirected,7006,,7,7
+Cape Verde,Italy,Undirected,7007,,2,2
+Ethiopia,Saudi Arabia,Undirected,7008,,20,20
+Ethiopia,India,Undirected,7009,,11,11
+Ethiopia,China,Undirected,7010,,14,14
+Ethiopia,United Arab Emirates,Undirected,7011,,9,9
+Ethiopia,Lebanon,Undirected,7012,,2,2
+Ethiopia,Thailand,Undirected,7013,,4,4
+Ethiopia,Egypt,Undirected,7014,,4,4
+Ethiopia,France,Undirected,7015,,2,2
+Ethiopia,Tanzania,Undirected,7016,,8,8
+Ethiopia,Uganda,Undirected,7017,,3,3
+Ethiopia,Italy,Undirected,7018,,4,4
+Ethiopia,Somalia,Undirected,7019,,4,4
+Ethiopia,Hong Kong,Undirected,7020,,2,2
+Ethiopia,Djibouti,Undirected,7021,,10,10
+Ethiopia,South Sudan,Undirected,7022,,4,4
+Ethiopia,Rwanda,Undirected,7023,,4,4
+Ethiopia,Sudan,Undirected,7024,,5,5
+Ethiopia,Kuwait,Undirected,7025,,5,5
+Ethiopia,Kenya,Undirected,7026,,14,14
+Ethiopia,Oman,Undirected,7027,,4,4
+Ethiopia,Israel,Undirected,7028,,2,2
+Ethiopia,United States,Undirected,7029,,4,4
+Ethiopia,Bahrain,Undirected,7030,,4,4
+Ethiopia,Yemen,Undirected,7031,,2,2
+Ethiopia,Qatar,Undirected,7032,,4,4
+Ethiopia,Turkey,Undirected,7033,,4,4
+Ethiopia,Eritrea,Undirected,7034,,3,3
+Ethiopia,Burundi,Undirected,7035,,2,2
+Ethiopia,Russia,Undirected,7036,,1,1
+Ethiopia,Brazil,Undirected,7037,,2,2
+Ethiopia,South Korea,Undirected,7038,,2,2
+Ethiopia,Singapore,Undirected,7039,,2,2
+Ethiopia,Austria,Undirected,7040,,2,2
+Ethiopia,Namibia,Undirected,7041,,2,2
+Ethiopia,Greece,Undirected,7042,,1,1
+Ethiopia,Switzerland,Undirected,7043,,2,2
+Ethiopia,Philippines,Undirected,7044,,1,1
+Ethiopia,Indonesia,Undirected,7045,,2,2
+Ethiopia,Vietnam,Undirected,7046,,1,1
+Burundi,Kenya,Undirected,7047,,9,9
+Burundi,Rwanda,Undirected,7048,,13,13
+Burundi,Uganda,Undirected,7049,,4,4
+Burundi,Tanzania,Undirected,7050,,1,1
+Somalia,Djibouti,Undirected,7051,,13,13
+Somalia,Kenya,Undirected,7052,,16,16
+Somalia,United Arab Emirates,Undirected,7053,,10,10
+Somalia,Yemen,Undirected,7054,,3,3
+Somalia,Uganda,Undirected,7055,,2,2
+Egypt,Switzerland,Undirected,7056,,28,28
+Egypt,Israel,Undirected,7057,,2,2
+Egypt,France,Undirected,7058,,10,10
+Egypt,Libya,Undirected,7059,,23,23
+Egypt,Greece,Undirected,7060,,8,8
+Egypt,India,Undirected,7061,,4,4
+Egypt,Saudi Arabia,Undirected,7062,,151,151
+Egypt,Italy,Undirected,7063,,35,35
+Egypt,China,Undirected,7064,,11,11
+Egypt,Jordan,Undirected,7065,,22,22
+Egypt,Kuwait,Undirected,7066,,46,46
+Egypt,United Arab Emirates,Undirected,7067,,24,24
+Egypt,Cyprus,Undirected,7068,,4,4
+Egypt,Bahrain,Undirected,7069,,6,6
+Egypt,Austria,Undirected,7070,,14,14
+Egypt,Yemen,Undirected,7071,,11,11
+Egypt,Lebanon,Undirected,7072,,6,6
+Egypt,Thailand,Undirected,7073,,6,6
+Egypt,Eritrea,Undirected,7074,,2,2
+Egypt,Iraq,Undirected,7075,,9,9
+Egypt,Hungary,Undirected,7076,,2,2
+Egypt,Indonesia,Undirected,7077,,2,2
+Egypt,Tanzania,Undirected,7078,,2,2
+Egypt,Russia,Undirected,7079,,22,22
+Egypt,Qatar,Undirected,7080,,8,8
+Egypt,Uganda,Undirected,7081,,2,2
+Egypt,Turkey,Undirected,7082,,21,21
+Egypt,United States,Undirected,7083,,6,6
+Egypt,South Sudan,Undirected,7084,,4,4
+Egypt,Sudan,Undirected,7085,,8,8
+Egypt,Oman,Undirected,7086,,5,5
+Egypt,Kenya,Undirected,7087,,5,5
+Egypt,Kazakhstan,Undirected,7088,,2,2
+Egypt,Malta,Undirected,7089,,1,1
+Egypt,Japan,Undirected,7090,,2,2
+Egypt,Ukraine,Undirected,7091,,1,1
+Egypt,Romania,Undirected,7092,,2,2
+Egypt,Serbia,Undirected,7093,,2,2
+Egypt,Slovakia,Undirected,7094,,1,1
+Egypt,Czech Republic,Undirected,7095,,5,5
+Egypt,Armenia,Undirected,7096,,2,2
+Egypt,Georgia,Undirected,7097,,2,2
+Egypt,Lithuania,Undirected,7098,,2,2
+Egypt,Hong Kong,Undirected,7099,,1,1
+Egypt,Slovenia,Undirected,7100,,1,1
+Egypt,Rwanda,Undirected,7101,,1,1
+Kenya,South Sudan,Undirected,7102,,4,4
+Kenya,Tanzania,Undirected,7103,,39,39
+Kenya,India,Undirected,7104,,6,6
+Kenya,Rwanda,Undirected,7105,,14,14
+Kenya,France,Undirected,7106,,5,5
+Kenya,United Arab Emirates,Undirected,7107,,19,19
+Kenya,Thailand,Undirected,7108,,6,6
+Kenya,China,Undirected,7109,,6,6
+Kenya,Yemen,Undirected,7110,,3,3
+Kenya,South Korea,Undirected,7111,,4,4
+Kenya,Djibouti,Undirected,7112,,4,4
+Kenya,Uganda,Undirected,7113,,12,12
+Kenya,Saudi Arabia,Undirected,7114,,6,6
+Kenya,Sudan,Undirected,7115,,4,4
+Kenya,Switzerland,Undirected,7116,,7,7
+Kenya,Turkey,Undirected,7117,,8,8
+Kenya,Qatar,Undirected,7118,,4,4
+Kenya,Eritrea,Undirected,7119,,2,2
+Kenya,Italy,Undirected,7120,,2,2
+Kenya,United States,Undirected,7121,,2,2
+Kenya,Oman,Undirected,7122,,1,1
+Libya,Jordan,Undirected,7123,,14,14
+Libya,Turkey,Undirected,7124,,16,16
+Libya,Saudi Arabia,Undirected,7125,,4,4
+Libya,United Arab Emirates,Undirected,7126,,2,2
+Libya,Italy,Undirected,7127,,4,4
+Libya,Malta,Undirected,7128,,7,7
+Rwanda,Uganda,Undirected,7129,,19,19
+Rwanda,Turkey,Undirected,7130,,3,3
+Rwanda,Tanzania,Undirected,7131,,4,4
+Rwanda,United Arab Emirates,Undirected,7132,,2,2
+Rwanda,South Sudan,Undirected,7133,,2,2
+Rwanda,Qatar,Undirected,7134,,2,2
+Rwanda,India,Undirected,7135,,1,1
+Rwanda,Djibouti,Undirected,7136,,1,1
+Sudan,United Arab Emirates,Undirected,7137,,21,21
+Sudan,Bahrain,Undirected,7138,,2,2
+Sudan,Yemen,Undirected,7139,,2,2
+Sudan,Qatar,Undirected,7140,,4,4
+Sudan,Jordan,Undirected,7141,,4,4
+Sudan,Saudi Arabia,Undirected,7142,,24,24
+Sudan,South Sudan,Undirected,7143,,6,6
+Sudan,Turkey,Undirected,7144,,4,4
+Sudan,Eritrea,Undirected,7145,,3,3
+Sudan,Kuwait,Undirected,7146,,1,1
+Sudan,Syria,Undirected,7147,,1,1
+Sudan,Oman,Undirected,7148,,1,1
+South Sudan,United Arab Emirates,Undirected,7149,,2,2
+South Sudan,Uganda,Undirected,7150,,6,6
+South Sudan,Eritrea,Undirected,7151,,1,1
+Tanzania,United Arab Emirates,Undirected,7152,,5,5
+Tanzania,Uganda,Undirected,7153,,9,9
+Tanzania,Qatar,Undirected,7154,,5,5
+Tanzania,Turkey,Undirected,7155,,5,5
+Tanzania,Oman,Undirected,7156,,2,2
+Tanzania,Switzerland,Undirected,7157,,2,2
+Uganda,United Arab Emirates,Undirected,7158,,3,3
+Uganda,Qatar,Undirected,7159,,2,2
+Uganda,Turkey,Undirected,7160,,3,3
+Uganda,Eritrea,Undirected,7161,,1,1
+Uganda,Djibouti,Undirected,7162,,1,1
+Albania,Greece,Undirected,7163,,4,4
+Albania,Italy,Undirected,7164,,66,66
+Albania,Slovenia,Undirected,7165,,2,2
+Albania,Austria,Undirected,7166,,3,3
+Albania,Turkey,Undirected,7167,,5,5
+Albania,Serbia,Undirected,7168,,1,1
+Albania,Hungary,Undirected,7169,,1,1
+Albania,Czech Republic,Undirected,7170,,2,2
+Albania,France,Undirected,7171,,2,2
+Albania,Switzerland,Undirected,7172,,2,2
+Bulgaria,Greece,Undirected,7173,,9,9
+Bulgaria,France,Undirected,7174,,7,7
+Bulgaria,Italy,Undirected,7175,,19,19
+Bulgaria,Cyprus,Undirected,7176,,9,9
+Bulgaria,Russia,Undirected,7177,,20,20
+Bulgaria,Romania,Undirected,7178,,6,6
+Bulgaria,Czech Republic,Undirected,7179,,8,8
+Bulgaria,Israel,Undirected,7180,,6,6
+Bulgaria,Austria,Undirected,7181,,8,8
+Bulgaria,Switzerland,Undirected,7182,,5,5
+Bulgaria,Serbia,Undirected,7183,,4,4
+Bulgaria,Turkey,Undirected,7184,,4,4
+Bulgaria,United Arab Emirates,Undirected,7185,,3,3
+Bulgaria,Ukraine,Undirected,7186,,3,3
+Bulgaria,Iraq,Undirected,7187,,2,2
+Bulgaria,Qatar,Undirected,7188,,2,2
+Bulgaria,Hungary,Undirected,7189,,1,1
+Bulgaria,Slovakia,Undirected,7190,,1,1
+Bulgaria,Malta,Undirected,7191,,1,1
+Cyprus,Switzerland,Undirected,7192,,14,14
+Cyprus,Turkey,Undirected,7193,,38,38
+Cyprus,Moldova,Undirected,7194,,2,2
+Cyprus,Greece,Undirected,7195,,30,30
+Cyprus,Austria,Undirected,7196,,8,8
+Cyprus,France,Undirected,7197,,6,6
+Cyprus,Belarus,Undirected,7198,,2,2
+Cyprus,Latvia,Undirected,7199,,3,3
+Cyprus,United Arab Emirates,Undirected,7200,,6,6
+Cyprus,Lebanon,Undirected,7201,,6,6
+Cyprus,Romania,Undirected,7202,,10,10
+Cyprus,Russia,Undirected,7203,,29,29
+Cyprus,Israel,Undirected,7204,,11,11
+Cyprus,Malta,Undirected,7205,,4,4
+Cyprus,Lithuania,Undirected,7206,,3,3
+Cyprus,Bahrain,Undirected,7207,,2,2
+Cyprus,Serbia,Undirected,7208,,4,4
+Cyprus,Ukraine,Undirected,7209,,14,14
+Cyprus,Qatar,Undirected,7210,,2,2
+Cyprus,Jordan,Undirected,7211,,3,3
+Cyprus,Italy,Undirected,7212,,4,4
+Cyprus,Hungary,Undirected,7213,,3,3
+Cyprus,Czech Republic,Undirected,7214,,3,3
+Cyprus,Slovakia,Undirected,7215,,3,3
+Cyprus,Georgia,Undirected,7216,,1,1
+Croatia,France,Undirected,7217,,27,27
+Croatia,Switzerland,Undirected,7218,,29,29
+Croatia,Czech Republic,Undirected,7219,,7,7
+Croatia,Austria,Undirected,7220,,16,16
+Croatia,Greece,Undirected,7221,,5,5
+Croatia,Serbia,Undirected,7222,,5,5
+Croatia,Italy,Undirected,7223,,16,16
+Croatia,Turkey,Undirected,7224,,6,6
+Croatia,Bosnia and Herzegovina,Undirected,7225,,4,4
+Croatia,Macedonia,Undirected,7226,,2,2
+Croatia,Hungary,Undirected,7227,,2,2
+Croatia,Russia,Undirected,7228,,8,8
+Croatia,South Korea,Undirected,7229,,2,2
+Croatia,Qatar,Undirected,7230,,2,2
+Croatia,Portugal,Undirected,7231,,2,2
+Croatia,Israel,Undirected,7232,,2,2
+Croatia,Romania,Undirected,7233,,2,2
+France,Switzerland,Undirected,7234,,58,58
+France,Guadeloupe,Undirected,7235,,17,17
+France,Israel,Undirected,7236,,29,29
+France,Turkey,Undirected,7237,,66,66
+France,Moldova,Undirected,7238,,4,4
+France,Greece,Undirected,7239,,87,87
+France,Italy,Undirected,7240,,344,344
+France,Czech Republic,Undirected,7241,,40,40
+France,Georgia,Undirected,7242,,5,5
+France,United States,Undirected,7243,,202,202
+France,Malaysia,Undirected,7244,,6,6
+France,Austria,Undirected,7245,,38,38
+France,Jordan,Undirected,7246,,4,4
+France,United Arab Emirates,Undirected,7247,,14,14
+France,Serbia,Undirected,7248,,13,13
+France,Lebanon,Undirected,7249,,10,10
+France,Thailand,Undirected,7250,,6,6
+France,India,Undirected,7251,,9,9
+France,Colombia,Undirected,7252,,2,2
+France,Brazil,Undirected,7253,,12,12
+France,Hungary,Undirected,7254,,16,16
+France,China,Undirected,7255,,31,31
+France,French Guiana,Undirected,7256,,6,6
+France,Venezuela,Undirected,7257,,2,2
+France,Armenia,Undirected,7258,,7,7
+France,Argentina,Undirected,7259,,4,4
+France,Azerbaijan,Undirected,7260,,4,4
+France,Vietnam,Undirected,7261,,12,12
+France,Cuba,Undirected,7262,,7,7
+France,Hong Kong,Undirected,7263,,6,6
+France,Japan,Undirected,7264,,14,14
+France,South Korea,Undirected,7265,,6,6
+France,Saudi Arabia,Undirected,7266,,10,10
+France,Djibouti,Undirected,7267,,2,2
+France,Ukraine,Undirected,7268,,6,6
+France,Russia,Undirected,7269,,33,33
+France,Peru,Undirected,7270,,4,4
+France,Portugal,Undirected,7271,,139,139
+France,Slovenia,Undirected,7272,,4,4
+France,Mexico,Undirected,7273,,10,10
+France,Malta,Undirected,7274,,25,25
+France,Romania,Undirected,7275,,25,25
+France,Panama,Undirected,7276,,2,2
+France,Dominican Republic,Undirected,7277,,18,18
+France,Latvia,Undirected,7278,,6,6
+France,Chile,Undirected,7279,,4,4
+France,Singapore,Undirected,7280,,4,4
+France,Netherlands Antilles,Undirected,7281,,15,15
+France,Martinique,Undirected,7282,,10,10
+France,Belarus,Undirected,7283,,4,4
+France,Taiwan,Undirected,7284,,4,4
+France,Slovakia,Undirected,7285,,2,2
+France,Lithuania,Undirected,7286,,7,7
+France,Bahrain,Undirected,7287,,2,2
+France,Uzbekistan,Undirected,7288,,4,4
+France,Iran,Undirected,7289,,3,3
+France,Pakistan,Undirected,7290,,5,5
+France,Antigua and Barbuda,Undirected,7291,,4,4
+France,Qatar,Undirected,7292,,5,5
+France,Puerto Rico,Undirected,7293,,2,2
+France,Virgin Islands,Undirected,7294,,2,2
+France,Haiti,Undirected,7295,,1,1
+France,Sri Lanka,Undirected,7296,,2,2
+France,Oman,Undirected,7297,,2,2
+France,Montenegro,Undirected,7298,,4,4
+France,Costa Rica,Undirected,7299,,2,2
+France,Kazakhstan,Undirected,7300,,1,1
+France,Kuwait,Undirected,7301,,1,1
+France,Turkmenistan,Undirected,7302,,1,1
+France,Macedonia,Undirected,7303,,3,3
+France,Bosnia and Herzegovina,Undirected,7304,,1,1
+France,Ecuador,Undirected,7305,,2,2
+France,Maldives,Undirected,7306,,2,2
+Greece,Moldova,Undirected,7307,,2,2
+Greece,United Arab Emirates,Undirected,7308,,7,7
+Greece,Serbia,Undirected,7309,,8,8
+Greece,Hungary,Undirected,7310,,8,8
+Greece,Russia,Undirected,7311,,60,60
+Greece,Italy,Undirected,7312,,68,68
+Greece,Switzerland,Undirected,7313,,64,64
+Greece,Ukraine,Undirected,7314,,15,15
+Greece,Turkey,Undirected,7315,,13,13
+Greece,Romania,Undirected,7316,,9,9
+Greece,United States,Undirected,7317,,8,8
+Greece,Czech Republic,Undirected,7318,,28,28
+Greece,Georgia,Undirected,7319,,4,4
+Greece,Israel,Undirected,7320,,12,12
+Greece,Austria,Undirected,7321,,110,110
+Greece,Latvia,Undirected,7322,,4,4
+Greece,Qatar,Undirected,7323,,6,6
+Greece,Lithuania,Undirected,7324,,8,8
+Greece,Malta,Undirected,7325,,5,5
+Greece,Lebanon,Undirected,7326,,4,4
+Greece,Armenia,Undirected,7327,,4,4
+Greece,Jordan,Undirected,7328,,4,4
+Greece,Saudi Arabia,Undirected,7329,,7,7
+Greece,Portugal,Undirected,7330,,4,4
+Greece,Macedonia,Undirected,7331,,1,1
+Greece,China,Undirected,7332,,2,2
+Greece,Slovakia,Undirected,7333,,8,8
+Greece,Bahrain,Undirected,7334,,1,1
+Greece,Iraq,Undirected,7335,,1,1
+Greece,Singapore,Undirected,7336,,2,2
+Greece,Oman,Undirected,7337,,1,1
+Hungary,Italy,Undirected,7338,,28,28
+Hungary,Serbia,Undirected,7339,,6,6
+Hungary,Belarus,Undirected,7340,,3,3
+Hungary,Latvia,Undirected,7341,,2,2
+Hungary,Malta,Undirected,7342,,5,5
+Hungary,Switzerland,Undirected,7343,,4,4
+Hungary,Israel,Undirected,7344,,5,5
+Hungary,Czech Republic,Undirected,7345,,6,6
+Hungary,Austria,Undirected,7346,,3,3
+Hungary,Qatar,Undirected,7347,,2,2
+Hungary,Romania,Undirected,7348,,3,3
+Hungary,Russia,Undirected,7349,,10,10
+Hungary,Turkey,Undirected,7350,,6,6
+Hungary,Portugal,Undirected,7351,,4,4
+Hungary,United Arab Emirates,Undirected,7352,,3,3
+Hungary,Azerbaijan,Undirected,7353,,2,2
+Hungary,Ukraine,Undirected,7354,,4,4
+Hungary,China,Undirected,7355,,4,4
+Hungary,Jordan,Undirected,7356,,1,1
+Hungary,South Korea,Undirected,7357,,3,3
+Hungary,United States,Undirected,7358,,3,3
+Hungary,Georgia,Undirected,7359,,1,1
+Hungary,Bosnia and Herzegovina,Undirected,7360,,1,1
+Hungary,Macedonia,Undirected,7361,,1,1
+Hungary,Montenegro,Undirected,7362,,1,1
+Hungary,Kazakhstan,Undirected,7363,,1,1
+Hungary,Slovakia,Undirected,7364,,2,2
+Italy,Switzerland,Undirected,7365,,102,102
+Italy,Israel,Undirected,7366,,23,23
+Italy,Moldova,Undirected,7367,,30,30
+Italy,United States,Undirected,7368,,116,116
+Italy,Austria,Undirected,7369,,86,86
+Italy,Russia,Undirected,7370,,101,101
+Italy,Czech Republic,Undirected,7371,,63,63
+Italy,Argentina,Undirected,7372,,4,4
+Italy,Jordan,Undirected,7373,,8,8
+Italy,United Arab Emirates,Undirected,7374,,19,19
+Italy,Serbia,Undirected,7375,,16,16
+Italy,Lebanon,Undirected,7376,,8,8
+Italy,Romania,Undirected,7377,,98,98
+Italy,Portugal,Undirected,7378,,49,49
+Italy,Venezuela,Undirected,7379,,3,3
+Italy,Sri Lanka,Undirected,7380,,8,8
+Italy,India,Undirected,7381,,9,9
+Italy,Armenia,Undirected,7382,,3,3
+Italy,Brazil,Undirected,7383,,11,11
+Italy,Azerbaijan,Undirected,7384,,8,8
+Italy,South Korea,Undirected,7385,,11,11
+Italy,Iran,Undirected,7386,,8,8
+Italy,Turkey,Undirected,7387,,34,34
+Italy,Saudi Arabia,Undirected,7388,,16,16
+Italy,Ukraine,Undirected,7389,,25,25
+Italy,Japan,Undirected,7390,,8,8
+Italy,Kuwait,Undirected,7391,,5,5
+Italy,Malta,Undirected,7392,,39,39
+Italy,China,Undirected,7393,,20,20
+Italy,Latvia,Undirected,7394,,18,18
+Italy,Macedonia,Undirected,7395,,9,9
+Italy,Georgia,Undirected,7396,,6,6
+Italy,Montenegro,Undirected,7397,,5,5
+Italy,Belarus,Undirected,7398,,4,4
+Italy,Bangladesh,Undirected,7399,,2,2
+Italy,Mexico,Undirected,7400,,6,6
+Italy,Cuba,Undirected,7401,,11,11
+Italy,Dominican Republic,Undirected,7402,,6,6
+Italy,Qatar,Undirected,7403,,10,10
+Italy,Hong Kong,Undirected,7404,,4,4
+Italy,Slovakia,Undirected,7405,,9,9
+Italy,Lithuania,Undirected,7406,,19,19
+Italy,Uzbekistan,Undirected,7407,,5,5
+Italy,Bosnia and Herzegovina,Undirected,7408,,2,2
+Italy,Maldives,Undirected,7409,,3,3
+Italy,Pakistan,Undirected,7410,,3,3
+Italy,Singapore,Undirected,7411,,4,4
+Italy,Thailand,Undirected,7412,,4,4
+Italy,Oman,Undirected,7413,,2,2
+Italy,Chile,Undirected,7414,,2,2
+Italy,Taiwan,Undirected,7415,,2,2
+Slovenia,Turkey,Undirected,7416,,4,4
+Slovenia,Czech Republic,Undirected,7417,,2,2
+Slovenia,Serbia,Undirected,7418,,5,5
+Slovenia,Bosnia and Herzegovina,Undirected,7419,,2,2
+Slovenia,Macedonia,Undirected,7420,,2,2
+Slovenia,Russia,Undirected,7421,,4,4
+Slovenia,Montenegro,Undirected,7422,,4,4
+Slovenia,Austria,Undirected,7423,,4,4
+Slovenia,Switzerland,Undirected,7424,,4,4
+Czech Republic,Russia,Undirected,7425,,63,63
+Czech Republic,Belarus,Undirected,7426,,4,4
+Czech Republic,Latvia,Undirected,7427,,5,5
+Czech Republic,Slovakia,Undirected,7428,,9,9
+Czech Republic,United Arab Emirates,Undirected,7429,,10,10
+Czech Republic,Uzbekistan,Undirected,7430,,3,3
+Czech Republic,Azerbaijan,Undirected,7431,,4,4
+Czech Republic,Serbia,Undirected,7432,,3,3
+Czech Republic,South Korea,Undirected,7433,,4,4
+Czech Republic,Malta,Undirected,7434,,4,4
+Czech Republic,Lithuania,Undirected,7435,,2,2
+Czech Republic,Switzerland,Undirected,7436,,8,8
+Czech Republic,Israel,Undirected,7437,,8,8
+Czech Republic,Kazakhstan,Undirected,7438,,3,3
+Czech Republic,Romania,Undirected,7439,,10,10
+Czech Republic,Armenia,Undirected,7440,,4,4
+Czech Republic,Ukraine,Undirected,7441,,8,8
+Czech Republic,Austria,Undirected,7442,,2,2
+Czech Republic,Turkey,Undirected,7443,,6,6
+Czech Republic,Portugal,Undirected,7444,,6,6
+Czech Republic,China,Undirected,7445,,6,6
+Czech Republic,Georgia,Undirected,7446,,2,2
+Czech Republic,Jordan,Undirected,7447,,1,1
+Czech Republic,Qatar,Undirected,7448,,2,2
+Czech Republic,Lebanon,Undirected,7449,,2,2
+Czech Republic,United States,Undirected,7450,,2,2
+Israel,Georgia,Undirected,7451,,7,7
+Israel,United States,Undirected,7452,,21,21
+Israel,Belarus,Undirected,7453,,2,2
+Israel,Latvia,Undirected,7454,,3,3
+Israel,China,Undirected,7455,,8,8
+Israel,Austria,Undirected,7456,,7,7
+Israel,Uzbekistan,Undirected,7457,,2,2
+Israel,Jordan,Undirected,7458,,4,4
+Israel,Azerbaijan,Undirected,7459,,2,2
+Israel,Serbia,Undirected,7460,,3,3
+Israel,South Korea,Undirected,7461,,2,2
+Israel,Switzerland,Undirected,7462,,10,10
+Israel,Thailand,Undirected,7463,,5,5
+Israel,India,Undirected,7464,,5,5
+Israel,Russia,Undirected,7465,,28,28
+Israel,Hong Kong,Undirected,7466,,4,4
+Israel,Ukraine,Undirected,7467,,17,17
+Israel,Romania,Undirected,7468,,17,17
+Israel,Turkey,Undirected,7469,,9,9
+Israel,Lithuania,Undirected,7470,,2,2
+Israel,Moldova,Undirected,7471,,1,1
+Israel,Malta,Undirected,7472,,1,1
+Israel,Brazil,Undirected,7473,,2,2
+Israel,Portugal,Undirected,7474,,3,3
+Israel,Armenia,Undirected,7475,,1,1
+Malta,Austria,Undirected,7476,,9,9
+Malta,Latvia,Undirected,7477,,3,3
+Malta,United Arab Emirates,Undirected,7478,,1,1
+Malta,Lithuania,Undirected,7479,,3,3
+Malta,Russia,Undirected,7480,,8,8
+Malta,Switzerland,Undirected,7481,,6,6
+Malta,Turkey,Undirected,7482,,8,8
+Malta,Jordan,Undirected,7483,,1,1
+Malta,Slovakia,Undirected,7484,,1,1
+Malta,Serbia,Undirected,7485,,2,2
+Malta,Portugal,Undirected,7486,,2,2
+Malta,Ukraine,Undirected,7487,,1,1
+Malta,Qatar,Undirected,7488,,2,2
+Malta,Romania,Undirected,7489,,2,2
+Malta,Macedonia,Undirected,7490,,1,1
+Austria,Switzerland,Undirected,7491,,27,27
+Austria,Georgia,Undirected,7492,,5,5
+Austria,Jordan,Undirected,7493,,7,7
+Austria,Portugal,Undirected,7494,,17,17
+Austria,India,Undirected,7495,,5,5
+Austria,Belarus,Undirected,7496,,5,5
+Austria,Thailand,Undirected,7497,,6,6
+Austria,Latvia,Undirected,7498,,5,5
+Austria,China,Undirected,7499,,9,9
+Austria,Taiwan,Undirected,7500,,5,5
+Austria,United Arab Emirates,Undirected,7501,,6,6
+Austria,Turkey,Undirected,7502,,41,41
+Austria,Russia,Undirected,7503,,34,34
+Austria,Iran,Undirected,7504,,4,4
+Austria,Azerbaijan,Undirected,7505,,4,4
+Austria,Serbia,Undirected,7506,,10,10
+Austria,Kazakhstan,Undirected,7507,,4,4
+Austria,South Korea,Undirected,7508,,2,2
+Austria,Japan,Undirected,7509,,6,6
+Austria,Romania,Undirected,7510,,18,18
+Austria,Ukraine,Undirected,7511,,23,23
+Austria,Iraq,Undirected,7512,,2,2
+Austria,Armenia,Undirected,7513,,6,6
+Austria,United States,Undirected,7514,,20,20
+Austria,Moldova,Undirected,7515,,3,3
+Austria,Slovakia,Undirected,7516,,2,2
+Austria,Bosnia and Herzegovina,Undirected,7517,,3,3
+Austria,Macedonia,Undirected,7518,,3,3
+Austria,Montenegro,Undirected,7519,,4,4
+Austria,Lithuania,Undirected,7520,,2,2
+Austria,Qatar,Undirected,7521,,2,2
+Austria,Saudi Arabia,Undirected,7522,,2,2
+Austria,Maldives,Undirected,7523,,2,2
+Portugal,Moldova,Undirected,7524,,2,2
+Portugal,Switzerland,Undirected,7525,,47,47
+Portugal,United States,Undirected,7526,,41,41
+Portugal,United Arab Emirates,Undirected,7527,,5,5
+Portugal,Ukraine,Undirected,7528,,5,5
+Portugal,Russia,Undirected,7529,,6,6
+Portugal,Turkey,Undirected,7530,,6,6
+Portugal,Brazil,Undirected,7531,,30,30
+Portugal,Venezuela,Undirected,7532,,6,6
+Portugal,Romania,Undirected,7533,,4,4
+Portugal,Qatar,Undirected,7534,,2,2
+Portugal,Lithuania,Undirected,7535,,2,2
+Portugal,South Korea,Undirected,7536,,2,2
+Bosnia and Herzegovina,Serbia,Undirected,7537,,6,6
+Bosnia and Herzegovina,Switzerland,Undirected,7538,,2,2
+Bosnia and Herzegovina,Turkey,Undirected,7539,,8,8
+Bosnia and Herzegovina,United Arab Emirates,Undirected,7540,,1,1
+Bosnia and Herzegovina,Qatar,Undirected,7541,,2,2
+Romania,Moldova,Undirected,7542,,6,6
+Romania,United Arab Emirates,Undirected,7543,,7,7
+Romania,Serbia,Undirected,7544,,4,4
+Romania,Switzerland,Undirected,7545,,6,6
+Romania,Lebanon,Undirected,7546,,4,4
+Romania,Turkey,Undirected,7547,,11,11
+Romania,Qatar,Undirected,7548,,2,2
+Romania,Jordan,Undirected,7549,,5,5
+Romania,Russia,Undirected,7550,,4,4
+Romania,Ukraine,Undirected,7551,,1,1
+Romania,Armenia,Undirected,7552,,2,2
+Romania,Georgia,Undirected,7553,,2,2
+Switzerland,Turkey,Undirected,7554,,32,32
+Switzerland,Serbia,Undirected,7555,,22,22
+Switzerland,Macedonia,Undirected,7556,,8,8
+Switzerland,United States,Undirected,7557,,70,70
+Switzerland,India,Undirected,7558,,8,8
+Switzerland,Belarus,Undirected,7559,,2,2
+Switzerland,Latvia,Undirected,7560,,3,3
+Switzerland,China,Undirected,7561,,7,7
+Switzerland,Qatar,Undirected,7562,,6,6
+Switzerland,United Arab Emirates,Undirected,7563,,16,16
+Switzerland,South Korea,Undirected,7564,,2,2
+Switzerland,Thailand,Undirected,7565,,4,4
+Switzerland,Russia,Undirected,7566,,16,16
+Switzerland,Brazil,Undirected,7567,,4,4
+Switzerland,Cuba,Undirected,7568,,4,4
+Switzerland,Hong Kong,Undirected,7569,,4,4
+Switzerland,Ukraine,Undirected,7570,,6,6
+Switzerland,Japan,Undirected,7571,,6,6
+Switzerland,Dominican Republic,Undirected,7572,,4,4
+Switzerland,Singapore,Undirected,7573,,6,6
+Switzerland,Lebanon,Undirected,7574,,2,2
+Switzerland,Jordan,Undirected,7575,,4,4
+Switzerland,Saudi Arabia,Undirected,7576,,5,5
+Switzerland,Oman,Undirected,7577,,4,4
+Switzerland,Montenegro,Undirected,7578,,2,2
+Switzerland,Moldova,Undirected,7579,,1,1
+Switzerland,Azerbaijan,Undirected,7580,,1,1
+Switzerland,Kuwait,Undirected,7581,,1,1
+Switzerland,Argentina,Undirected,7582,,2,2
+Switzerland,Costa Rica,Undirected,7583,,2,2
+Switzerland,Maldives,Undirected,7584,,2,2
+Switzerland,Mexico,Undirected,7585,,2,2
+Switzerland,Slovakia,Undirected,7586,,1,1
+Turkey,Tajikistan,Undirected,7587,,6,6
+Turkey,Russia,Undirected,7588,,86,86
+Turkey,Ukraine,Undirected,7589,,56,56
+Turkey,Moldova,Undirected,7590,,4,4
+Turkey,Saudi Arabia,Undirected,7591,,64,64
+Turkey,India,Undirected,7592,,13,13
+Turkey,Belarus,Undirected,7593,,5,5
+Turkey,Latvia,Undirected,7594,,4,4
+Turkey,China,Undirected,7595,,24,24
+Turkey,United Arab Emirates,Undirected,7596,,26,26
+Turkey,Iran,Undirected,7597,,35,35
+Turkey,Afghanistan,Undirected,7598,,8,8
+Turkey,Singapore,Undirected,7599,,6,6
+Turkey,Bahrain,Undirected,7600,,14,14
+Turkey,Uzbekistan,Undirected,7601,,11,11
+Turkey,Azerbaijan,Undirected,7602,,18,18
+Turkey,Kuwait,Undirected,7603,,15,15
+Turkey,Serbia,Undirected,7604,,13,13
+Turkey,Kazakhstan,Undirected,7605,,19,19
+Turkey,South Korea,Undirected,7606,,8,8
+Turkey,Iraq,Undirected,7607,,72,72
+Turkey,Georgia,Undirected,7608,,12,12
+Turkey,Lebanon,Undirected,7609,,8,8
+Turkey,Malaysia,Undirected,7610,,5,5
+Turkey,Japan,Undirected,7611,,8,8
+Turkey,Qatar,Undirected,7612,,15,15
+Turkey,Kyrgyzstan,Undirected,7613,,13,13
+Turkey,Macedonia,Undirected,7614,,4,4
+Turkey,Jordan,Undirected,7615,,10,10
+Turkey,Turkmenistan,Undirected,7616,,6,6
+Turkey,Thailand,Undirected,7617,,6,6
+Turkey,Yemen,Undirected,7618,,2,2
+Turkey,Bangladesh,Undirected,7619,,2,2
+Turkey,Brazil,Undirected,7620,,2,2
+Turkey,Hong Kong,Undirected,7621,,2,2
+Turkey,United States,Undirected,7622,,30,30
+Turkey,Pakistan,Undirected,7623,,6,6
+Turkey,Djibouti,Undirected,7624,,2,2
+Turkey,Nepal,Undirected,7625,,2,2
+Turkey,Oman,Undirected,7626,,7,7
+Turkey,Maldives,Undirected,7627,,2,2
+Turkey,Montenegro,Undirected,7628,,2,2
+Turkey,Lithuania,Undirected,7629,,2,2
+Turkey,Armenia,Undirected,7630,,1,1
+Turkey,Eritrea,Undirected,7631,,2,2
+Turkey,Colombia,Undirected,7632,,1,1
+Turkey,Venezuela,Undirected,7633,,2,2
+Turkey,Indonesia,Undirected,7634,,4,4
+Turkey,Vietnam,Undirected,7635,,5,5
+Turkey,Cuba,Undirected,7636,,1,1
+Turkey,Slovakia,Undirected,7637,,3,3
+Turkey,Philippines,Undirected,7638,,2,2
+Turkey,Panama,Undirected,7639,,2,2
+Turkey,Taiwan,Undirected,7640,,2,2
+Turkey,Mexico,Undirected,7641,,2,2
+Moldova,Russia,Undirected,7642,,14,14
+Moldova,Ukraine,Undirected,7643,,3,3
+Moldova,Latvia,Undirected,7644,,2,2
+Moldova,United Arab Emirates,Undirected,7645,,2,2
+Moldova,Belarus,Undirected,7646,,1,1
+Macedonia,United Arab Emirates,Undirected,7647,,2,2
+Macedonia,Serbia,Undirected,7648,,2,2
+Macedonia,Qatar,Undirected,7649,,2,2
+Macedonia,Slovakia,Undirected,7650,,1,1
+Serbia,United Arab Emirates,Undirected,7651,,7,7
+Serbia,Russia,Undirected,7652,,5,5
+Serbia,Montenegro,Undirected,7653,,8,8
+Serbia,Belarus,Undirected,7654,,1,1
+Serbia,Slovakia,Undirected,7655,,1,1
+Serbia,Lebanon,Undirected,7656,,1,1
+Serbia,United States,Undirected,7657,,1,1
+Serbia,Qatar,Undirected,7658,,2,2
+Montenegro,Russia,Undirected,7659,,20,20
+Slovakia,Russia,Undirected,7660,,2,2
+Slovakia,Ukraine,Undirected,7661,,3,3
+Slovakia,United Arab Emirates,Undirected,7662,,1,1
+Turks and Caicos Islands,United States,Undirected,7663,,38,38
+Turks and Caicos Islands,Bahamas,Undirected,7664,,7,7
+Turks and Caicos Islands,Haiti,Undirected,7665,,8,8
+Turks and Caicos Islands,Jamaica,Undirected,7666,,2,2
+Turks and Caicos Islands,Dominican Republic,Undirected,7667,,7,7
+Turks and Caicos Islands,Puerto Rico,Undirected,7668,,2,2
+Turks and Caicos Islands,Antigua and Barbuda,Undirected,7669,,2,2
+Dominican Republic,Netherlands Antilles,Undirected,7670,,16,16
+Dominican Republic,Martinique,Undirected,7671,,2,2
+Dominican Republic,Guadeloupe,Undirected,7672,,7,7
+Dominican Republic,Argentina,Undirected,7673,,7,7
+Dominican Republic,United States,Undirected,7674,,148,148
+Dominican Republic,Aruba,Undirected,7675,,5,5
+Dominican Republic,Colombia,Undirected,7676,,8,8
+Dominican Republic,Peru,Undirected,7677,,6,6
+Dominican Republic,Puerto Rico,Undirected,7678,,19,19
+Dominican Republic,Antigua and Barbuda,Undirected,7679,,8,8
+Dominican Republic,Panama,Undirected,7680,,8,8
+Dominican Republic,Cuba,Undirected,7681,,5,5
+Dominican Republic,Costa Rica,Undirected,7682,,2,2
+Dominican Republic,Brazil,Undirected,7683,,13,13
+Dominican Republic,Venezuela,Undirected,7684,,6,6
+Dominican Republic,Jamaica,Undirected,7685,,4,4
+Dominican Republic,Chile,Undirected,7686,,2,2
+Dominican Republic,Haiti,Undirected,7687,,8,8
+Dominican Republic,Russia,Undirected,7688,,8,8
+Dominican Republic,Mexico,Undirected,7689,,3,3
+Dominican Republic,British Virgin Islands,Undirected,7690,,1,1
+Dominican Republic,Bahamas,Undirected,7691,,1,1
+Dominican Republic,Barbados,Undirected,7692,,1,1
+Guatemala,Mexico,Undirected,7693,,10,10
+Guatemala,Belize,Undirected,7694,,5,5
+Guatemala,Honduras,Undirected,7695,,18,18
+Guatemala,United States,Undirected,7696,,42,42
+Guatemala,Colombia,Undirected,7697,,3,3
+Guatemala,El Salvador,Undirected,7698,,7,7
+Guatemala,Costa Rica,Undirected,7699,,7,7
+Guatemala,Nicaragua,Undirected,7700,,4,4
+Guatemala,Panama,Undirected,7701,,2,2
+Honduras,Belize,Undirected,7702,,4,4
+Honduras,United States,Undirected,7703,,44,44
+Honduras,Mexico,Undirected,7704,,2,2
+Honduras,El Salvador,Undirected,7705,,6,6
+Honduras,Costa Rica,Undirected,7706,,10,10
+Honduras,Panama,Undirected,7707,,4,4
+Honduras,Cayman Islands,Undirected,7708,,5,5
+Jamaica,Netherlands Antilles,Undirected,7709,,4,4
+Jamaica,United States,Undirected,7710,,98,98
+Jamaica,Antigua and Barbuda,Undirected,7711,,2,2
+Jamaica,Barbados,Undirected,7712,,2,2
+Jamaica,Bahamas,Undirected,7713,,2,2
+Jamaica,Trinidad and Tobago,Undirected,7714,,2,2
+Jamaica,Panama,Undirected,7715,,5,5
+Jamaica,Cuba,Undirected,7716,,3,3
+Jamaica,Cayman Islands,Undirected,7717,,3,3
+Jamaica,Guyana,Undirected,7718,,2,2
+Jamaica,Peru,Undirected,7719,,2,2
+Mexico,Colombia,Undirected,7720,,20,20
+Mexico,United States,Undirected,7721,,905,905
+Mexico,Cuba,Undirected,7722,,19,19
+Mexico,Costa Rica,Undirected,7723,,10,10
+Mexico,Belize,Undirected,7724,,5,5
+Mexico,Venezuela,Undirected,7725,,2,2
+Mexico,Panama,Undirected,7726,,18,18
+Mexico,Argentina,Undirected,7727,,4,4
+Mexico,Brazil,Undirected,7728,,8,8
+Mexico,Peru,Undirected,7729,,11,11
+Mexico,El Salvador,Undirected,7730,,10,10
+Mexico,Chile,Undirected,7731,,6,6
+Mexico,Ecuador,Undirected,7732,,5,5
+Mexico,Japan,Undirected,7733,,6,6
+Mexico,China,Undirected,7734,,5,5
+Mexico,Russia,Undirected,7735,,2,2
+Mexico,Australia,Undirected,7736,,1,1
+Mexico,South Korea,Undirected,7737,,2,2
+Mexico,Nicaragua,Undirected,7738,,2,2
+Nicaragua,Costa Rica,Undirected,7739,,8,8
+Nicaragua,United States,Undirected,7740,,14,14
+Nicaragua,Panama,Undirected,7741,,4,4
+Nicaragua,El Salvador,Undirected,7742,,7,7
+Nicaragua,Venezuela,Undirected,7743,,1,1
+Panama,Costa Rica,Undirected,7744,,15,15
+Panama,Venezuela,Undirected,7745,,15,15
+Panama,United States,Undirected,7746,,70,70
+Panama,Haiti,Undirected,7747,,4,4
+Panama,Trinidad and Tobago,Undirected,7748,,4,4
+Panama,Colombia,Undirected,7749,,28,28
+Panama,El Salvador,Undirected,7750,,4,4
+Panama,Paraguay,Undirected,7751,,2,2
+Panama,Aruba,Undirected,7752,,3,3
+Panama,Brazil,Undirected,7753,,18,18
+Panama,Argentina,Undirected,7754,,10,10
+Panama,Netherlands Antilles,Undirected,7755,,4,4
+Panama,Ecuador,Undirected,7756,,7,7
+Panama,Cuba,Undirected,7757,,8,8
+Panama,Peru,Undirected,7758,,6,6
+Panama,Uruguay,Undirected,7759,,2,2
+Panama,Bahamas,Undirected,7760,,2,2
+Panama,Chile,Undirected,7761,,2,2
+Panama,Puerto Rico,Undirected,7762,,2,2
+Panama,Bolivia,Undirected,7763,,2,2
+Panama,Barbados,Undirected,7764,,2,2
+Panama,Belize,Undirected,7765,,2,2
+Panama,Guyana,Undirected,7766,,2,2
+Panama,Suriname,Undirected,7767,,2,2
+Costa Rica,United States,Undirected,7768,,91,91
+Costa Rica,Colombia,Undirected,7769,,2,2
+Costa Rica,Peru,Undirected,7770,,4,4
+Costa Rica,El Salvador,Undirected,7771,,6,6
+El Salvador,United States,Undirected,7772,,68,68
+El Salvador,Colombia,Undirected,7773,,7,7
+El Salvador,Belize,Undirected,7774,,2,2
+El Salvador,Ecuador,Undirected,7775,,4,4
+El Salvador,Peru,Undirected,7776,,2,2
+El Salvador,Cuba,Undirected,7777,,4,4
+Haiti,Netherlands Antilles,Undirected,7778,,4,4
+Haiti,United States,Undirected,7779,,32,32
+Haiti,Guadeloupe,Undirected,7780,,4,4
+Haiti,Cuba,Undirected,7781,,4,4
+Haiti,Bahamas,Undirected,7782,,2,2
+Cuba,Colombia,Undirected,7783,,7,7
+Cuba,Venezuela,Undirected,7784,,9,9
+Cuba,Argentina,Undirected,7785,,2,2
+Cuba,Martinique,Undirected,7786,,2,2
+Cuba,Bahamas,Undirected,7787,,4,4
+Cuba,Russia,Undirected,7788,,7,7
+Cuba,Ecuador,Undirected,7789,,2,2
+Cuba,Cayman Islands,Undirected,7790,,2,2
+Cuba,Peru,Undirected,7791,,6,6
+Cuba,Suriname,Undirected,7792,,1,1
+Cuba,United States,Undirected,7793,,16,16
+Cuba,Trinidad and Tobago,Undirected,7794,,1,1
+Cuba,Guadeloupe,Undirected,7795,,1,1
+Cayman Islands,United States,Undirected,7796,,41,41
+Cayman Islands,Bahamas,Undirected,7797,,2,2
+Bahamas,United States,Undirected,7798,,161,161
+Bahamas,Saint Kitts and Nevis,Undirected,7799,,1,1
+Belize,United States,Undirected,7800,,26,26
+Cook Islands,French Polynesia,Undirected,7801,,4,4
+Cook Islands,New Zealand,Undirected,7802,,7,7
+Cook Islands,United States,Undirected,7803,,4,4
+Cook Islands,Australia,Undirected,7804,,2,2
+Fiji,United States,Undirected,7805,,14,14
+Fiji,Hong Kong,Undirected,7806,,4,4
+Fiji,New Zealand,Undirected,7807,,14,14
+Fiji,Samoa,Undirected,7808,,3,3
+Fiji,Australia,Undirected,7809,,23,23
+Fiji,Kiribati,Undirected,7810,,6,6
+Fiji,Tuvalu,Undirected,7811,,2,2
+Fiji,Tonga,Undirected,7812,,5,5
+Fiji,Vanuatu,Undirected,7813,,7,7
+Fiji,Solomon Islands,Undirected,7814,,6,6
+Fiji,South Korea,Undirected,7815,,2,2
+Fiji,New Caledonia,Undirected,7816,,2,2
+Fiji,Wallis and Futuna,Undirected,7817,,2,2
+Fiji,Japan,Undirected,7818,,2,2
+Fiji,Singapore,Undirected,7819,,2,2
+Fiji,Nauru,Undirected,7820,,1,1
+Tonga,New Zealand,Undirected,7821,,4,4
+Tonga,Australia,Undirected,7822,,2,2
+Kiribati,United States,Undirected,7823,,4,4
+Kiribati,Nauru,Undirected,7824,,2,2
+Kiribati,Marshall Islands,Undirected,7825,,2,2
+Kiribati,Solomon Islands,Undirected,7826,,1,1
+Wallis and Futuna,New Caledonia,Undirected,7827,,2,2
+Samoa,United States,Undirected,7828,,2,2
+Samoa,New Zealand,Undirected,7829,,5,5
+Samoa,Australia,Undirected,7830,,4,4
+American Samoa,United States,Undirected,7831,,2,2
+French Polynesia,New Zealand,Undirected,7832,,8,8
+French Polynesia,United States,Undirected,7833,,17,17
+French Polynesia,Japan,Undirected,7834,,4,4
+French Polynesia,Chile,Undirected,7835,,2,2
+French Polynesia,New Caledonia,Undirected,7836,,2,2
+Vanuatu,Solomon Islands,Undirected,7837,,6,6
+Vanuatu,New Zealand,Undirected,7838,,4,4
+Vanuatu,Australia,Undirected,7839,,14,14
+Vanuatu,New Caledonia,Undirected,7840,,4,4
+New Caledonia,New Zealand,Undirected,7841,,4,4
+New Caledonia,Australia,Undirected,7842,,9,9
+New Caledonia,Japan,Undirected,7843,,4,4
+New Zealand,Australia,Undirected,7844,,174,174
+New Zealand,China,Undirected,7845,,15,15
+New Zealand,Hong Kong,Undirected,7846,,7,7
+New Zealand,Singapore,Undirected,7847,,12,12
+New Zealand,United States,Undirected,7848,,21,21
+New Zealand,South Korea,Undirected,7849,,2,2
+New Zealand,Chile,Undirected,7850,,4,4
+New Zealand,Malaysia,Undirected,7851,,2,2
+New Zealand,Japan,Undirected,7852,,8,8
+New Zealand,Niue,Undirected,7853,,2,2
+New Zealand,Norfolk Island,Undirected,7854,,1,1
+New Zealand,Thailand,Undirected,7855,,4,4
+New Zealand,United Arab Emirates,Undirected,7856,,1,1
+New Zealand,Argentina,Undirected,7857,,2,2
+New Zealand,Taiwan,Undirected,7858,,2,2
+New Zealand,Philippines,Undirected,7859,,1,1
+New Zealand,Qatar,Undirected,7860,,2,2
+Afghanistan,India,Undirected,7861,,16,16
+Afghanistan,United Arab Emirates,Undirected,7862,,15,15
+Afghanistan,Pakistan,Undirected,7863,,9,9
+Afghanistan,Iran,Undirected,7864,,11,11
+Afghanistan,Azerbaijan,Undirected,7865,,2,2
+Afghanistan,Kuwait,Undirected,7866,,2,2
+Afghanistan,Tajikistan,Undirected,7867,,1,1
+Afghanistan,China,Undirected,7868,,1,1
+Afghanistan,Saudi Arabia,Undirected,7869,,2,2
+Afghanistan,Russia,Undirected,7870,,1,1
+Afghanistan,Uzbekistan,Undirected,7871,,1,1
+Bahrain,India,Undirected,7872,,22,22
+Bahrain,Qatar,Undirected,7873,,22,22
+Bahrain,United Arab Emirates,Undirected,7874,,32,32
+Bahrain,Jordan,Undirected,7875,,4,4
+Bahrain,Lebanon,Undirected,7876,,2,2
+Bahrain,Iraq,Undirected,7877,,6,6
+Bahrain,Thailand,Undirected,7878,,6,6
+Bahrain,Saudi Arabia,Undirected,7879,,22,22
+Bahrain,Iran,Undirected,7880,,7,7
+Bahrain,Pakistan,Undirected,7881,,14,14
+Bahrain,Kuwait,Undirected,7882,,11,11
+Bahrain,Oman,Undirected,7883,,7,7
+Bahrain,Philippines,Undirected,7884,,4,4
+Bahrain,Yemen,Undirected,7885,,4,4
+Bahrain,Sri Lanka,Undirected,7886,,5,5
+Bahrain,Bangladesh,Undirected,7887,,1,1
+Bahrain,Russia,Undirected,7888,,1,1
+Bahrain,Azerbaijan,Undirected,7889,,1,1
+Bahrain,Georgia,Undirected,7890,,1,1
+Bahrain,Syria,Undirected,7891,,1,1
+Bahrain,Cambodia,Undirected,7892,,1,1
+Saudi Arabia,Djibouti,Undirected,7893,,1,1
+Saudi Arabia,Bangladesh,Undirected,7894,,16,16
+Saudi Arabia,United Arab Emirates,Undirected,7895,,103,103
+Saudi Arabia,India,Undirected,7896,,108,108
+Saudi Arabia,Kuwait,Undirected,7897,,37,37
+Saudi Arabia,Brunei,Undirected,7898,,2,2
+Saudi Arabia,Hong Kong,Undirected,7899,,4,4
+Saudi Arabia,Malaysia,Undirected,7900,,14,14
+Saudi Arabia,Yemen,Undirected,7901,,31,31
+Saudi Arabia,Indonesia,Undirected,7902,,28,28
+Saudi Arabia,Iran,Undirected,7903,,24,24
+Saudi Arabia,South Korea,Undirected,7904,,2,2
+Saudi Arabia,Lebanon,Undirected,7905,,13,13
+Saudi Arabia,Qatar,Undirected,7906,,18,18
+Saudi Arabia,Sri Lanka,Undirected,7907,,20,20
+Saudi Arabia,Pakistan,Undirected,7908,,109,109
+Saudi Arabia,Philippines,Undirected,7909,,11,11
+Saudi Arabia,Jordan,Undirected,7910,,22,22
+Saudi Arabia,Singapore,Undirected,7911,,8,8
+Saudi Arabia,China,Undirected,7912,,4,4
+Saudi Arabia,United States,Undirected,7913,,10,10
+Saudi Arabia,Oman,Undirected,7914,,18,18
+Saudi Arabia,Eritrea,Undirected,7915,,2,2
+Saudi Arabia,Nepal,Undirected,7916,,1,1
+Saudi Arabia,Iraq,Undirected,7917,,2,2
+Saudi Arabia,Maldives,Undirected,7918,,3,3
+Saudi Arabia,Georgia,Undirected,7919,,2,2
+Saudi Arabia,Azerbaijan,Undirected,7920,,1,1
+Iran,Tajikistan,Undirected,7921,,6,6
+Iran,Belarus,Undirected,7922,,2,2
+Iran,China,Undirected,7923,,10,10
+Iran,United Arab Emirates,Undirected,7924,,57,57
+Iran,Kuwait,Undirected,7925,,28,28
+Iran,Armenia,Undirected,7926,,3,3
+Iran,Iraq,Undirected,7927,,35,35
+Iran,Oman,Undirected,7928,,11,11
+Iran,Lebanon,Undirected,7929,,4,4
+Iran,India,Undirected,7930,,5,5
+Iran,Qatar,Undirected,7931,,12,12
+Iran,Azerbaijan,Undirected,7932,,6,6
+Iran,Pakistan,Undirected,7933,,8,8
+Iran,Malaysia,Undirected,7934,,4,4
+Iran,Uzbekistan,Undirected,7935,,2,2
+Iran,Russia,Undirected,7936,,7,7
+Iran,Kazakhstan,Undirected,7937,,2,2
+Iran,Thailand,Undirected,7938,,2,2
+Iran,Syria,Undirected,7939,,1,1
+Iran,Georgia,Undirected,7940,,4,4
+Iran,Ukraine,Undirected,7941,,1,1
+Iran,Hong Kong,Undirected,7942,,1,1
+Jordan,United States,Undirected,7943,,14,14
+Jordan,United Arab Emirates,Undirected,7944,,19,19
+Jordan,Yemen,Undirected,7945,,10,10
+Jordan,Lebanon,Undirected,7946,,6,6
+Jordan,Kuwait,Undirected,7947,,7,7
+Jordan,Thailand,Undirected,7948,,4,4
+Jordan,Qatar,Undirected,7949,,4,4
+Jordan,Iraq,Undirected,7950,,25,25
+Jordan,India,Undirected,7951,,4,4
+Jordan,Russia,Undirected,7952,,4,4
+Jordan,Ukraine,Undirected,7953,,4,4
+Jordan,Oman,Undirected,7954,,4,4
+Jordan,Georgia,Undirected,7955,,1,1
+Jordan,Lithuania,Undirected,7956,,1,1
+Kuwait,United Arab Emirates,Undirected,7957,,27,27
+Kuwait,India,Undirected,7958,,38,38
+Kuwait,Bangladesh,Undirected,7959,,6,6
+Kuwait,Qatar,Undirected,7960,,6,6
+Kuwait,Yemen,Undirected,7961,,4,4
+Kuwait,Lebanon,Undirected,7962,,6,6
+Kuwait,Iraq,Undirected,7963,,5,5
+Kuwait,Thailand,Undirected,7964,,2,2
+Kuwait,Sri Lanka,Undirected,7965,,6,6
+Kuwait,Pakistan,Undirected,7966,,13,13
+Kuwait,United States,Undirected,7967,,4,4
+Kuwait,Malaysia,Undirected,7968,,2,2
+Kuwait,Oman,Undirected,7969,,5,5
+Kuwait,Syria,Undirected,7970,,2,2
+Kuwait,Azerbaijan,Undirected,7971,,3,3
+Kuwait,Georgia,Undirected,7972,,1,1
+Kuwait,Philippines,Undirected,7973,,1,1
+Lebanon,Belarus,Undirected,7974,,2,2
+Lebanon,United Arab Emirates,Undirected,7975,,13,13
+Lebanon,Yemen,Undirected,7976,,2,2
+Lebanon,Iraq,Undirected,7977,,20,20
+Lebanon,Qatar,Undirected,7978,,4,4
+Lebanon,Armenia,Undirected,7979,,3,3
+Lebanon,Russia,Undirected,7980,,4,4
+Lebanon,Oman,Undirected,7981,,2,2
+United Arab Emirates,Philippines,Undirected,7982,,16,16
+United Arab Emirates,Djibouti,Undirected,7983,,5,5
+United Arab Emirates,Bangladesh,Undirected,7984,,25,25
+United Arab Emirates,India,Undirected,7985,,251,251
+United Arab Emirates,Tajikistan,Undirected,7986,,6,6
+United Arab Emirates,Sri Lanka,Undirected,7987,,25,25
+United Arab Emirates,United States,Undirected,7988,,54,54
+United Arab Emirates,Pakistan,Undirected,7989,,127,127
+United Arab Emirates,Oman,Undirected,7990,,48,48
+United Arab Emirates,Thailand,Undirected,7991,,19,19
+United Arab Emirates,China,Undirected,7992,,45,45
+United Arab Emirates,Singapore,Undirected,7993,,24,24
+United Arab Emirates,Indonesia,Undirected,7994,,11,11
+United Arab Emirates,Malaysia,Undirected,7995,,16,16
+United Arab Emirates,Australia,Undirected,7996,,33,33
+United Arab Emirates,Maldives,Undirected,7997,,8,8
+United Arab Emirates,Belarus,Undirected,7998,,4,4
+United Arab Emirates,Qatar,Undirected,7999,,21,21
+United Arab Emirates,Brunei,Undirected,8000,,3,3
+United Arab Emirates,Hong Kong,Undirected,8001,,14,14
+United Arab Emirates,Iraq,Undirected,8002,,34,34
+United Arab Emirates,Russia,Undirected,8003,,90,90
+United Arab Emirates,Brazil,Undirected,8004,,6,6
+United Arab Emirates,Japan,Undirected,8005,,16,16
+United Arab Emirates,South Korea,Undirected,8006,,10,10
+United Arab Emirates,Ukraine,Undirected,8007,,22,22
+United Arab Emirates,Yemen,Undirected,8008,,23,23
+United Arab Emirates,Vietnam,Undirected,8009,,8,8
+United Arab Emirates,Taiwan,Undirected,8010,,4,4
+United Arab Emirates,Kazakhstan,Undirected,8011,,18,18
+United Arab Emirates,Nepal,Undirected,8012,,10,10
+United Arab Emirates,Turkmenistan,Undirected,8013,,5,5
+United Arab Emirates,Armenia,Undirected,8014,,4,4
+United Arab Emirates,Kyrgyzstan,Undirected,8015,,3,3
+United Arab Emirates,Azerbaijan,Undirected,8016,,8,8
+United Arab Emirates,Georgia,Undirected,8017,,4,4
+United Arab Emirates,Uzbekistan,Undirected,8018,,5,5
+United Arab Emirates,Syria,Undirected,8019,,6,6
+United Arab Emirates,Latvia,Undirected,8020,,1,1
+United Arab Emirates,Eritrea,Undirected,8021,,2,2
+United Arab Emirates,Burma,Undirected,8022,,1,1
+Oman,Bangladesh,Undirected,8023,,13,13
+Oman,India,Undirected,8024,,55,55
+Oman,Qatar,Undirected,8025,,15,15
+Oman,Malaysia,Undirected,8026,,4,4
+Oman,Sri Lanka,Undirected,8027,,7,7
+Oman,Pakistan,Undirected,8028,,33,33
+Oman,Thailand,Undirected,8029,,2,2
+Oman,Nepal,Undirected,8030,,3,3
+Oman,Maldives,Undirected,8031,,2,2
+Oman,Syria,Undirected,8032,,1,1
+Oman,China,Undirected,8033,,1,1
+Oman,Indonesia,Undirected,8034,,1,1
+Oman,Russia,Undirected,8035,,1,1
+Oman,Philippines,Undirected,8036,,1,1
+Oman,Vietnam,Undirected,8037,,1,1
+Pakistan,China,Undirected,8038,,15,15
+Pakistan,Thailand,Undirected,8039,,8,8
+Pakistan,Sri Lanka,Undirected,8040,,6,6
+Pakistan,India,Undirected,8041,,6,6
+Pakistan,Bangladesh,Undirected,8042,,2,2
+Pakistan,Qatar,Undirected,8043,,18,18
+Pakistan,United States,Undirected,8044,,1,1
+Pakistan,Nepal,Undirected,8045,,2,2
+Pakistan,Malaysia,Undirected,8046,,7,7
+Pakistan,Uzbekistan,Undirected,8047,,1,1
+Pakistan,Iraq,Undirected,8048,,1,1
+Iraq,Qatar,Undirected,8049,,10,10
+Iraq,Georgia,Undirected,8050,,4,4
+Iraq,Syria,Undirected,8051,,6,6
+Iraq,India,Undirected,8052,,8,8
+Iraq,China,Undirected,8053,,1,1
+Iraq,Azerbaijan,Undirected,8054,,7,7
+Iraq,Ukraine,Undirected,8055,,1,1
+Iraq,Malaysia,Undirected,8056,,1,1
+Iraq,Belarus,Undirected,8057,,1,1
+Iraq,Russia,Undirected,8058,,1,1
+Iraq,Armenia,Undirected,8059,,4,4
+Syria,Armenia,Undirected,8060,,1,1
+Syria,Qatar,Undirected,8061,,1,1
+Qatar,India,Undirected,8062,,50,50
+Qatar,United States,Undirected,8063,,36,36
+Qatar,Bangladesh,Undirected,8064,,8,8
+Qatar,Hong Kong,Undirected,8065,,4,4
+Qatar,Yemen,Undirected,8066,,5,5
+Qatar,Azerbaijan,Undirected,8067,,4,4
+Qatar,Japan,Undirected,8068,,14,14
+Qatar,Malaysia,Undirected,8069,,6,6
+Qatar,South Korea,Undirected,8070,,4,4
+Qatar,Philippines,Undirected,8071,,10,10
+Qatar,Thailand,Undirected,8072,,8,8
+Qatar,China,Undirected,8073,,12,12
+Qatar,Indonesia,Undirected,8074,,4,4
+Qatar,Sri Lanka,Undirected,8075,,4,4
+Qatar,Russia,Undirected,8076,,4,4
+Qatar,Brazil,Undirected,8077,,3,3
+Qatar,Nepal,Undirected,8078,,5,5
+Qatar,Australia,Undirected,8079,,10,10
+Qatar,Maldives,Undirected,8080,,2,2
+Qatar,Burma,Undirected,8081,,2,2
+Qatar,Vietnam,Undirected,8082,,6,6
+Qatar,Singapore,Undirected,8083,,2,2
+Qatar,Armenia,Undirected,8084,,2,2
+Qatar,Djibouti,Undirected,8085,,2,2
+Qatar,Ukraine,Undirected,8086,,2,2
+Qatar,Georgia,Undirected,8087,,2,2
+Qatar,Namibia,Undirected,8088,,2,2
+Qatar,Macau,Undirected,8089,,1,1
+Qatar,Cambodia,Undirected,8090,,2,2
+Qatar,Kazakhstan,Undirected,8091,,1,1
+Northern Mariana Islands,China,Undirected,8092,,7,7
+Northern Mariana Islands,Japan,Undirected,8093,,6,6
+Northern Mariana Islands,South Korea,Undirected,8094,,7,7
+Northern Mariana Islands,Guam,Undirected,8095,,4,4
+Northern Mariana Islands,Hong Kong,Undirected,8096,,1,1
+Guam,South Korea,Undirected,8097,,16,16
+Guam,Taiwan,Undirected,8098,,6,6
+Guam,Japan,Undirected,8099,,40,40
+Guam,Philippines,Undirected,8100,,5,5
+Guam,Australia,Undirected,8101,,2,2
+Guam,Hong Kong,Undirected,8102,,2,2
+Guam,United States,Undirected,8103,,6,6
+Guam,Palau,Undirected,8104,,2,2
+Guam,Micronesia,Undirected,8105,,4,4
+Guam,China,Undirected,8106,,2,2
+Marshall Islands,Nauru,Undirected,8107,,2,2
+Marshall Islands,United States,Undirected,8108,,2,2
+Marshall Islands,Micronesia,Undirected,8109,,7,7
+Micronesia,Palau,Undirected,8110,,2,2
+Palau,Japan,Undirected,8111,,5,5
+Palau,Taiwan,Undirected,8112,,4,4
+Palau,South Korea,Undirected,8113,,4,4
+Palau,Philippines,Undirected,8114,,2,2
+Palau,Macau,Undirected,8115,,1,1
+Taiwan,Japan,Undirected,8116,,218,218
+Taiwan,Singapore,Undirected,8117,,19,19
+Taiwan,China,Undirected,8118,,470,470
+Taiwan,Philippines,Undirected,8119,,30,30
+Taiwan,Vietnam,Undirected,8120,,41,41
+Taiwan,Hong Kong,Undirected,8121,,32,32
+Taiwan,South Korea,Undirected,8122,,71,71
+Taiwan,Malaysia,Undirected,8123,,19,19
+Taiwan,India,Undirected,8124,,5,5
+Taiwan,Thailand,Undirected,8125,,27,27
+Taiwan,Australia,Undirected,8126,,8,8
+Taiwan,Indonesia,Undirected,8127,,15,15
+Taiwan,United States,Undirected,8128,,41,41
+Taiwan,Macau,Undirected,8129,,23,23
+Taiwan,Cambodia,Undirected,8130,,7,7
+Taiwan,Burma,Undirected,8131,,2,2
+Taiwan,Brunei,Undirected,8132,,1,1
+Japan,Philippines,Undirected,8133,,44,44
+Japan,South Korea,Undirected,8134,,299,299
+Japan,China,Undirected,8135,,469,469
+Japan,India,Undirected,8136,,12,12
+Japan,Thailand,Undirected,8137,,63,63
+Japan,United States,Undirected,8138,,210,210
+Japan,Vietnam,Undirected,8139,,48,48
+Japan,Hong Kong,Undirected,8140,,88,88
+Japan,Malaysia,Undirected,8141,,26,26
+Japan,Singapore,Undirected,8142,,45,45
+Japan,Indonesia,Undirected,8143,,28,28
+Japan,Uzbekistan,Undirected,8144,,3,3
+Japan,Russia,Undirected,8145,,30,30
+Japan,Australia,Undirected,8146,,48,48
+Japan,Macau,Undirected,8147,,13,13
+Japan,Burma,Undirected,8148,,2,2
+Japan,Mongolia,Undirected,8149,,2,2
+Japan,Sri Lanka,Undirected,8150,,2,2
+Japan,Brunei,Undirected,8151,,1,1
+Japan,Kazakhstan,Undirected,8152,,1,1
+Japan,Cambodia,Undirected,8153,,2,2
+South Korea,China,Undirected,8154,,389,389
+South Korea,Philippines,Undirected,8155,,76,76
+South Korea,Thailand,Undirected,8156,,50,50
+South Korea,Hong Kong,Undirected,8157,,41,41
+South Korea,Burma,Undirected,8158,,6,6
+South Korea,United States,Undirected,8159,,86,86
+South Korea,India,Undirected,8160,,8,8
+South Korea,Singapore,Undirected,8161,,15,15
+South Korea,Macau,Undirected,8162,,16,16
+South Korea,Cambodia,Undirected,8163,,18,18
+South Korea,Malaysia,Undirected,8164,,31,31
+South Korea,Indonesia,Undirected,8165,,12,12
+South Korea,Uzbekistan,Undirected,8166,,7,7
+South Korea,Russia,Undirected,8167,,48,48
+South Korea,Kazakhstan,Undirected,8168,,5,5
+South Korea,Australia,Undirected,8169,,12,12
+South Korea,Sri Lanka,Undirected,8170,,4,4
+South Korea,Vietnam,Undirected,8171,,82,82
+South Korea,Nepal,Undirected,8172,,2,2
+South Korea,Mongolia,Undirected,8173,,9,9
+South Korea,Laos,Undirected,8174,,8,8
+South Korea,Brunei,Undirected,8175,,1,1
+Philippines,Singapore,Undirected,8176,,38,38
+Philippines,Malaysia,Undirected,8177,,21,21
+Philippines,Thailand,Undirected,8178,,16,16
+Philippines,Brunei,Undirected,8179,,4,4
+Philippines,China,Undirected,8180,,68,68
+Philippines,Hong Kong,Undirected,8181,,35,35
+Philippines,Indonesia,Undirected,8182,,13,13
+Philippines,Macau,Undirected,8183,,12,12
+Philippines,Vietnam,Undirected,8184,,10,10
+Philippines,Cambodia,Undirected,8185,,3,3
+Philippines,Australia,Undirected,8186,,11,11
+Philippines,United States,Undirected,8187,,7,7
+Argentina,United States,Undirected,8188,,28,28
+Argentina,Uruguay,Undirected,8189,,25,25
+Argentina,Chile,Undirected,8190,,35,35
+Argentina,Paraguay,Undirected,8191,,18,18
+Argentina,Brazil,Undirected,8192,,114,114
+Argentina,Colombia,Undirected,8193,,4,4
+Argentina,Venezuela,Undirected,8194,,5,5
+Argentina,Peru,Undirected,8195,,17,17
+Argentina,Bolivia,Undirected,8196,,6,6
+Argentina,Ecuador,Undirected,8197,,4,4
+Brazil,Uruguay,Undirected,8198,,31,31
+Brazil,United States,Undirected,8199,,148,148
+Brazil,Colombia,Undirected,8200,,10,10
+Brazil,Peru,Undirected,8201,,29,29
+Brazil,Ecuador,Undirected,8202,,4,4
+Brazil,Paraguay,Undirected,8203,,16,16
+Brazil,Barbados,Undirected,8204,,2,2
+Brazil,Venezuela,Undirected,8205,,8,8
+Brazil,Bolivia,Undirected,8206,,8,8
+Brazil,Chile,Undirected,8207,,31,31
+Brazil,French Guiana,Undirected,8208,,4,4
+Brazil,Suriname,Undirected,8209,,4,4
+Chile,Uruguay,Undirected,8210,,5,5
+Chile,United States,Undirected,8211,,26,26
+Chile,Peru,Undirected,8212,,22,22
+Chile,Colombia,Undirected,8213,,4,4
+Chile,Bolivia,Undirected,8214,,11,11
+Chile,Paraguay,Undirected,8215,,5,5
+Chile,Venezuela,Undirected,8216,,3,3
+Chile,Ecuador,Undirected,8217,,5,5
+Chile,Australia,Undirected,8218,,6,6
+Ecuador,Colombia,Undirected,8219,,25,25
+Ecuador,United States,Undirected,8220,,35,35
+Ecuador,Peru,Undirected,8221,,12,12
+Ecuador,Venezuela,Undirected,8222,,5,5
+Paraguay,Uruguay,Undirected,8223,,5,5
+Paraguay,United States,Undirected,8224,,4,4
+Paraguay,Peru,Undirected,8225,,4,4
+Paraguay,Bolivia,Undirected,8226,,4,4
+Colombia,Netherlands Antilles,Undirected,8227,,7,7
+Colombia,United States,Undirected,8228,,125,125
+Colombia,Aruba,Undirected,8229,,6,6
+Colombia,Venezuela,Undirected,8230,,17,17
+Colombia,Peru,Undirected,8231,,18,18
+Colombia,Bolivia,Undirected,8232,,4,4
+Colombia,Puerto Rico,Undirected,8233,,2,2
+Colombia,Uruguay,Undirected,8234,,2,2
+Bolivia,United States,Undirected,8235,,5,5
+Bolivia,Peru,Undirected,8236,,19,19
+Suriname,Netherlands Antilles,Undirected,8237,,3,3
+Suriname,Trinidad and Tobago,Undirected,8238,,6,6
+Suriname,Aruba,Undirected,8239,,2,2
+Suriname,French Guiana,Undirected,8240,,2,2
+Suriname,Guyana,Undirected,8241,,2,2
+French Guiana,Martinique,Undirected,8242,,4,4
+Peru,United States,Undirected,8243,,45,45
+Peru,Venezuela,Undirected,8244,,6,6
+Peru,Uruguay,Undirected,8245,,4,4
+Uruguay,United States,Undirected,8246,,4,4
+Venezuela,Aruba,Undirected,8247,,25,25
+Venezuela,Netherlands Antilles,Undirected,8248,,16,16
+Venezuela,United States,Undirected,8249,,19,19
+Venezuela,Puerto Rico,Undirected,8250,,2,2
+Venezuela,Trinidad and Tobago,Undirected,8251,,5,5
+Venezuela,Guyana,Undirected,8252,,2,2
+Venezuela,Grenada,Undirected,8253,,2,2
+Guyana,United States,Undirected,8254,,8,8
+Guyana,Trinidad and Tobago,Undirected,8255,,3,3
+Guyana,Barbados,Undirected,8256,,2,2
+Guyana,Puerto Rico,Undirected,8257,,1,1
+Antigua and Barbuda,Guadeloupe,Undirected,8258,,4,4
+Antigua and Barbuda,Saint Kitts and Nevis,Undirected,8259,,9,9
+Antigua and Barbuda,United States,Undirected,8260,,18,18
+Antigua and Barbuda,Trinidad and Tobago,Undirected,8261,,5,5
+Antigua and Barbuda,Barbados,Undirected,8262,,4,4
+Antigua and Barbuda,Anguilla,Undirected,8263,,2,2
+Antigua and Barbuda,Dominica,Undirected,8264,,2,2
+Antigua and Barbuda,Puerto Rico,Undirected,8265,,3,3
+Antigua and Barbuda,Saint Lucia,Undirected,8266,,4,4
+Antigua and Barbuda,Netherlands Antilles,Undirected,8267,,3,3
+Antigua and Barbuda,Montserrat,Undirected,8268,,1,1
+Antigua and Barbuda,British Virgin Islands,Undirected,8269,,1,1
+Antigua and Barbuda,Virgin Islands,Undirected,8270,,1,1
+Antigua and Barbuda,Grenada,Undirected,8271,,2,2
+Barbados,United States,Undirected,8272,,10,10
+Barbados,Trinidad and Tobago,Undirected,8273,,4,4
+Barbados,Netherlands Antilles,Undirected,8274,,2,2
+Barbados,Saint Lucia,Undirected,8275,,3,3
+Barbados,Dominica,Undirected,8276,,2,2
+Barbados,Martinique,Undirected,8277,,3,3
+Barbados,Grenada,Undirected,8278,,2,2
+Barbados,Saint Vincent and the Grenadines,Undirected,8279,,2,2
+Barbados,Guadeloupe,Undirected,8280,,1,1
+Dominica,Guadeloupe,Undirected,8281,,6,6
+Dominica,Netherlands Antilles,Undirected,8282,,9,9
+Dominica,Puerto Rico,Undirected,8283,,8,8
+Dominica,Saint Vincent and the Grenadines,Undirected,8284,,1,1
+Dominica,Saint Lucia,Undirected,8285,,2,2
+Dominica,British Virgin Islands,Undirected,8286,,5,5
+Dominica,Virgin Islands,Undirected,8287,,2,2
+Martinique,Guadeloupe,Undirected,8288,,11,11
+Martinique,Saint Lucia,Undirected,8289,,9,9
+Martinique,United States,Undirected,8290,,4,4
+Martinique,Puerto Rico,Undirected,8291,,4,4
+Guadeloupe,Netherlands Antilles,Undirected,8292,,2,2
+Guadeloupe,United States,Undirected,8293,,6,6
+Guadeloupe,Puerto Rico,Undirected,8294,,4,4
+Grenada,United States,Undirected,8295,,11,11
+Grenada,Saint Lucia,Undirected,8296,,5,5
+Grenada,Trinidad and Tobago,Undirected,8297,,6,6
+Grenada,Saint Vincent and the Grenadines,Undirected,8298,,2,2
+Virgin Islands,British Virgin Islands,Undirected,8299,,8,8
+Virgin Islands,Puerto Rico,Undirected,8300,,17,17
+Virgin Islands,United States,Undirected,8301,,47,47
+Virgin Islands,Anguilla,Undirected,8302,,2,2
+Virgin Islands,Netherlands Antilles,Undirected,8303,,6,6
+Virgin Islands,Saint Kitts and Nevis,Undirected,8304,,2,2
+Puerto Rico,Anguilla,Undirected,8305,,5,5
+Puerto Rico,British Virgin Islands,Undirected,8306,,14,14
+Puerto Rico,Saint Kitts and Nevis,Undirected,8307,,9,9
+Puerto Rico,United States,Undirected,8308,,119,119
+Puerto Rico,Netherlands Antilles,Undirected,8309,,7,7
+Saint Kitts and Nevis,United States,Undirected,8310,,13,13
+Saint Kitts and Nevis,Netherlands Antilles,Undirected,8311,,7,7
+Saint Kitts and Nevis,British Virgin Islands,Undirected,8312,,2,2
+Saint Lucia,United States,Undirected,8313,,20,20
+Saint Lucia,Trinidad and Tobago,Undirected,8314,,10,10
+Saint Lucia,Saint Vincent and the Grenadines,Undirected,8315,,2,2
+Saint Lucia,Netherlands Antilles,Undirected,8316,,1,1
+Aruba,Netherlands Antilles,Undirected,8317,,12,12
+Aruba,United States,Undirected,8318,,56,56
+Netherlands Antilles,United States,Undirected,8319,,53,53
+Netherlands Antilles,Trinidad and Tobago,Undirected,8320,,8,8
+Netherlands Antilles,British Virgin Islands,Undirected,8321,,9,9
+Netherlands Antilles,Anguilla,Undirected,8322,,4,4
+Trinidad and Tobago,United States,Undirected,8323,,22,22
+Trinidad and Tobago,Saint Vincent and the Grenadines,Undirected,8324,,3,3
+Saint Vincent and the Grenadines,United States,Undirected,8325,,3,3
+Kazakhstan,Tajikistan,Undirected,8326,,10,10
+Kazakhstan,Russia,Undirected,8327,,107,107
+Kazakhstan,Belarus,Undirected,8328,,3,3
+Kazakhstan,China,Undirected,8329,,19,19
+Kazakhstan,Armenia,Undirected,8330,,3,3
+Kazakhstan,Azerbaijan,Undirected,8331,,9,9
+Kazakhstan,Georgia,Undirected,8332,,5,5
+Kazakhstan,Uzbekistan,Undirected,8333,,8,8
+Kazakhstan,Thailand,Undirected,8334,,2,2
+Kazakhstan,India,Undirected,8335,,2,2
+Kazakhstan,Kyrgyzstan,Undirected,8336,,8,8
+Kazakhstan,Hong Kong,Undirected,8337,,3,3
+Kazakhstan,Ukraine,Undirected,8338,,8,8
+Kazakhstan,Malaysia,Undirected,8339,,2,2
+Kazakhstan,Vietnam,Undirected,8340,,2,2
+Kazakhstan,Lithuania,Undirected,8341,,1,1
+Kazakhstan,Mongolia,Undirected,8342,,1,1
+Kazakhstan,Turkmenistan,Undirected,8343,,1,1
+Kyrgyzstan,Tajikistan,Undirected,8344,,4,4
+Kyrgyzstan,Russia,Undirected,8345,,111,111
+Kyrgyzstan,China,Undirected,8346,,14,14
+Kyrgyzstan,Uzbekistan,Undirected,8347,,4,4
+Kyrgyzstan,Mongolia,Undirected,8348,,2,2
+Azerbaijan,Russia,Undirected,8349,,51,51
+Azerbaijan,Belarus,Undirected,8350,,2,2
+Azerbaijan,Latvia,Undirected,8351,,4,4
+Azerbaijan,China,Undirected,8352,,4,4
+Azerbaijan,Uzbekistan,Undirected,8353,,3,3
+Azerbaijan,Ukraine,Undirected,8354,,8,8
+Azerbaijan,Georgia,Undirected,8355,,5,5
+Azerbaijan,Turkmenistan,Undirected,8356,,4,4
+Azerbaijan,India,Undirected,8357,,1,1
+Azerbaijan,United States,Undirected,8358,,1,1
+Russia,Uzbekistan,Undirected,8359,,210,210
+Russia,Armenia,Undirected,8360,,71,71
+Russia,Tajikistan,Undirected,8361,,165,165
+Russia,Georgia,Undirected,8362,,25,25
+Russia,Belarus,Undirected,8363,,30,30
+Russia,Latvia,Undirected,8364,,19,19
+Russia,China,Undirected,8365,,134,134
+Russia,Thailand,Undirected,8366,,40,40
+Russia,Hong Kong,Undirected,8367,,22,22
+Russia,United States,Undirected,8368,,26,26
+Russia,North Korea,Undirected,8369,,2,2
+Russia,Ukraine,Undirected,8370,,93,93
+Russia,Mongolia,Undirected,8371,,6,6
+Russia,Turkmenistan,Undirected,8372,,6,6
+Russia,Singapore,Undirected,8373,,4,4
+Russia,India,Undirected,8374,,4,4
+Russia,Vietnam,Undirected,8375,,20,20
+Russia,Maldives,Undirected,8376,,4,4
+Russia,Lithuania,Undirected,8377,,8,8
+Russia,Sri Lanka,Undirected,8378,,5,5
+Russia,Indonesia,Undirected,8379,,3,3
+Ukraine,Belarus,Undirected,8380,,9,9
+Ukraine,Latvia,Undirected,8381,,6,6
+Ukraine,Uzbekistan,Undirected,8382,,2,2
+Ukraine,Georgia,Undirected,8383,,18,18
+Ukraine,Thailand,Undirected,8384,,2,2
+Ukraine,Armenia,Undirected,8385,,4,4
+Ukraine,United States,Undirected,8386,,2,2
+Ukraine,Lithuania,Undirected,8387,,7,7
+Ukraine,Sri Lanka,Undirected,8388,,1,1
+Ukraine,India,Undirected,8389,,1,1
+Ukraine,China,Undirected,8390,,1,1
+Belarus,Turkmenistan,Undirected,8391,,3,3
+Belarus,Georgia,Undirected,8392,,6,6
+Belarus,Armenia,Undirected,8393,,2,2
+Belarus,Latvia,Undirected,8394,,4,4
+Belarus,Lithuania,Undirected,8395,,2,2
+Belarus,China,Undirected,8396,,1,1
+Belarus,Uzbekistan,Undirected,8397,,1,1
+Turkmenistan,China,Undirected,8398,,4,4
+Turkmenistan,India,Undirected,8399,,4,4
+Turkmenistan,Thailand,Undirected,8400,,1,1
+Turkmenistan,Malaysia,Undirected,8401,,1,1
+Turkmenistan,Bangladesh,Undirected,8402,,1,1
+Tajikistan,India,Undirected,8403,,2,2
+Tajikistan,China,Undirected,8404,,8,8
+Tajikistan,Uzbekistan,Undirected,8405,,2,2
+Uzbekistan,Latvia,Undirected,8406,,4,4
+Uzbekistan,China,Undirected,8407,,8,8
+Uzbekistan,India,Undirected,8408,,5,5
+Uzbekistan,Thailand,Undirected,8409,,2,2
+Uzbekistan,Malaysia,Undirected,8410,,4,4
+Uzbekistan,Singapore,Undirected,8411,,4,4
+Uzbekistan,Indonesia,Undirected,8412,,1,1
+Uzbekistan,United States,Undirected,8413,,1,1
+Uzbekistan,Georgia,Undirected,8414,,1,1
+India,Bangladesh,Undirected,8415,,35,35
+India,Thailand,Undirected,8416,,81,81
+India,Nepal,Undirected,8417,,21,21
+India,Singapore,Undirected,8418,,96,96
+India,Malaysia,Undirected,8419,,58,58
+India,Sri Lanka,Undirected,8420,,59,59
+India,Hong Kong,Undirected,8421,,36,36
+India,United States,Undirected,8422,,24,24
+India,Burma,Undirected,8423,,6,6
+India,Australia,Undirected,8424,,4,4
+India,China,Undirected,8425,,24,24
+India,Maldives,Undirected,8426,,14,14
+India,Yemen,Undirected,8427,,3,3
+India,Bhutan,Undirected,8428,,9,9
+India,Vietnam,Undirected,8429,,6,6
+India,Indonesia,Undirected,8430,,3,3
+India,Cambodia,Undirected,8431,,1,1
+Sri Lanka,Maldives,Undirected,8432,,30,30
+Sri Lanka,Thailand,Undirected,8433,,9,9
+Sri Lanka,Singapore,Undirected,8434,,12,12
+Sri Lanka,Malaysia,Undirected,8435,,10,10
+Sri Lanka,Indonesia,Undirected,8436,,4,4
+Sri Lanka,Bangladesh,Undirected,8437,,4,4
+Sri Lanka,China,Undirected,8438,,16,16
+Sri Lanka,Hong Kong,Undirected,8439,,4,4
+Sri Lanka,Australia,Undirected,8440,,4,4
+Sri Lanka,Vietnam,Undirected,8441,,2,2
+Cambodia,Singapore,Undirected,8442,,17,17
+Cambodia,Burma,Undirected,8443,,2,2
+Cambodia,China,Undirected,8444,,99,99
+Cambodia,Vietnam,Undirected,8445,,35,35
+Cambodia,Malaysia,Undirected,8446,,12,12
+Cambodia,Thailand,Undirected,8447,,28,28
+Cambodia,Hong Kong,Undirected,8448,,10,10
+Cambodia,Laos,Undirected,8449,,10,10
+Cambodia,Macau,Undirected,8450,,6,6
+Cambodia,Indonesia,Undirected,8451,,2,2
+Bangladesh,Thailand,Undirected,8452,,16,16
+Bangladesh,Nepal,Undirected,8453,,9,9
+Bangladesh,Malaysia,Undirected,8454,,14,14
+Bangladesh,Hong Kong,Undirected,8455,,7,7
+Bangladesh,Burma,Undirected,8456,,2,2
+Bangladesh,Singapore,Undirected,8457,,9,9
+Bangladesh,China,Undirected,8458,,5,5
+Bangladesh,Bhutan,Undirected,8459,,2,2
+Bangladesh,Vietnam,Undirected,8460,,3,3
+Hong Kong,Singapore,Undirected,8461,,19,19
+Hong Kong,China,Undirected,8462,,260,260
+Hong Kong,United States,Undirected,8463,,45,45
+Hong Kong,Malaysia,Undirected,8464,,25,25
+Hong Kong,Australia,Undirected,8465,,33,33
+Hong Kong,Brunei,Undirected,8466,,4,4
+Hong Kong,Indonesia,Undirected,8467,,21,21
+Hong Kong,Thailand,Undirected,8468,,63,63
+Hong Kong,Vietnam,Undirected,8469,,30,30
+Hong Kong,Maldives,Undirected,8470,,5,5
+Hong Kong,Burma,Undirected,8471,,6,6
+Hong Kong,Mongolia,Undirected,8472,,5,5
+Hong Kong,Nepal,Undirected,8473,,5,5
+Laos,Thailand,Undirected,8474,,28,28
+Laos,Malaysia,Undirected,8475,,2,2
+Laos,China,Undirected,8476,,25,25
+Laos,Vietnam,Undirected,8477,,12,12
+Laos,Singapore,Undirected,8478,,5,5
+Macau,China,Undirected,8479,,122,122
+Macau,Malaysia,Undirected,8480,,3,3
+Macau,Thailand,Undirected,8481,,9,9
+Macau,Vietnam,Undirected,8482,,7,7
+Macau,Singapore,Undirected,8483,,2,2
+Macau,North Korea,Undirected,8484,,1,1
+Nepal,China,Undirected,8485,,11,11
+Nepal,Malaysia,Undirected,8486,,8,8
+Nepal,Bhutan,Undirected,8487,,3,3
+Nepal,Singapore,Undirected,8488,,4,4
+Nepal,Thailand,Undirected,8489,,5,5
+Bhutan,Thailand,Undirected,8490,,1,1
+Maldives,China,Undirected,8491,,11,11
+Maldives,Malaysia,Undirected,8492,,3,3
+Maldives,Thailand,Undirected,8493,,4,4
+Maldives,Singapore,Undirected,8494,,6,6
+Thailand,Singapore,Undirected,8495,,61,61
+Thailand,China,Undirected,8496,,344,344
+Thailand,Burma,Undirected,8497,,34,34
+Thailand,Malaysia,Undirected,8498,,80,80
+Thailand,Brunei,Undirected,8499,,4,4
+Thailand,Australia,Undirected,8500,,29,29
+Thailand,Indonesia,Undirected,8501,,20,20
+Thailand,Vietnam,Undirected,8502,,42,42
+Thailand,Mongolia,Undirected,8503,,2,2
+Vietnam,Singapore,Undirected,8504,,34,34
+Vietnam,China,Undirected,8505,,139,139
+Vietnam,Malaysia,Undirected,8506,,28,28
+Vietnam,Australia,Undirected,8507,,14,14
+Vietnam,Indonesia,Undirected,8508,,6,6
+Vietnam,Burma,Undirected,8509,,5,5
+Vietnam,Brunei,Undirected,8510,,1,1
+Burma,Singapore,Undirected,8511,,15,15
+Burma,China,Undirected,8512,,65,65
+Burma,Malaysia,Undirected,8513,,7,7
+Burma,Myanmar,Undirected,8514,,3,3
+Indonesia,Malaysia,Undirected,8515,,133,133
+Indonesia,Brunei,Undirected,8516,,9,9
+Indonesia,China,Undirected,8517,,60,60
+Indonesia,Singapore,Undirected,8518,,139,139
+Indonesia,Australia,Undirected,8519,,67,67
+Indonesia,East Timor,Undirected,8520,,5,5
+Indonesia,United States,Undirected,8521,,13,13
+Malaysia,Singapore,Undirected,8522,,97,97
+Malaysia,China,Undirected,8523,,105,105
+Malaysia,Brunei,Undirected,8524,,20,20
+Malaysia,Australia,Undirected,8525,,31,31
+Malaysia,North Korea,Undirected,8526,,2,2
+Brunei,Australia,Undirected,8527,,2,2
+Brunei,China,Undirected,8528,,7,7
+Brunei,Singapore,Undirected,8529,,4,4
+East Timor,Singapore,Undirected,8530,,2,2
+East Timor,Australia,Undirected,8531,,4,4
+Singapore,Australia,Undirected,8532,,94,94
+Singapore,China,Undirected,8533,,138,138
+Singapore,United States,Undirected,8534,,12,12
+Australia,China,Undirected,8535,,76,76
+Australia,United States,Undirected,8536,,64,64
+Australia,Solomon Islands,Undirected,8537,,5,5
+Australia,Norfolk Island,Undirected,8538,,4,4
+Australia,Nauru,Undirected,8539,,2,2
+Australia,Christmas Island,Undirected,8540,,4,4
+Australia,Cocos (Keeling) Islands,Undirected,8541,,2,2
+Christmas Island,Cocos (Keeling) Islands,Undirected,8542,,2,2
+China,United States,Undirected,8543,,177,177
+China,North Korea,Undirected,8544,,7,7
+China,Mongolia,Undirected,8545,,12,12
+China,Georgia,Undirected,8546,,2,2
+United States,Bermuda,Undirected,8547,,25,25
+United States,Latvia,Undirected,8548,,2,2
+Latvia,Georgia,Undirected,8549,,5,5
+Latvia,Lithuania,Undirected,8550,,4,4
+Lithuania,Georgia,Undirected,8551,,2,2
+Armenia,Georgia,Undirected,8552,,1,1
+Eritrea,Yemen,Undirected,8553,,4,4
+Yemen,Djibouti,Undirected,8554,,5,5
+Solomon Islands,Nauru,Undirected,8555,,1,1

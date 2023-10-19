@@ -1,0 +1,308 @@
+Source,Target,Weight
+Canada,United States,919.0
+Canada,Antigua and Barbuda,7.0
+Canada,Aruba,4.0
+Canada,Dominican Republic,46.0
+Canada,Bermuda,4.0
+Canada,Barbados,6.0
+Canada,Colombia,10.0
+Canada,Cuba,78.0
+Canada,Mexico,167.0
+Canada,Martinique,2.0
+Canada,Cayman Islands,4.0
+Canada,Bahamas,10.0
+Canada,Grenada,4.0
+Canada,Brazil,6.0
+Canada,Jamaica,30.0
+Canada,Peru,4.0
+Canada,Costa Rica,14.0
+Canada,Haiti,4.0
+Canada,Turks and Caicos Islands,6.0
+Canada,Guadeloupe,2.0
+Canada,Chile,2.0
+Canada,Saint Lucia,6.0
+Canada,El Salvador,2.0
+Canada,Guyana,4.0
+Canada,Trinidad and Tobago,6.0
+Canada,Panama,6.0
+Canada,Saint Pierre and Miquelon,6.0
+Canada,Puerto Rico,6.0
+Canada,Netherlands Antilles,14.0
+Canada,Belize,4.0
+Canada,Argentina,2.0
+Canada,Saint Kitts and Nevis,2.0
+Falkland Islands,Chile,1.0
+Falkland Islands,Argentina,3.0
+Falkland Islands,Brazil,1.0
+Turks and Caicos Islands,United States,38.0
+Turks and Caicos Islands,Bahamas,7.0
+Turks and Caicos Islands,Haiti,8.0
+Turks and Caicos Islands,Jamaica,2.0
+Turks and Caicos Islands,Dominican Republic,7.0
+Turks and Caicos Islands,Puerto Rico,2.0
+Turks and Caicos Islands,Antigua and Barbuda,2.0
+Dominican Republic,Netherlands Antilles,16.0
+Dominican Republic,Martinique,2.0
+Dominican Republic,Guadeloupe,7.0
+Dominican Republic,Argentina,7.0
+Dominican Republic,United States,148.0
+Dominican Republic,Aruba,5.0
+Dominican Republic,Colombia,8.0
+Dominican Republic,Peru,6.0
+Dominican Republic,Puerto Rico,19.0
+Dominican Republic,Antigua and Barbuda,8.0
+Dominican Republic,Panama,8.0
+Dominican Republic,Cuba,5.0
+Dominican Republic,Costa Rica,2.0
+Dominican Republic,Brazil,13.0
+Dominican Republic,Venezuela,6.0
+Dominican Republic,Jamaica,4.0
+Dominican Republic,Chile,2.0
+Dominican Republic,Haiti,8.0
+Dominican Republic,Mexico,3.0
+Dominican Republic,British Virgin Islands,1.0
+Dominican Republic,Bahamas,1.0
+Dominican Republic,Barbados,1.0
+Guatemala,Mexico,10.0
+Guatemala,Belize,5.0
+Guatemala,Honduras,18.0
+Guatemala,United States,42.0
+Guatemala,Colombia,3.0
+Guatemala,El Salvador,7.0
+Guatemala,Costa Rica,7.0
+Guatemala,Nicaragua,4.0
+Guatemala,Panama,2.0
+Honduras,Belize,4.0
+Honduras,United States,44.0
+Honduras,Mexico,2.0
+Honduras,El Salvador,6.0
+Honduras,Costa Rica,10.0
+Honduras,Panama,4.0
+Honduras,Cayman Islands,5.0
+Jamaica,Netherlands Antilles,4.0
+Jamaica,United States,98.0
+Jamaica,Antigua and Barbuda,2.0
+Jamaica,Barbados,2.0
+Jamaica,Bahamas,2.0
+Jamaica,Trinidad and Tobago,2.0
+Jamaica,Panama,5.0
+Jamaica,Cuba,3.0
+Jamaica,Cayman Islands,3.0
+Jamaica,Guyana,2.0
+Jamaica,Peru,2.0
+Mexico,Colombia,20.0
+Mexico,United States,905.0
+Mexico,Cuba,19.0
+Mexico,Costa Rica,10.0
+Mexico,Belize,5.0
+Mexico,Venezuela,2.0
+Mexico,Panama,18.0
+Mexico,Argentina,4.0
+Mexico,Brazil,8.0
+Mexico,Peru,11.0
+Mexico,El Salvador,10.0
+Mexico,Chile,6.0
+Mexico,Ecuador,5.0
+Mexico,Nicaragua,2.0
+Nicaragua,Costa Rica,8.0
+Nicaragua,United States,14.0
+Nicaragua,Panama,4.0
+Nicaragua,El Salvador,7.0
+Nicaragua,Venezuela,1.0
+Panama,Costa Rica,15.0
+Panama,Venezuela,15.0
+Panama,United States,70.0
+Panama,Haiti,4.0
+Panama,Trinidad and Tobago,4.0
+Panama,Colombia,28.0
+Panama,El Salvador,4.0
+Panama,Paraguay,2.0
+Panama,Aruba,3.0
+Panama,Brazil,18.0
+Panama,Argentina,10.0
+Panama,Netherlands Antilles,4.0
+Panama,Ecuador,7.0
+Panama,Cuba,8.0
+Panama,Peru,6.0
+Panama,Uruguay,2.0
+Panama,Bahamas,2.0
+Panama,Chile,2.0
+Panama,Puerto Rico,2.0
+Panama,Bolivia,2.0
+Panama,Barbados,2.0
+Panama,Belize,2.0
+Panama,Guyana,2.0
+Panama,Suriname,2.0
+Costa Rica,United States,91.0
+Costa Rica,Colombia,2.0
+Costa Rica,Peru,4.0
+Costa Rica,El Salvador,6.0
+El Salvador,United States,68.0
+El Salvador,Colombia,7.0
+El Salvador,Belize,2.0
+El Salvador,Ecuador,4.0
+El Salvador,Peru,2.0
+El Salvador,Cuba,4.0
+Haiti,Netherlands Antilles,4.0
+Haiti,United States,32.0
+Haiti,Guadeloupe,4.0
+Haiti,Cuba,4.0
+Haiti,Bahamas,2.0
+Cuba,Colombia,7.0
+Cuba,Venezuela,9.0
+Cuba,Argentina,2.0
+Cuba,Martinique,2.0
+Cuba,Bahamas,4.0
+Cuba,Ecuador,2.0
+Cuba,Cayman Islands,2.0
+Cuba,Peru,6.0
+Cuba,Suriname,1.0
+Cuba,United States,16.0
+Cuba,Trinidad and Tobago,1.0
+Cuba,Guadeloupe,1.0
+Cayman Islands,United States,41.0
+Cayman Islands,Bahamas,2.0
+Bahamas,United States,161.0
+Bahamas,Saint Kitts and Nevis,1.0
+Belize,United States,26.0
+American Samoa,United States,2.0
+French Polynesia,United States,17.0
+French Polynesia,Chile,2.0
+Argentina,United States,28.0
+Argentina,Uruguay,25.0
+Argentina,Chile,35.0
+Argentina,Paraguay,18.0
+Argentina,Brazil,114.0
+Argentina,Colombia,4.0
+Argentina,Venezuela,5.0
+Argentina,Peru,17.0
+Argentina,Bolivia,6.0
+Argentina,Ecuador,4.0
+Brazil,Uruguay,31.0
+Brazil,United States,148.0
+Brazil,Colombia,10.0
+Brazil,Peru,29.0
+Brazil,Ecuador,4.0
+Brazil,Paraguay,16.0
+Brazil,Barbados,2.0
+Brazil,Venezuela,8.0
+Brazil,Bolivia,8.0
+Brazil,Chile,31.0
+Brazil,French Guiana,4.0
+Brazil,Suriname,4.0
+Chile,Uruguay,5.0
+Chile,United States,26.0
+Chile,Peru,22.0
+Chile,Colombia,4.0
+Chile,Bolivia,11.0
+Chile,Paraguay,5.0
+Chile,Venezuela,3.0
+Chile,Ecuador,5.0
+Ecuador,Colombia,25.0
+Ecuador,United States,35.0
+Ecuador,Peru,12.0
+Ecuador,Venezuela,5.0
+Paraguay,Uruguay,5.0
+Paraguay,United States,4.0
+Paraguay,Peru,4.0
+Paraguay,Bolivia,4.0
+Colombia,Netherlands Antilles,7.0
+Colombia,United States,125.0
+Colombia,Aruba,6.0
+Colombia,Venezuela,17.0
+Colombia,Peru,18.0
+Colombia,Bolivia,4.0
+Colombia,Puerto Rico,2.0
+Colombia,Uruguay,2.0
+Bolivia,United States,5.0
+Bolivia,Peru,19.0
+Suriname,Netherlands Antilles,3.0
+Suriname,Trinidad and Tobago,6.0
+Suriname,Aruba,2.0
+Suriname,French Guiana,2.0
+Suriname,Guyana,2.0
+French Guiana,Martinique,4.0
+Peru,United States,45.0
+Peru,Venezuela,6.0
+Peru,Uruguay,4.0
+Uruguay,United States,4.0
+Venezuela,Aruba,25.0
+Venezuela,Netherlands Antilles,16.0
+Venezuela,United States,19.0
+Venezuela,Puerto Rico,2.0
+Venezuela,Trinidad and Tobago,5.0
+Venezuela,Guyana,2.0
+Venezuela,Grenada,2.0
+Guyana,United States,8.0
+Guyana,Trinidad and Tobago,3.0
+Guyana,Barbados,2.0
+Guyana,Puerto Rico,1.0
+Antigua and Barbuda,Guadeloupe,4.0
+Antigua and Barbuda,Saint Kitts and Nevis,9.0
+Antigua and Barbuda,United States,18.0
+Antigua and Barbuda,Trinidad and Tobago,5.0
+Antigua and Barbuda,Barbados,4.0
+Antigua and Barbuda,Anguilla,2.0
+Antigua and Barbuda,Dominica,2.0
+Antigua and Barbuda,Puerto Rico,3.0
+Antigua and Barbuda,Saint Lucia,4.0
+Antigua and Barbuda,Netherlands Antilles,3.0
+Antigua and Barbuda,Montserrat,1.0
+Antigua and Barbuda,British Virgin Islands,1.0
+Antigua and Barbuda,Virgin Islands,1.0
+Antigua and Barbuda,Grenada,2.0
+Barbados,United States,10.0
+Barbados,Trinidad and Tobago,4.0
+Barbados,Netherlands Antilles,2.0
+Barbados,Saint Lucia,3.0
+Barbados,Dominica,2.0
+Barbados,Martinique,3.0
+Barbados,Grenada,2.0
+Barbados,Saint Vincent and the Grenadines,2.0
+Barbados,Guadeloupe,1.0
+Dominica,Guadeloupe,6.0
+Dominica,Netherlands Antilles,9.0
+Dominica,Puerto Rico,8.0
+Dominica,Saint Vincent and the Grenadines,1.0
+Dominica,Saint Lucia,2.0
+Dominica,British Virgin Islands,5.0
+Dominica,Virgin Islands,2.0
+Martinique,Guadeloupe,11.0
+Martinique,Saint Lucia,9.0
+Martinique,United States,4.0
+Martinique,Puerto Rico,4.0
+Guadeloupe,Netherlands Antilles,2.0
+Guadeloupe,United States,6.0
+Guadeloupe,Puerto Rico,4.0
+Grenada,United States,11.0
+Grenada,Saint Lucia,5.0
+Grenada,Trinidad and Tobago,6.0
+Grenada,Saint Vincent and the Grenadines,2.0
+Virgin Islands,British Virgin Islands,8.0
+Virgin Islands,Puerto Rico,17.0
+Virgin Islands,United States,47.0
+Virgin Islands,Anguilla,2.0
+Virgin Islands,Netherlands Antilles,6.0
+Virgin Islands,Saint Kitts and Nevis,2.0
+Puerto Rico,Anguilla,5.0
+Puerto Rico,British Virgin Islands,14.0
+Puerto Rico,Saint Kitts and Nevis,9.0
+Puerto Rico,United States,119.0
+Puerto Rico,Netherlands Antilles,7.0
+Saint Kitts and Nevis,United States,13.0
+Saint Kitts and Nevis,Netherlands Antilles,7.0
+Saint Kitts and Nevis,British Virgin Islands,2.0
+Saint Lucia,United States,20.0
+Saint Lucia,Trinidad and Tobago,10.0
+Saint Lucia,Saint Vincent and the Grenadines,2.0
+Saint Lucia,Netherlands Antilles,1.0
+Aruba,Netherlands Antilles,12.0
+Aruba,United States,56.0
+Netherlands Antilles,United States,53.0
+Netherlands Antilles,Trinidad and Tobago,8.0
+Netherlands Antilles,British Virgin Islands,9.0
+Netherlands Antilles,Anguilla,4.0
+Trinidad and Tobago,United States,22.0
+Trinidad and Tobago,Saint Vincent and the Grenadines,3.0
+Saint Vincent and the Grenadines,United States,3.0
+United States,Bermuda,25.0
