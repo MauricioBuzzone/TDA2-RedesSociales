@@ -41,7 +41,7 @@ for index, row in df.iterrows():
 
 max_diff = 0
 i = 0
-while max_diff >= 0.001 or i <= 1:
+while max_diff >= 0.00005 or i <= 1:
     print(f'[Iteration {i}]: max_diff: {max_diff}')
     max_diff = 0
     for user in users.keys():
