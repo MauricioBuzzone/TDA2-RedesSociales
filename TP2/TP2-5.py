@@ -31,6 +31,7 @@ df = pd.read_csv('ratings_electronics.csv')
 # Cada producto tiene un "valor" → G(p) ∈ [-1,1]
 # Los ratings tienen una fiabilidad → R(u,p) ∈ [0,1]
 users = dict.fromkeys(df['USER_ID'], 1)
+print(len(users))
 products = dict.fromkeys(df['PRODUCT_ID'], 1)
 ratings = dict.fromkeys(zip(df['USER_ID'], df['PRODUCT_ID']), 1)
 
