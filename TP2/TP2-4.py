@@ -17,7 +17,7 @@ def run_simulation(process_id, G, q, p, simulations):
     epidemic = 0
     for i in range(simulations):
         print(f'[{process_id}]: simulation {i}')
-        infectious = max(nx.degree_centrality(G))#random.randint(0,n)
+        infectious = random.randint(0,n)
 
         sus, inf,rec = simulate_virus(process_id,G,infectious, q, p,iterations)
 
