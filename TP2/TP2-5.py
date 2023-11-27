@@ -24,12 +24,13 @@ def transform(value, original_interval=(1, 5), destination_interval=(-1, 1)):
 gamma1 = 0.5
 gamma2 = 0.5
 
-df = pd.read_csv('ratings_electronics_reducido.csv')
+df = pd.read_csv('ratings_electronics.csv')
 
 # Cada usuario tiene una cierta noción de justicia (fairness) → F(u) ∈ [0,1]
 # Cada producto tiene un "valor" → G(p) ∈ [-1,1]
 # Los ratings tienen una fiabilidad → R(u,p) ∈ [0,1]
 users = dict.fromkeys(df['USER_ID'], 1)
+print(len(users))
 products = dict.fromkeys(df['PRODUCT_ID'], 1)
 ratings = dict(zip(zip(df['USER_ID'], df['PRODUCT_ID']), [1] * len(df)))
 
