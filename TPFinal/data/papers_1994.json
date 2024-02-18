@@ -1,0 +1,395 @@
+[
+    {
+        "title": "Desperately Seeking Superstrings",
+        "authors": [
+            "Paul Ginsparg",
+            "Sheldon Glashow"
+        ],
+        "subject": "Popular Physics"
+    },
+    {
+        "title": "Fourier Path Integral Monte Carlo Method for the Calculation of the  Microcanonical Density of States",
+        "authors": [
+            "David L. Freeman",
+            "J.D. Doll"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Monte Carlo Studies of the Orientational Order-Disorder Phase Transition  in Solid Ammonium Chloride",
+        "authors": [
+            "Robert Q. Topper",
+            "David L. Freeman"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Stability of the Hydrogen and Hydrogen-like Molecules",
+        "authors": [
+            "Jean-Marc Richard"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Comparison of electron density functional models",
+        "authors": [
+            "Gary G. Hoffman",
+            "Lawrence R. Pratt"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Density Functional Calculations On First-Row Transition Metals",
+        "authors": [
+            "Thomas V. Russo",
+            "Richard L. Martin",
+            "P. Jeffrey Hay"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "The Aqueous Solvation of Water: A Comparison of Continuum Methods with  Molecular Dynamics",
+        "authors": [
+            "Steven W. Rick",
+            "B. J. Berne"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Magic Numbers of Silicon Clusters",
+        "authors": [
+            "Jun Pan",
+            "Mushti V. Ramakrishna"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Vibrational States of the Hydrogen Isotopes on Pd(111)",
+        "authors": [
+            "Steven W. Rick",
+            "J.D. Doll"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Li$_5$ as a pseudorotating planar cluster",
+        "authors": [
+            "Ryoichi Kawai",
+            "Joseph F. Tombrello",
+            "John H. Weare"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Ion Pair Potentials-of-Mean-Force in Water",
+        "authors": [
+            "Lawrence R. Pratt",
+            "Gerhard Hummer",
+            "Angel E. Garcia"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Tests of Dielectric Model Descriptions of Chemical Charge Displacements  in Water",
+        "authors": [
+            "Gregory J. Tawa",
+            "Lawrence R. Pratt"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Quantum Annealing: A New Method for Minimizing Multidimensional  Functions",
+        "authors": [
+            "A. B. Finnila",
+            "M. A. Gomez",
+            "C. Sebenik",
+            "C. Stenson",
+            "J.D. Doll"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Chemical Reactions of Silicon Clusters",
+        "authors": [
+            "Mushti V. Ramakrishna",
+            "Jun Pan"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Decisions, Decisions: Noise and its Effects on Integral Monte Carlo  Algorithms",
+        "authors": [
+            "J. D. Doll",
+            "D. L. Freeman"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Magic Numbers for Classical Lennard-Jones Cluster Heat Capacities",
+        "authors": [
+            "Don D. Frantz"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Dynamical Fluctuating Charge Force Fields: Application to Liquid Water",
+        "authors": [
+            "Steven W. Rick",
+            "Steven J. Stuart",
+            "B.J. Berne"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Many-body trial wave functions for atomic systems and ground states of  small noble gas clusters",
+        "authors": [
+            "Andrei Mushinski",
+            "M.P. Nightingale"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "The Construction of Double-Ended Classical Trajectories",
+        "authors": [
+            "A. E. Cho",
+            "J. D. Doll",
+            "D. L. Freeman"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Optical response of C60 and C70 fullerenes: Exciton and lattice  fluctuation effects",
+        "authors": [
+            "Kikuo Harigaya",
+            "Shuji Abe"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Theoretical calculation of the water ion product K_W",
+        "authors": [
+            "Gregory J. Tawa",
+            "Lawrence R. Pratt"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Methods for molecular dynamics with nonadiabatic transitions",
+        "authors": [
+            "D.F. Coker",
+            "L. Xiao"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "C20: Fulleren, Bowl or Ring? New Results from Coupled-Cluster  Calculations",
+        "authors": [
+            "Peter R. Taylor",
+            "Eric Bylaska",
+            "John H. Weare",
+            "Ryoichi Kawai"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Locating transition states using double-ended classical trajectories",
+        "authors": [
+            "A. Matro",
+            "D.L. Freeman",
+            "J.D. Doll"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "On the Mechanism of the Primary Charge Separation in Bacterial  Photosynthesis",
+        "authors": [
+            "C.H. Mak",
+            "Reinhold Egger"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Transferable Tight-Binding Potential for Hydrocarbons",
+        "authors": [
+            "Yang Wang",
+            "C.H. Mak"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Passive Scalars and Three-Dimensional Liouvillian Maps",
+        "authors": [
+            "Julyan H. E. Cartwright",
+            "Mario Feingold",
+            "Oreste Piro"
+        ],
+        "subject": "Chaotic Dynamics"
+    },
+    {
+        "title": "Symplectic Computation of Lyapunov Exponents",
+        "authors": [
+            "Salman Habib",
+            "Robert D. Ryne"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Order $\\hbar$ Corrections to the Classical Dynamics of a Particle with  Intrinsic Spin Moving in a Constant Magnetic Field",
+        "authors": [
+            "Patrick L. Nash"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Candela Photo-Injector Experimental Results",
+        "authors": [
+            "C. Travier",
+            "L. Boy",
+            "J.N. Cayla",
+            "B. Leblond",
+            "P. Georges",
+            "P. Thomas"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "High-Brightness Photocathode Electron Sources",
+        "authors": [
+            "C. Travier"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Many-Body effects and resonances in universal quantum sticking of cold  atoms to surfaces",
+        "authors": [
+            "Eric R. Bittner",
+            "John C. Light"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Packing Transitions in Nanosized Li Clusters",
+        "authors": [
+            "Ming Wen Sung",
+            "Ryoichi Kawai",
+            "John H. Weare"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Dimensional Perturbation Theory on the Connection Machine",
+        "authors": [
+            "Timothy C. Germann",
+            "Dudley R. Herschbach",
+            "Bruce M. Boghosian"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Theoretical Study of Time-Resolved Fluorescence Anisotropy from Coupled  Chromophore Pairs",
+        "authors": [
+            "Alexander Matro",
+            "Jeffrey A. Cina"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Comparative Study of Multicanonical and Simulated Annealing Algorithms  in the Protein Folding Problem",
+        "authors": [
+            "Ulrich H.E. Hansmann",
+            "Yuko Okamoto"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Low-temperature dynamical simulation of spin-boson systems",
+        "authors": [
+            "Reinhold Egger",
+            "C.H. Mak"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Comment on \"Monte Carlo Simulation of a First-Order Transition\"",
+        "authors": [
+            "Bernd A. Berg",
+            "Ulrich H.E. Hansmann",
+            "Yuko Okamoto"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Funnels, Pathways and the Energy Landscape of Protein Folding: A  Synthesis",
+        "authors": [
+            "J. D. Bryngelson",
+            "J. N. Onuchic",
+            "N. D. Socci",
+            "P. G. Wolynes"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "A Hybrid Decomposition Parallel Implementation of the Car-Parrinello  Method",
+        "authors": [
+            "James K. Wiggs",
+            "Hannes Jonsson"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Radiative association and inverse predissociation of oxygen atoms",
+        "authors": [
+            "J. F. Babb",
+            "A. Dalgarno"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Molecular Dynamics Simulations of a Pressure-induced Glass Transition",
+        "authors": [
+            "Shelly L. Shumway",
+            "Andrew S. Clarke",
+            "Hannes Jónsson"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Reversible Work Transiton State Theory: Application to Dissociative  Adsorption of Hydrogen",
+        "authors": [
+            "Gregory Mills",
+            "Hannes Jonsson"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Microwave detected, microwave-optical double resonance of NH3, NH2D,  NHD2, and ND3. II. Predissociation dynamics of the A state",
+        "authors": [
+            "Steven A. Henck",
+            "Martin A. Mason",
+            "Wen - Bin Yan",
+            "Kevin K. Lehmann",
+            "Stephen L. Coy"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Microwave detected, microwave-optical double resonance of NH3, NH2D,  NHD2, and ND3. I. Sturcture and force field of the A state",
+        "authors": [
+            "Steven A. Henck",
+            "Martin A. Mason",
+            "Wen - Bin Yan",
+            "Kevin K. Lehmann",
+            "Stephen L. Coy"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Specific heat in the thermodynamics of clusters",
+        "authors": [
+            "Peter Borrmann",
+            "Dorian Gloski",
+            "Eberhard R. Hilf"
+        ],
+        "subject": "Chemical Physics"
+    }
+]

@@ -1,0 +1,2103 @@
+[
+    {
+        "title": "Particle Motion in the Stable Region Near an Edge of a Linear Sum  Resonance Stopband",
+        "authors": [
+            "G. Parzen"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Motion Tomography of a single trapped ion",
+        "authors": [
+            "J.F. Poyatos",
+            "R. Walser",
+            "J. I. Cirac",
+            "P. Zoller",
+            "R. Blatt"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Adiabatic mechanism of the multiply charged ion production by a laser  field through ATI states of an atom",
+        "authors": [
+            "M.Yu.Kuchiev"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "ATI as a source for multiply charged ion production in a laser field",
+        "authors": [
+            "M.Yu.Kuchiev"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Dynamics, correlations and phases of the micromaser",
+        "authors": [
+            "Per Elmfors",
+            "Benny Lautrup",
+            "Bo-Sture Skagerstam"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Atomic Data and Databases on the Internet: Entering 1996",
+        "authors": [
+            "Yu.V.Ralchenko"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Toward general solutions to time-series problems: Notes on obstacles and  noise",
+        "authors": [
+            "Iftah Gideoni"
+        ],
+        "subject": "Data Analysis, Statistics and Probability"
+    },
+    {
+        "title": "Dynamics of Proton Transfer in Mesoscopic Clusters",
+        "authors": [
+            "Styliani Consta",
+            "Raymond Kapral"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Binary Assignments of Amino Acids from Pattern Conservation",
+        "authors": [
+            "Anders Irbäck",
+            "Frank Potthast"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Molecular dynamics study of solvation effects on acid dissociation in  aprotic media",
+        "authors": [
+            "Daniel Laria",
+            "Raymond Kapral",
+            "Dario Estrin",
+            "Giovanni Ciccotti"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Liquid Crystal Analogue of Abrikosov Vortex Flow in Superconductors",
+        "authors": [
+            "A. Tanaka",
+            "T. Ota",
+            "R. Hayakawa"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Muon Colliders",
+        "authors": [
+            "R. B. Palmer",
+            "A. Sessler",
+            "A. Skrinsky",
+            "A. Tollestrup"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Diffusion due to the Beam-Beam Interaction and Fluctuating Fields in  Hadron Colliders",
+        "authors": [
+            "Tanaji Sen",
+            "James A. Ellison"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Final Focus System for a Muon Collider: A Test Model",
+        "authors": [
+            "Juan C. Gallardo",
+            "Robert B. Palmer"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Prospects for Parity Non-conservation Experiments with Highly Charged  Heavy Ions",
+        "authors": [
+            "M. Maul",
+            "A. Schäfer",
+            "W. Greiner",
+            "P. Indelicato"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Stimulated Enhancement of Cross-Section by a Bose-Einstein Condensate",
+        "authors": [
+            "J.J. Hope",
+            "C.M. Savage"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Metric structures of inviscid flows",
+        "authors": [
+            "Rubén A. Pasmanter"
+        ],
+        "subject": "Chaotic Dynamics"
+    },
+    {
+        "title": "Lyapunov instability of fluids composed of rigid diatomic molecules",
+        "authors": [
+            "I. Borzsák",
+            "H.A. Posch",
+            "A. Baranyai"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Exact and Semiclassical Density Matrix of a Particle Moving in a Barrier  Potential with Bound States",
+        "authors": [
+            "Franz Josef Weiper",
+            "Joachim Ankerhold",
+            "Hermann Grabert"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Protein dynamics with off-lattice Monte Carlo moves",
+        "authors": [
+            "Daniel Hoffmann",
+            "Ernst-Walter Knapp"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Scaling and Scale Breaking in Polyelectrolyte",
+        "authors": [
+            "Carsten Peterson",
+            "Ola Sommelius",
+            "Bo Söderberg"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Computational Study of the Structure and Thermodynamic Properties of  Ammonium Chloride Clusters Using a Parallel J-Walking Approach",
+        "authors": [
+            "Alexander Matro",
+            "David L. Freeman",
+            "Robert Q. Topper"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Influence of wave frequency variation on anomalous cyclotron resonance  interaction of energetic electrons with finite amplitutude ducted  whistler-mode wave",
+        "authors": [
+            "N.S. Erokhin",
+            "N.N. Zolnikova",
+            "M.J. Rycroft",
+            "D. Nunn"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Negative-Energy Perturbations in Circularly Cylindrical Equilibria  within the Framework of Maxwell-Drift Kinetic Theory",
+        "authors": [
+            "G. N. Throumoulopoulos",
+            "D. Pfirsch"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Mode Coupling in Space and Time Varying Anisotropic Absorbing Plasmas",
+        "authors": [
+            "Bijan Sheikholeslami Sabzevari"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "On the Problem of the Coupled Cavity Chain Characteristic Calculations",
+        "authors": [
+            "M.I.Ayzatsky"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "On Two-cavity Coupling",
+        "authors": [
+            "M.I.Ayzatsky"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Analytical Solutions in the Two-cavity Coupling Problem",
+        "authors": [
+            "M.I.Ayzatsky"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Ionization of hydrogen and hydrogenic ions by antiprotons",
+        "authors": [
+            "D.R. Schultz",
+            "P.S. Krstic",
+            "C.O. Reinhold",
+            "J.C. Wells"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Quantum Reservoir Engineering",
+        "authors": [
+            "J.F. Poyatos",
+            "J. I. Cirac",
+            "P. Zoller"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Direct Probing of Quantum Phase Space by Photon Counting",
+        "authors": [
+            "Konrad Banaszek",
+            "Krzysztof Wodkiewicz"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Interaction of Charged 3D Soliton with Coulomb Center",
+        "authors": [
+            "Yu. P. Rybakov",
+            "B. Saha"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Density Matrix Functional Calculations for Matter in Strong Magnetic  Fields: I. Atomic Properties",
+        "authors": [
+            "Kristinn Johnsen",
+            "Jakob Yngvason"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Giant Coulomb broadening and Raman lasing on ionic transitions",
+        "authors": [
+            "A.A. Apolonsky",
+            "S.A. Babin",
+            "A.I. Chernykh",
+            "S.I. Kablukov",
+            "S.V. Khorev",
+            "E.V. Podivilov",
+            "D.A. Shapiro"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "TM-Surface Waves along the Boundary between two Nonlinear Anisotropic  Dielectrics",
+        "authors": [
+            "Yu. P. Rybakov",
+            "B. Saha"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Some remarks on the two-electron atom",
+        "authors": [
+            "M. Apostol"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Decoherence in Ion Trap Quantum Computers",
+        "authors": [
+            "Anupam Garg"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Energy-Conserving Truncations for Convection with Shear Flow",
+        "authors": [
+            "Jean-Luc Thiffeault",
+            "Wendell Horton"
+        ],
+        "subject": "Chaotic Dynamics"
+    },
+    {
+        "title": "Correlation Energy Estimators based on Møller-Plesset Perturbation  Theory",
+        "authors": [
+            "Herbert H. H. Homeier"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "A Symmetry Adapted Approach to Molecular Spectroscopy: The Anharmonic  Oscillator Symmetry Model",
+        "authors": [
+            "A. Frank",
+            "R. Lemus",
+            "R. Bijker",
+            "F. Perez-Bernal",
+            "J.M. Arias"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "On the relation between algebraic and configuration space calculations  of molecular vibrations",
+        "authors": [
+            "F. Perez-Bernal",
+            "R. Bijker",
+            "A. Frank",
+            "R. Lemus",
+            "J.M. Arias"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Bond angle distribution in amorphous germania and silica",
+        "authors": [
+            "J. Neuefeind",
+            "K. D. Liss"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "On the energy spectrum of the C60-fullerene anion",
+        "authors": [
+            "M. Apostol"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "From Heisenberg matrix mechanics to EBK quantization: theory and first  applications",
+        "authors": [
+            "Wm. R. Greenberg",
+            "Abraham Klein",
+            "Ivalyo Zlatev",
+            "C. T. Li"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Motional diminishing of optical activity: a novel method for studying  molecular dynamics in liquids and plastic crystals",
+        "authors": [
+            "Michael C. Martin",
+            "Laszlo Mihaly"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Muon Collider Design",
+        "authors": [
+            "R. Palmer",
+            "A. Sessler",
+            "A. Skrinsky",
+            "A. Tollestrup",
+            "A. Baltz",
+            "S. Caspi",
+            "P. Chen",
+            "W-H. Cheng",
+            "Y. Cho",
+            "D. Cline",
+            "E. Courant",
+            "R. Fernow",
+            "J. Gallardo",
+            "A. Garren",
+            "H. Gordon",
+            "M. Green",
+            "R. Gupta",
+            "A. Hershcovitch",
+            "C. Johnstone",
+            "S. Kahn",
+            "H. Kirk",
+            "T. Kycia",
+            "Y. Lee",
+            "D. Lissauer",
+            "A. Luccio",
+            "A. McInturff",
+            "F. Mills",
+            "N. Mokhov",
+            "G. Morgan",
+            "D. Neuffer",
+            "K-Y. Ng",
+            "R. Noble",
+            "J. Norem",
+            "B. Norum",
+            "K. Oide",
+            "Z. Parsa",
+            "V. Polychronakos",
+            "M. Popovic",
+            "P. Rehak",
+            "T. Roser",
+            "R. Rossmanith",
+            "R. Scanlan",
+            "L. Schachinger",
+            "G. Silvestrov",
+            "I. Stumer",
+            "D. Summers",
+            "M. Syphers",
+            "H. Takahashi",
+            "Y. Torun",
+            "D. Trbojevic",
+            "W. Turner",
+            "A. Van Ginneken",
+            "T. Vsevolozhskaya",
+            "R. Weggel",
+            "E. Willen",
+            "W. Willis",
+            "D. Winn",
+            "J. Wurtele",
+            "Y. Zhao"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Polarized Beams in a Muon Collider",
+        "authors": [
+            "B. Norum",
+            "R. Rossmanith"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Design of the Muon Collider Lattice: Present Status",
+        "authors": [
+            "A. Garren",
+            "E. Courant",
+            "J. Gallardo",
+            "R. Palmer",
+            "D. Trbojevic",
+            "C. Johnstone",
+            "K-Y. Ng"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Approximate Analytical Description of the Underdense Short Plasma Lens",
+        "authors": [
+            "A. Amatuni"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "An Atom Laser Based on Raman Transitions",
+        "authors": [
+            "G.M. Moy",
+            "J.J. Hope",
+            "C.M. Savage"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Hall-Effect for Neutral Atoms",
+        "authors": [
+            "A.P. Kasantsev",
+            "A.M. Dykhne",
+            "V.L. Pokrovsky"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Atomic Data for Permitted Resonance Lines of Atoms and Ions from H to  Si, and S, Ar, Ca and Fe",
+        "authors": [
+            "D. A. Verner",
+            "E. M. Verner",
+            "G. J. Ferland"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Evanescent wave diffraction of multi-level atoms",
+        "authors": [
+            "D. Gordon",
+            "C. M. Savage"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Limits on the monopole magnetic field from measurements of the electric  dipole moments of atoms, molecules and the neutron",
+        "authors": [
+            "V. V. Flambaum",
+            "D. W. Murray"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Electromagnetic modes of Maxwell fisheye lens",
+        "authors": [
+            "H.C. Rosu",
+            "M. Reyes"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Interaction of a slow monopole with a hydrogen atom",
+        "authors": [
+            "Ya. M. Shnir"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Right-unitary transformation theory and applications",
+        "authors": [
+            "Zhong Tang"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Bayes linear variance adjustment for time series",
+        "authors": [
+            "Darren J Wilkinson"
+        ],
+        "subject": "Data Analysis, Statistics and Probability"
+    },
+    {
+        "title": "Van der Waals clusters in the ultra-quantum limit: a Monte Carlo study",
+        "authors": [
+            "M. Meierovich",
+            "A. Mushinski",
+            "M. P. Nightingale"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Boson-realization model for the vibrational spectra of tetrahedral  molecules",
+        "authors": [
+            "Zhong-Qi Ma",
+            "Xi-Wen Hou",
+            "Mi Xie"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Solvent mode participation in the non-radiative relaxation of the  hydrated electron",
+        "authors": [
+            "Oleg V. Prezhdo",
+            "Peter J. Rossky"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "A Criterion That Determines Fast Folding of Proteins: A Model Study",
+        "authors": [
+            "Carlos J. Camacho",
+            "D. Thirumalai"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "A general algebraic model for molecular vibrational spectroscopy",
+        "authors": [
+            "A. Frank",
+            "R. Lemus",
+            "R. Bijker",
+            "F. Perez-Bernal",
+            "J.M. Arias"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Ion-Chain Dynamics in Polymer Electrolytes",
+        "authors": [
+            "L. D. Carlos",
+            "A. L. L. Videira"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Theory for the Ultrafast Structural Response of optically excited small  clusters: Time-dependence of the Ionization Potential",
+        "authors": [
+            "H.O. Jeschke",
+            "M.E. Garcia",
+            "K.H Bennemann"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Electronic Structures in C60-Polymers (review)",
+        "authors": [
+            "Kikuo Harigaya"
+        ],
+        "subject": "Materials Science"
+    },
+    {
+        "title": "Electrostatic Ion Perturbations in Unmagnetized Plasma Shear Flow",
+        "authors": [
+            "A.D. Rogava",
+            "G.D. Chagelishvili",
+            "V.I. Berezhiani"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Relativistic ponderomotive force, uphill acceleration, and transition to  chaos",
+        "authors": [
+            "D. Bauer",
+            "P. Mulser",
+            "W.-H. Steeb"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Special-relativistic model flows of viscous fluid",
+        "authors": [
+            "A.D. Rogava"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "A tracking algorithm for the stable spin polarization field in storage  rings using stroboscopic averaging",
+        "authors": [
+            "K. Heinemann",
+            "G. H. Hoffstatter"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Orbit Dynamics for Unstable Linear Motion",
+        "authors": [
+            "G. Parzen"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Physical Complexity of Symbolic Sequences",
+        "authors": [
+            "C. Adami",
+            "N.J. Cerf"
+        ],
+        "subject": "Adaptation and Self-Organizing Systems"
+    },
+    {
+        "title": "Kardar-Parisi-Zhang model for the fractal structure of cumulus cloud  fields",
+        "authors": [
+            "Jon D. Pelletier"
+        ],
+        "subject": "Atmospheric and Oceanic Physics"
+    },
+    {
+        "title": "Analysis and modeling of scale-invariance in plankton abundance",
+        "authors": [
+            "Jon D. Pelletier"
+        ],
+        "subject": "Atmospheric and Oceanic Physics"
+    },
+    {
+        "title": "Ionization of the hydrogen atom in strong magnetic fields: beyond the  adiabatic approximation",
+        "authors": [
+            "A.Y. Potekhin",
+            "G.G. Pavlov",
+            "J. Ventura"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Frequency Separation for Relaxation Problems",
+        "authors": [
+            "S.Alexiou"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Problems with Standard Semiclassical Stark Broadening Theory",
+        "authors": [
+            "S.Alexiou"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "UV and X-ray Spectral Lines of FeXXIII Ion for Plasma Diagnostics",
+        "authors": [
+            "Izumi Murakami",
+            "Takako Kato"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Hyperfine interactions between electrons",
+        "authors": [
+            "R. Haeckl",
+            "H. Pilkuhn"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Actio causes reactio: Gravito-optical trapping of three-level atoms",
+        "authors": [
+            "Karl-Peter Marzlin",
+            "Jürgen Audretsch"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Single-Mode Cavity-QED of a Raman Interaction",
+        "authors": [
+            "N. Nayak",
+            "S. S. Hassan",
+            "T. Biswas"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Influence of nearly resonant light on the scattering length in  low-temperature atomic gases",
+        "authors": [
+            "P.O. Fedichev",
+            "Yu. Kagan",
+            "G.V. Shlyapnikov",
+            "J.T.M. Walraven"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Three-body recombination of ultra-cold atoms to a weakly bound $s$ level",
+        "authors": [
+            "P.O. Fedichev",
+            "M.W. Reynolds",
+            "G.V. Shlyapnikov"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Analytic Description of the Motion of a Trapped Ion in an Even or Odd  Coherent State",
+        "authors": [
+            "Michael Martin Nieto"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Symmetry-adapted algebraic description of stretching and bending  vibrations of ozone",
+        "authors": [
+            "F. Perez-Bernal",
+            "J.M. Arias",
+            "A. Frank",
+            "R. Lemus",
+            "R. Bijker"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Identification of Amino Acid Sequences with Good Folding Properties in  an Off-Lattice Model",
+        "authors": [
+            "Anders Irbäck",
+            "Carsten Peterson",
+            "Frank Potthast"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Extended Two--Particle Green's Functions and Optical Potentials for  Two--Particle Scattering by Many--Body Targets",
+        "authors": [
+            "Joachim Brand",
+            "Lorenz S. Cederbaum"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "On the Stability of Endohedral Rare Gas Fullerenes",
+        "authors": [
+            "Dennis P. Clougherty"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "On the Estimates to Measure Hawking Effect and Unruh Effect in the  Laboratory",
+        "authors": [
+            "H.C. Rosu"
+        ],
+        "subject": "General Relativity and Quantum Cosmology"
+    },
+    {
+        "title": "Entropic \"sound\" in the atmosphere",
+        "authors": [
+            "B.-F. Apostol",
+            "S. Stefan",
+            "M. Apostol"
+        ],
+        "subject": "Atmospheric and Oceanic Physics"
+    },
+    {
+        "title": "Evolution of a Bose-condensed gas under variations of the confining  potential",
+        "authors": [
+            "Yu. Kagan",
+            "E.L. Surkov",
+            "G.V. Shlyapnikov"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Influence of radiative interatomic collisions on an atom laser",
+        "authors": [
+            "T.W. Hijmans",
+            "G.V. Shlyapnikov",
+            "A.L. Burin"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Bloch oscillations: atom optical interpretation, realizations, and  applications",
+        "authors": [
+            "Karl-Peter Marzlin",
+            "Juergen Audretsch"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Continuous Observation of Interference Fringes from Bose Condensates",
+        "authors": [
+            "J.I.Cirac",
+            "C.W.Gardiner",
+            "M.Naraschewski",
+            "P.Zoller"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Interference of Bose condensates",
+        "authors": [
+            "M. Naraschewski",
+            "H. Wallis",
+            "A. Schenzle",
+            "J.I. Cirac",
+            "P. Zoller"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Analytic Description of the Motion of a Trapped Ion in an Even or Odd  Squeezed State",
+        "authors": [
+            "Michael Martin Nieto"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Stimulation of Beta Decay due to a Bose-Einstein Condensate",
+        "authors": [
+            "J.J. Hope",
+            "C.M. Savage"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Electron Impact Excitation Cross Sections for Hydrogen-Like Ions",
+        "authors": [
+            "V.Fisher",
+            "Yu.V.Ralchenko",
+            "V.Bernshtam",
+            "A.Goldgirsh",
+            "Y.Maron",
+            "L.A.Vainshtein",
+            "I.Bray",
+            "H.Golten"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "The energy dependence of relativistic nonradiative electron capture",
+        "authors": [
+            "J F McCann",
+            "J T Glass",
+            "D S F Crothers"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Charge transfer excitons in C60-dimers and polymers",
+        "authors": [
+            "K. Harigaya"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "A local anharmonic treatment of vibrations of methane",
+        "authors": [
+            "R. Lemus",
+            "F. Perez-Bernal",
+            "A. Frank",
+            "R. Bijker",
+            "J.M. Arias"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Anomalous density dependence of static friction in sand",
+        "authors": [
+            "Viktor K. Horváth",
+            "Imre M. Jánosi",
+            "Péter J. Vella"
+        ],
+        "subject": "Condensed Matter"
+    },
+    {
+        "title": "An Investigation of Stochastic Cooling in the Framework of Control  Theory",
+        "authors": [
+            "O. Meincke"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Impedances and Power Losses for an Off-Axis Beam",
+        "authors": [
+            "Sergey S. Kurennoy"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "A Scintillating Fiber Hodoscope for a Bremstrahlung Luminosity Monitor  at an Electron$-$Positron Collider",
+        "authors": [
+            "D.H. Brown",
+            "D.H. Orlov",
+            "G.S. Varner",
+            "W.A. Worstell",
+            "S.I. Redin"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Cross-Section Alignment of Oblate Grains",
+        "authors": [
+            "Alex Lazarian",
+            "Michael Efroimsky"
+        ],
+        "subject": "Astrophysics"
+    },
+    {
+        "title": "An adaptive hierarchical particle-mesh code with isolated boundary  conditions",
+        "authors": [
+            "Sergio Gelato",
+            "David F. Chernoff",
+            "Ira Wasserman"
+        ],
+        "subject": "Astrophysics"
+    },
+    {
+        "title": "State Measurements with Short Laser Pulses and Lower-Efficiency Photon  Detectors",
+        "authors": [
+            "Almut Beige",
+            "Gerhard C. Hegerfeldt"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Variational calculations of dispersion coefficients for interactions  between H, He, and Li atoms",
+        "authors": [
+            "Zong-Chao Yan",
+            "James F. Babb",
+            "A. Dalgarno",
+            "G. W. F. Drake"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Centrifugal Effects in a Bose-Einstein Condensate",
+        "authors": [
+            "A.B. Kuklov",
+            "N. Chencinski",
+            "A.M. Levine",
+            "W.M. Schreiber",
+            "Joseph L. Birman"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Ursell Operators in Statistical Physics III: thermodynamic properties of  degenerate gases",
+        "authors": [
+            "P. Grüter",
+            "F. Laloë",
+            "A.E. Meyerovich",
+            "W. Mullin"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Nature of the Darwin term and ${(Zα)^4 m^3/M^2}$ contribution to  the Lamb shift for an arbitrary spin of the nucleus",
+        "authors": [
+            "I.B. Khriplovich",
+            "A.I. Milstein",
+            "R.A. Sen'kov"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Spin-rotation coupling in ferromagnetic clusters",
+        "authors": [
+            "G.F. Bertsch",
+            "V. Visuthikraisee"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Stability and Teller's Theorem: A Thomas-Fermi Theory of Fullerenes",
+        "authors": [
+            "Dennis P. Clougherty",
+            "Xiang Zhu"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "On a Thomas-Fermi model of \"hollow\" atom",
+        "authors": [
+            "M. Apostol"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Non-coordinate time/velocity pairs in special relativity",
+        "authors": [
+            "P. Fraundorf"
+        ],
+        "subject": "General Relativity and Quantum Cosmology"
+    },
+    {
+        "title": "Ionization equilibrium of hot hydrogen plasma",
+        "authors": [
+            "A.Y.Potekhin"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Localized structures of electromagnetic waves in hot  electron-positronplasmas",
+        "authors": [
+            "S. Kartal",
+            "N. Tsintsadze",
+            "V.I. Berezhiani"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Interdecadal variability and oceanic thermohaline adjustment",
+        "authors": [
+            "Richard J. Greatbatch",
+            "K. Andrew Peterson"
+        ],
+        "subject": "Atmospheric and Oceanic Physics"
+    },
+    {
+        "title": "A magnetic tomography of a cavity state",
+        "authors": [
+            "R. Walser",
+            "J.I. Cirac",
+            "P.Zoller"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Quantized Fields in a Nonlinear Dielectric Medium: A Microscopic  Approach",
+        "authors": [
+            "Mark Hillery",
+            "Leonard Mlodinow"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Monte Carlo Optimization of Trial Wave Functions in Quantum Mechanics  and Statistical Mechanics",
+        "authors": [
+            "M. P. Nightingale",
+            "C.J. Umrigar"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "A Dynamical Theory of Electron Transfer: Crossover from Weak to Strong  Electronic Coupling",
+        "authors": [
+            "Juergen T. Stockburger",
+            "C.H. Mak"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "$ΔI=4$ and $ΔI=8$ bifurcations in rotational bands of  diatomic molecules",
+        "authors": [
+            "Dennis Bonatsos",
+            "C. Daskaloyannis",
+            "G. A. Lalazissis",
+            "S. B. Drenska",
+            "N. Minkov",
+            "P. P. Raychev",
+            "R. P. Roussev"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Relation between a Screened Polyelectrolyte and a Field Theory",
+        "authors": [
+            "Bo Soderberg"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Applications of the Optimized Effective Potential Method of Density  Functional Theory to Atomic and Molecular Systems",
+        "authors": [
+            "T. Grabo",
+            "E.K.U. Gross"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "On the conical refraction of hydromagnetic waves in plasma with  anisotropic thermal pressure: general consideration",
+        "authors": [
+            "David Tsiklauri"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Magnetohydrodynamic equilibria of a cylindrical plasma with poloidal  mass flow and arbitrary cross section shape",
+        "authors": [
+            "G. N. Throumoulopoulos",
+            "G. Pantis"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Calculation of the dynamic aperture in the ANKA storage ring with a  high-field wavelength shifter",
+        "authors": [
+            "U. Bandow",
+            "D. Einfeld",
+            "T. Hezel",
+            "H.O. Moser",
+            "R. Rossmanith",
+            "J. Schaper"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Polarization in a Muon Collider",
+        "authors": [
+            "D. Cline",
+            "B. Norum",
+            "R. Rossmanith"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Selfacceleration of Electrons in One-dimensional Bunches, Moving in Cold  Plasma",
+        "authors": [
+            "A. Amatuni"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "A High Current Proton Linac with 352 MHz SC Cavities",
+        "authors": [
+            "C. Pagani",
+            "G. Bellomo",
+            "P. Pierini"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Coupling Impedances of Azimuthally Symmetric Obstacles of  Semi-Elliptical Shape in a Beam Pipe",
+        "authors": [
+            "Robert L. Gluckstern",
+            "Sergey S. Kurennoy"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Beam Coupling Impedances of Obstacles Protruding into Beam Pipe",
+        "authors": [
+            "Sergey S. Kurennoy"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Sub-Suns and Low Reynolds Number Flow",
+        "authors": [
+            "J. I. Katz"
+        ],
+        "subject": "Atmospheric and Oceanic Physics"
+    },
+    {
+        "title": "Operational Theory of Homodyne Detection",
+        "authors": [
+            "Konrad Banaszek",
+            "Krzysztof Wodkiewicz"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Can We Distinguish Between the Grand Canonical and the Canonical  Ensemble in a BEC Experiment?",
+        "authors": [
+            "C. Herzog",
+            "M. Ol'Shanii"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Local computation of influence propagation through Bayes linear belief  networks",
+        "authors": [
+            "Darren J Wilkinson"
+        ],
+        "subject": "Data Analysis, Statistics and Probability"
+    },
+    {
+        "title": "A Variational Approach to the Structure and Thermodynamics of Linear  Polyelectrolytes with Coulomb and Screened Coulomb Interactions",
+        "authors": [
+            "B. Jönsson",
+            "C. Peterson",
+            "B. Söderberg"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "A Computational Study of Thirteen-atom Ar-Kr Cluster Heat Capacities",
+        "authors": [
+            "Don D. Frantz"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Theory of the Spatio-Temporal Dynamics of Transport Bifurcations",
+        "authors": [
+            "V.B. Lebedev",
+            "P.H. Diamond"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Iso-topological relaxation, coherent structures, and Gaussian turbulence  in two dimensional magnetohydrodynamics",
+        "authors": [
+            "M. B. Isichenko",
+            "A. V. Gruzinov"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Exact time evolution and master equations for the damped harmonic  oscillator",
+        "authors": [
+            "Robert Karrlein",
+            "Hermann Grabert"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Comment on Enhanced TKE Dissipation under Breaking Waves",
+        "authors": [
+            "Gerrit Burgers"
+        ],
+        "subject": "Atmospheric and Oceanic Physics"
+    },
+    {
+        "title": "Harmonic analysis of random number generators and multiplicative groups  of residue class rings",
+        "authors": [
+            "Oliver Schnetz"
+        ],
+        "subject": "Computational Physics"
+    },
+    {
+        "title": "Harmonic analysis of random number generators",
+        "authors": [
+            "Oliver Schnetz"
+        ],
+        "subject": "Computational Physics"
+    },
+    {
+        "title": "Resistive Magnetohydrodynamic Equilibria in a Torus",
+        "authors": [
+            "David Montgomery",
+            "Jason W. Bates",
+            "H. Ralph Lewis"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Toroidal Vortices in Resistive Magnetohydrodynamic Equilibria",
+        "authors": [
+            "David Montgomery",
+            "Jason W. Bates",
+            "Shuojun Li"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Jets from Collapsing Bubbles",
+        "authors": [
+            "J. I. Katz"
+        ],
+        "subject": "Fluid Dynamics"
+    },
+    {
+        "title": "Future Colliders",
+        "authors": [
+            "R. B. Palmer",
+            "J. C. Gallardo"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "High Luminosity Muon Collider Design",
+        "authors": [
+            "R. B. Palmer",
+            "J. C. Gallardo"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Local Interactions and Protein Folding: A 3D Off-Lattice Approach",
+        "authors": [
+            "Anders Irbäck",
+            "Carsten Peterson",
+            "Frank Potthast",
+            "Ola Sommelius"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "The Non-Organic Theory of the Genesis of Petroleum",
+        "authors": [
+            "Samar Abbas"
+        ],
+        "subject": "Atmospheric and Oceanic Physics"
+    },
+    {
+        "title": "Limited-Diffraction Solutions to Maxwell and to Schroedinger Equations",
+        "authors": [
+            "Jian-yu Lu",
+            "J. F. Greenleaf",
+            "Erasmo Recami"
+        ],
+        "subject": "General Physics"
+    },
+    {
+        "title": "Life and Water",
+        "authors": [
+            "H.C. Rosu"
+        ],
+        "subject": "Popular Physics"
+    },
+    {
+        "title": "Uniqueness in Relativistic Hydrodynamics",
+        "authors": [
+            "Peter Kostaedt",
+            "Mario Liu"
+        ],
+        "subject": "Fluid Dynamics"
+    },
+    {
+        "title": "A Simplified Approach to Optimally Controlled Quantum Dynamics",
+        "authors": [
+            "Jair Botina",
+            "Herschel Rabitz",
+            "Naseem Rahman"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Laying the ghost of the relativistic temperature transformation",
+        "authors": [
+            "P.T. Landsberg",
+            "G.E.A. Matsas"
+        ],
+        "subject": "General Physics"
+    },
+    {
+        "title": "Note on the dynamic instability of microtubules",
+        "authors": [
+            "H.C. Rosu"
+        ],
+        "subject": "Biological Physics"
+    },
+    {
+        "title": "Consistent analytical approach for the quasiclassical radial dipole  matrix elements",
+        "authors": [
+            "B. Kaulakys"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "A Fast Algorithm for High-Dimensional Markov Processes with Finite Sets  of Transition Rates",
+        "authors": [
+            "Hans E. Plesser",
+            "Dietmar Wendt"
+        ],
+        "subject": "Computational Physics"
+    },
+    {
+        "title": "Quantum Interference in Three Photon Down Conversion",
+        "authors": [
+            "Konrad Banaszek",
+            "Peter L. Knight"
+        ],
+        "subject": "Optics"
+    },
+    {
+        "title": "On the mechanism of decadal oscillations in a coarse resolution ocean  model",
+        "authors": [
+            "G. Lenderink",
+            "R.J. Haarsma"
+        ],
+        "subject": "Atmospheric and Oceanic Physics"
+    },
+    {
+        "title": "Phase Coexistence Properties of Polarizable Stockmayer Fluids",
+        "authors": [
+            "Kenji Kiyohara",
+            "Keith E. Gubbins",
+            "Athanassios Z. Panagiotopoulos"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Prediction of Phase Transition in CaSiO$_3$ Perovskite and Implications  for Lower Mantle Structure",
+        "authors": [
+            "Lars Stixrude",
+            "Ronald E. Cohen",
+            "Rici Yu",
+            "Henry Krakauer"
+        ],
+        "subject": "Geophysics"
+    },
+    {
+        "title": "Accuracy of Sampling Quantum Phase Space in Photon Counting Experiment",
+        "authors": [
+            "Konrad Banaszek",
+            "Krzysztof Wodkiewicz"
+        ],
+        "subject": "Optics"
+    },
+    {
+        "title": "Hydrodynamic and N-body Schemes On An Unstructured, Adaptive Mesh with  Applications to Cosmological Simulations",
+        "authors": [
+            "Guohong Xu"
+        ],
+        "subject": "Astrophysics"
+    },
+    {
+        "title": "Superheated Droplet Detectors as CDM Detectors: The SIMPLE Experiment",
+        "authors": [
+            "J.I. Collar",
+            "T.A. Girard",
+            "D. Limagne",
+            "G. Waysand"
+        ],
+        "subject": "Astrophysics"
+    },
+    {
+        "title": "A Possible Nanometer-scale Computing Device Based on an Adding Cellular  Automaton",
+        "authors": [
+            "Simon C. Benjamin",
+            "Neil F. Johnson"
+        ],
+        "subject": "Mesoscale and Nanoscale Physics"
+    },
+    {
+        "title": "A nonequilibrium equality for free energy differences",
+        "authors": [
+            "C. Jarzynski"
+        ],
+        "subject": "Statistical Mechanics"
+    },
+    {
+        "title": "Laser cooling of electron beams for linear colliders",
+        "authors": [
+            "Valery Telnov"
+        ],
+        "subject": "High Energy Physics - Experiment"
+    },
+    {
+        "title": "Physical and Cosmological Implications of a Possible Class of Particles  Able to Travel Faster than Light",
+        "authors": [
+            "Luis Gonzalez-Mestres"
+        ],
+        "subject": "High Energy Physics - Phenomenology"
+    },
+    {
+        "title": "Knots and Particles",
+        "authors": [
+            "L. Faddeev",
+            "Antti J. Niemi"
+        ],
+        "subject": "High Energy Physics - Theory"
+    },
+    {
+        "title": "Direct Transition to Spatiotemporal Chaos in Low Prandtl Number Fluids",
+        "authors": [
+            "Hao-wen Xi",
+            "Xiao-jun Li",
+            "J. D. Gunton"
+        ],
+        "subject": "Pattern Formation and Solitons"
+    },
+    {
+        "title": "On Stern-Gerlach forces allowed by special relativity and the special  case of the classical spinning particle of Derbenev-Kondratenko",
+        "authors": [
+            "K. Heinemann"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "An Explicit Construction of Casimir Operators and Eigenvalues:II",
+        "authors": [
+            "H.R. Karadayi",
+            "M. Gungormez"
+        ],
+        "subject": "Mathematical Physics"
+    },
+    {
+        "title": "Retarded long-range potentials for the alkali-metal atoms and a  perfectly conducting wall",
+        "authors": [
+            "M. Marinescu",
+            "A. Dalgarno",
+            "J. F. Babb"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Eight-component differential equation for leptonium",
+        "authors": [
+            "R. Haeckl",
+            "V. Hund",
+            "H. Pilkuhn"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Formation of antihydrogen atoms in an ultra-cold positron-antiproton  plasma",
+        "authors": [
+            "P. O. Fedichev"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "The General Structure of Eigenvalues of Non-linear Oscillators",
+        "authors": [
+            "Achilles D. Speliotopoulos"
+        ],
+        "subject": "Mathematical Physics"
+    },
+    {
+        "title": "Coherent Population Trapping with Losses on the Sodium D1 Line Hanle  Effect",
+        "authors": [
+            "F. Renzoni",
+            "W. Maichen",
+            "L. Windholz",
+            "E. Arimondo"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Non-Recursive Multiplicity Formulas for $A_N$ Lie Algebras",
+        "authors": [
+            "H. R. Karadayi"
+        ],
+        "subject": "Mathematical Physics"
+    },
+    {
+        "title": "A Note on the Relativistic Covariance of the $B-$ Cyclic Relations",
+        "authors": [
+            "Valeri V. Dvoeglazov"
+        ],
+        "subject": "Classical Physics"
+    },
+    {
+        "title": "Quasi-Monte Carlo, Discrepancies and Error Estimates",
+        "authors": [
+            "Fred James",
+            "Jiri Hoogland",
+            "Ronald Kleiss"
+        ],
+        "subject": "Computational Physics"
+    },
+    {
+        "title": "A one-map two-clock approach to teaching relativity in introductory  physics",
+        "authors": [
+            "P. Fraundorf"
+        ],
+        "subject": "Physics Education"
+    },
+    {
+        "title": "Influence of the Head Group Size on the Direction of Tilt in Langmuir  Monolayers",
+        "authors": [
+            "F. Schmid",
+            "H. Lange"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Origin of entropy convergence in hydrophobic hydration and protein  folding",
+        "authors": [
+            "Shekhar Garde",
+            "Gerhard Hummer",
+            "Angel E. Garcia",
+            "Michael E. Paulaitis",
+            "Lawrence R. Pratt"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Stochastic resonance in a model neuron with reset",
+        "authors": [
+            "Hans E. Plesser",
+            "Shigeru Tanaka"
+        ],
+        "subject": "Biological Physics"
+    },
+    {
+        "title": "Ramsey type Sub-Recoil Cooling",
+        "authors": [
+            "Frank Sander",
+            "Thibaut Devolder",
+            "Tilman Esslinger",
+            "Theodor W. Hansch"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "A Theory of Measurement Uncertainty Based on Conditional Probability",
+        "authors": [
+            "G. D'Agostini"
+        ],
+        "subject": "Data Analysis, Statistics and Probability"
+    },
+    {
+        "title": "Nonlinear Two-dimensional potential plasma wake waves",
+        "authors": [
+            "A. Amatuni"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Classical $v_{gr} \\neq c$ solutions of Maxwell equations and the  tunneling photon effect",
+        "authors": [
+            "S. Esposito"
+        ],
+        "subject": "Classical Physics"
+    },
+    {
+        "title": "Band Population Measurements in a Purely Optical Dark Lattice",
+        "authors": [
+            "Frank Sander",
+            "Tilman Esslinger",
+            "Theodor W. Hansch",
+            "Herwig Stecher",
+            "Helmut Ritsch"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "An all-optical gray lattice for atoms",
+        "authors": [
+            "H. Stecher",
+            "H. Ritsch",
+            "P. Zoller",
+            "F. Sander",
+            "T. Esslinger",
+            "T. W. Hansch"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "On the squared spin-orbit correction to the positronium fine-structure  splitting",
+        "authors": [
+            "I.B. Khriplovich",
+            "A.I. Milstein",
+            "A.S. Yelkhovsky"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Information physics: From energy to codes",
+        "authors": [
+            "P. Fraundorf"
+        ],
+        "subject": "Physics Education"
+    },
+    {
+        "title": "Ejection Energy of Photoelectrons in Strong Field Ionization",
+        "authors": [
+            "D. Bauer"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Multielectron dissociative ionization of molecules by intense laser  radiation",
+        "authors": [
+            "Miroslaw Brewczyk",
+            "Kazimierz Rzazewski",
+            "Charles W. Clark"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Massively Parallel Computing of Turbulent Transport in Tokamaks",
+        "authors": [
+            "Jeremy Kepner",
+            "Scott Parker",
+            "Viktor Decyk"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Adiabatically changing the phase-space density of a trapped Bose gas",
+        "authors": [
+            "P.W.H. Pinkse",
+            "A. Mosk",
+            "M. Weidemüller",
+            "M.W. Reynolds",
+            "T.W. Hijmans",
+            "J.T.M. Walraven"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Application of a symmetry-adapted algebraic model to the vibratioinal  spectrum of methane",
+        "authors": [
+            "R. Lemus",
+            "F. Perez-Bernal",
+            "A. Frank",
+            "R. Bijker",
+            "J.M. Arias"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Interference of Resonance Fluorescence from two four-level atoms",
+        "authors": [
+            "T. Wong",
+            "S.M. Tan",
+            "M.J. Collett",
+            "D.F. Walls"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "A symmetry-adapted algebraic approach to molecular spectroscopy",
+        "authors": [
+            "A. Frank",
+            "R. Lemus",
+            "R. Bijker",
+            "F. Perez-Bernal",
+            "J.M. Arias"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "On $qp$-Deformations in Statistical Mechanics of Bosons in D Dimensions",
+        "authors": [
+            "M.R. Kibler",
+            "J. Meyer",
+            "M. Daoud"
+        ],
+        "subject": "Statistical Mechanics"
+    },
+    {
+        "title": "Spontaneous Oscillations of Collective Molecular Motors",
+        "authors": [
+            "Frank Julicher",
+            "Jacques Prost"
+        ],
+        "subject": "Soft Condensed Matter"
+    },
+    {
+        "title": "A Dedicated Computer for Ising-like Spin Glass Models",
+        "authors": [
+            "J. Pech",
+            "A. Tarancon",
+            "C. L. Ullod"
+        ],
+        "subject": "High Energy Physics - Lattice"
+    },
+    {
+        "title": "Endpoint Structure in Beta Decay from Coherent Weak-Interaction of the  Neutrino",
+        "authors": [
+            "J. I. Collar"
+        ],
+        "subject": "High Energy Physics - Phenomenology"
+    },
+    {
+        "title": "Vortex Dynamics in Dissipative Systems",
+        "authors": [
+            "Ola Tornkvist",
+            "Elsebeth Schroder"
+        ],
+        "subject": "Pattern Formation and Solitons"
+    },
+    {
+        "title": "Deconstructing Decoherence",
+        "authors": [
+            "J.R. Anglin",
+            "J.P. Paz",
+            "W.H. Zurek"
+        ],
+        "subject": "Quantum Physics"
+    },
+    {
+        "title": "Optical response of small carbon clusters",
+        "authors": [
+            "K. Yabana",
+            "G.F. Bertsch"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Nonlinear Maxwell Equations",
+        "authors": [
+            "G. A. Kotel'nikov"
+        ],
+        "subject": "Classical Physics"
+    },
+    {
+        "title": "Simple supersymmetric methods in neutron diffusion",
+        "authors": [
+            "H.C. Rosu",
+            "J. Socorro"
+        ],
+        "subject": "Mathematical Physics"
+    },
+    {
+        "title": "Developments in time analysis of particle and photon tunnelling",
+        "authors": [
+            "V. S. Olkhovsky",
+            "A. Agresti"
+        ],
+        "subject": "General Physics"
+    },
+    {
+        "title": "Towards a Simple Model of Compressible Alfvenic Turbulence",
+        "authors": [
+            "M.V. Medvedev",
+            "P.H. Diamond"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "A general algebraic model for vibrational molecular spectroscopy",
+        "authors": [
+            "A. Frank",
+            "R. Lemus",
+            "F. Perez-Bernal",
+            "R. Bijker",
+            "J.M. Arias"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "A dynamical model of the chemical bond",
+        "authors": [
+            "Holger F. Hofmann"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Theory for Diffusion-Limited Oscillating Chemical Reactions",
+        "authors": [
+            "H. J. Bussemaker",
+            "R. Brito"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "Casimir invariants and characteristic identities for $gl(\\infty )$",
+        "authors": [
+            "M.D. Gould",
+            "N.I. Stoilova"
+        ],
+        "subject": "Mathematical Physics"
+    },
+    {
+        "title": "A New View of the Universe",
+        "authors": [
+            "Ben Kristoffen"
+        ],
+        "subject": "General Physics"
+    },
+    {
+        "title": "Long-range interactions of lithium atoms",
+        "authors": [
+            "Zong-Chao Yan",
+            "A. Dalgarno",
+            "J. F. Babb"
+        ],
+        "subject": "Atomic Physics"
+    },
+    {
+        "title": "Three-Body Configuration Space Calculations with Hard Core Potentials",
+        "authors": [
+            "E. A. Kolganova",
+            "A. K. Motovilov",
+            "S. A. Sofianos"
+        ],
+        "subject": "Chemical Physics"
+    },
+    {
+        "title": "An efficient algorithm for two-dimensional central-force rigidity",
+        "authors": [
+            "Cristian F. Moukarzel"
+        ],
+        "subject": "Computational Physics"
+    },
+    {
+        "title": "Aharonov-Bohm Effect with $δ$--type Interaction",
+        "authors": [
+            "L. Dabrowski",
+            "P. Stovicek"
+        ],
+        "subject": "Mathematical Physics"
+    },
+    {
+        "title": "Differentials of higher order in non commutative differential geometry",
+        "authors": [
+            "Robert Coquereaux"
+        ],
+        "subject": "Mathematical Physics"
+    },
+    {
+        "title": "Comparisons Between Modeling and Measured Performance of the BNL Linac",
+        "authors": [
+            "D. Raparia",
+            "J. G. Alessi",
+            "A. Kponou"
+        ],
+        "subject": "Accelerator Physics"
+    },
+    {
+        "title": "Fluid Models for Kinetic Effects on Coherent Nonlinear Alfven Waves. I.  Fundamental Theory",
+        "authors": [
+            "M.V. Medvedev",
+            "P.H. Diamond"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Fluid Models for Kinetic Effects on Coherent Nonlinear Alfven Waves. II.  Numerical Solutions",
+        "authors": [
+            "M.V. Medvedev",
+            "V.I. Shevchenko",
+            "P.H. Diamond",
+            "V.L. Galinsky"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Resonance Broadening Induced Nonlinear Saturation of Kinetic Alfven  Turbulence in the Interplanetary Plasma",
+        "authors": [
+            "M.V. Medvedev",
+            "P.H. Diamond"
+        ],
+        "subject": "Plasma Physics"
+    },
+    {
+        "title": "Comments on Biological Effects of Stellar Collapse Neutrinos",
+        "authors": [
+            "Samar Abbas",
+            "Afsar Abbas"
+        ],
+        "subject": "Astrophysics"
+    },
+    {
+        "title": "Galaxy dynamics by N-body simulation",
+        "authors": [
+            "J A Sellwood"
+        ],
+        "subject": "Astrophysics"
+    },
+    {
+        "title": "N-body Simulation of Galaxy Formation on GRAPE-4 Special-Purpose  Computer",
+        "authors": [
+            "Toshiyuki Fukushige",
+            "Junichiro Makino"
+        ],
+        "subject": "Astrophysics"
+    },
+    {
+        "title": "Volcanogenic Dark Matter and Mass Extinctions",
+        "authors": [
+            "Samar Abbas",
+            "Afsar Abbas"
+        ],
+        "subject": "Astrophysics"
+    },
+    {
+        "title": "Nonintegrable Interaction of Ion-Acoustic and Electromagnetic Waves in a  Plasma",
+        "authors": [
+            "Felipe B. Rizzato",
+            "Sergio R. Lopes",
+            "Abraham C.-L. Chian"
+        ],
+        "subject": "Chaotic Dynamics"
+    },
+    {
+        "title": "Properties of Particles Obeying Ambiguous Statistics",
+        "authors": [
+            "M.V. Medvedev"
+        ],
+        "subject": "Statistical Mechanics"
+    },
+    {
+        "title": "Error threshold in the evolution of diploid organisms",
+        "authors": [
+            "Domingos Alves",
+            "J. F. Fontanari"
+        ],
+        "subject": "Disordered Systems and Neural Networks"
+    },
+    {
+        "title": "On the global hydration kinetics of tricalcium silicate cement",
+        "authors": [
+            "Frank Tzschichholz",
+            "Helene Zanni"
+        ],
+        "subject": "Materials Science"
+    },
+    {
+        "title": "Spontaneous photon emission stimulated by two Bose condensates",
+        "authors": [
+            "C.M. Savage",
+            "Janne Ruostekoski",
+            "Dan F. Walls"
+        ],
+        "subject": "Condensed Matter"
+    },
+    {
+        "title": "The Electrostatic Persistence Length Calculated from Monte Carlo,  Variational and Perturbation Methods",
+        "authors": [
+            "M. Ullner",
+            "B. Jönsson",
+            "C. Peterson",
+            "O. Sommelius",
+            "B. Söderberg"
+        ],
+        "subject": "Soft Condensed Matter"
+    },
+    {
+        "title": "Infinite-cluster geometry in central-force networks",
+        "authors": [
+            "Cristian F. Moukarzel",
+            "Phillip M. Duxbury",
+            "P. L. Leath"
+        ],
+        "subject": "Statistical Mechanics"
+    },
+    {
+        "title": "Search for non-Poissonian behavior in nuclear beta-decay",
+        "authors": [
+            "Giorgio Concas",
+            "Marcello Lissia"
+        ],
+        "subject": "Nuclear Experiment"
+    },
+    {
+        "title": "Enhanced T-odd P-odd Electromagnetic Moments in Reflection Asymmetric  Nuclei",
+        "authors": [
+            "V. Spevak",
+            "N. Auerbach",
+            "V.V. Flambaum"
+        ],
+        "subject": "Nuclear Theory"
+    },
+    {
+        "title": "Geometric Stability Analysis for Periodic Solutions of the  Swift-Hohenberg Equation",
+        "authors": [
+            "J.-P. Eckmann",
+            "C.E. Wayne",
+            "P. Wittwer"
+        ],
+        "subject": "Pattern Formation and Solitons"
+    },
+    {
+        "title": "Trapped Fermi gases",
+        "authors": [
+            "D. A. Butts",
+            "D. S. Rokhsar"
+        ],
+        "subject": "Quantum Physics"
+    },
+    {
+        "title": "Displaced and Squeezed Number States",
+        "authors": [
+            "Michael Martin Nieto"
+        ],
+        "subject": "Quantum Physics"
+    }
+]
